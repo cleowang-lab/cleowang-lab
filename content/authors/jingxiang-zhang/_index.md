@@ -39,8 +39,8 @@ status:
 superuser: false
 title: Jingxiang ZHANG
 user_groups:
-- Researchers
-- Postdocs
+- Researchers2
+- Postdocs2
 ---
 
 My research interests are the integrated effects of microbiota in multiple parts of the body on plasma metabolites and the interactions between the host and microbiota during aging.

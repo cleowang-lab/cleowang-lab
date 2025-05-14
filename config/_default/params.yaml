@@ -8,7 +8,7 @@
 appearance:
   theme_day: ntu2
   theme_night: ntu2
-  font: ntu3
+  font: 
   font_size: M
 
 # SEO
@@ -48,7 +48,7 @@ header:
 footer:
   block: minimal2
   copyright:
-    notice: '© {year} Shen Lab @ [Nanyang Technological University](https://www.ntu.edu.sg/)'
+    notice: '© {year} Wang Lab @ [Nanyang Technological University](https://www.ntu.edu.sg/)'
     license:
       enable: false
       allow_derivatives: true
@@ -80,7 +80,7 @@ features:
   privacy_pack:
     enable: true
   repository:
-    url: 'https://github.com/jaspershen-lab/jaspershen-lab'
+    url: 'https://github.com/cleowang-lab/cleowang-lab'
     content_dir: content
     branch: main
     editable: true
@@ -130,5 +130,5 @@ params:
   social:
     - icon: github
       icon_pack: fab
-      link: https://github.com/jaspershen-lab
+      link: https://github.com/cleowang-lab
 

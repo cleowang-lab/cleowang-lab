@@ -9,7 +9,7 @@ author_notes:
 - Equal contribution
 - Equal contribution
 authors:
-- admin
+- Xiaotao Shen
 - Ryan Kellogg
 - Daniel J Panyard
 - Nasim Bararpour
@@ -23,7 +23,7 @@ authors:
 - Kévin Contrepois
 - Basil Michael
 - Ian Simms
-- Chuchu Wang
+- admin
 - Daniel Hornburg
 - Michael Snyder
 doi: ""

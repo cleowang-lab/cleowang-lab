@@ -8,8 +8,8 @@ author_notes:
 - Equal contribution
 
 authors:
+- Xiaotao Shen
 - admin
-- Chuchu Wang
 - Xin Zhou
 - Wenyu Zhou
 - Daniel Hornburg

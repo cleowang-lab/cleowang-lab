@@ -1,82 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>📰 News | Shen Lab</title>
-    <link>https://shen-lab.org/news/</link>
-      <atom:link href="https://shen-lab.org/news/index.xml" rel="self" type="application/rss+xml" />
+    <title>📰 News | Wang Lab</title>
+    <link>https://cleowang-lab.github.io/news/</link>
+      <atom:link href="https://cleowang-lab.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     <description>📰 News</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://shen-lab.org/media/logo_hu5606885a69ebc720faad867579aa5b55_46386_300x300_fit_lanczos_3.png</url>
+      <url>https://cleowang-lab.github.io/media/logo_huc1e8bf6e3a0def47b02e7ddbc8513fba_29358_300x300_fit_lanczos_3.png</url>
       <title>📰 News</title>
-      <link>https://shen-lab.org/news/</link>
+      <link>https://cleowang-lab.github.io/news/</link>
     </image>
     
     <item>
-      <title>2025-02-10 Paper published in Briefings in Bioinformatics</title>
-      <link>https://shen-lab.org/news/2025-2-10-bib/</link>
-      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://shen-lab.org/news/2025-2-10-bib/</guid>
-      <description>&lt;p&gt;Our paper: &lt;em&gt;Longitudinal Urine Metabolic Profiling and Gestational Age Prediction in Pregnancy&lt;/em&gt; has been published in &lt;em&gt;Briefing in Bioinformatics&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;%22featured.png%22&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>2024-09-13 Paper accepted in Nutrients</title>
-      <link>https://shen-lab.org/news/2024-9-13-nutrients/</link>
-      <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://shen-lab.org/news/2024-9-13-nutrients/</guid>
-      <description>&lt;p&gt;Our paper: Interindividual Variability in Postprandial Plasma Fructose Patterns in Adults has been accepted for publication in Nutrients.&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;%22featured.png%22&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>2024-08-14 Paper accepted in Nature Aging</title>
-      <link>https://shen-lab.org/news/2024-8-14-nature-aging/</link>
+      <link>https://cleowang-lab.github.io/news/2024-8-14-nature-aging/</link>
       <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://shen-lab.org/news/2024-8-14-nature-aging/</guid>
+      <guid>https://cleowang-lab.github.io/news/2024-8-14-nature-aging/</guid>
       <description>&lt;p&gt;Our paper: Nonlinear dynamics of multi-omics profiles during human aging has been accepted for publication in Nature Aging.&lt;/p&gt;
 &lt;p&gt;
 
@@ -103,40 +43,10 @@
     </item>
     
     <item>
-      <title>2024-07-05 Paper accepted in American Heart Journal Plus Cardiology Research and Practice</title>
-      <link>https://shen-lab.org/news/2024-7-5-american-heart-journal-plus-cardiology-research-and-practice/</link>
-      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://shen-lab.org/news/2024-7-5-american-heart-journal-plus-cardiology-research-and-practice/</guid>
-      <description>&lt;p&gt;Our paper: Exploring the underlying molecular mechanisms of acute myocardial infarction after SARS-CoV-2 infection has been accepted for publication in American Heart Journal Plus Cardiology Research and Practice.&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;%22featured.png%22&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>2024-06-05 Paper accepted in Nature</title>
-      <link>https://shen-lab.org/news/2024-6-5-nature/</link>
+      <link>https://cleowang-lab.github.io/news/2024-6-5-nature/</link>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://shen-lab.org/news/2024-6-5-nature/</guid>
+      <guid>https://cleowang-lab.github.io/news/2024-6-5-nature/</guid>
       <description>&lt;p&gt;Our paper Structure and topography of the synaptic V-ATPase–synaptophysin complex has been accepted for publication in Cell Host &amp;amp; Microbe.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.nature.com/articles/s41586-024-07610-x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper Link&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
@@ -164,72 +74,10 @@
     </item>
     
     <item>
-      <title>2024-04-10 Paper accepted in Cell Host &amp; Microbe</title>
-      <link>https://shen-lab.org/news/2024-4-10-cell-hose-microbe/</link>
-      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://shen-lab.org/news/2024-4-10-cell-hose-microbe/</guid>
-      <description>&lt;p&gt;Our paper on the role of the gut microbiota in the host human health has been accepted for publication in Cell Host &amp;amp; Microbe. Congratulations to the team!&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1931312824000568?via%3Dihub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper Link&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;%22featured.jpg%22&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>2024-03-27 Paper accepted in Briefings in Bioinformatics</title>
-      <link>https://shen-lab.org/news/2024-3-27-bib/</link>
-      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://shen-lab.org/news/2024-3-27-bib/</guid>
-      <description>&lt;p&gt;Our paper on the Generalized Reporter Score-based Analysis has been accepted for publication in Briefings in Bioinformatics. Congratulations to the team!&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://academic.oup.com/bib/article/25/3/bbae116/7636146?login=true&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper Link&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;%22featured.jpg%22&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>2023-11-23 Opportunities in Shen Lab</title>
-      <link>https://shen-lab.org/news/2023-11-23-recruitment/</link>
+      <link>https://cleowang-lab.github.io/news/2023-11-23-recruitment/</link>
       <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://shen-lab.org/news/2023-11-23-recruitment/</guid>
+      <guid>https://cleowang-lab.github.io/news/2023-11-23-recruitment/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Join Shen Lab at Nanyang Technological University Singapore: Opportunities in Multi-Omics Research for Human Health&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;We are thrilled to announce a range of open positions at Shen Lab, Nanyang Technological University, Singapore. Join our dynamic team, which is spearheading the field of multi-omics research. Our focus lies in developing groundbreaking algorithms and methods to integrate multi-omics data. We particularly emphasize research in microbiome and metabolome and their implications for human health, including aging and pregnancy-related diseases.&lt;/p&gt;
 &lt;p&gt;Dr. Xiaotao Shen has been honored with the esteemed Nanyang Assistant Professorship (NAP). The NAP scheme is awarded to outstanding early career scientists who are exceptional scholars in their field. One of Singapore’s most prestigious awards, this accolade ensures stable funding for the lab, providing a solid foundation for our research endeavors within a highly-ranked global university.”&lt;/p&gt;
@@ -304,38 +152,6 @@
 &lt;p&gt;For &lt;strong&gt;Visiting Scholar&lt;/strong&gt; roles, please forward your CV and a cover letter to &lt;a href=&#34;mailto:xiaotao.shen@ntu.edu.sg&#34;&gt;xiaotao.shen@ntu.edu.sg&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;For the &lt;strong&gt;Laboratory Manager&lt;/strong&gt;, send your CV and a cover letter to &lt;a href=&#34;mailto:xiaotao.shen@ntu.edu.sg&#34;&gt;xiaotao.shen@ntu.edu.sg&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>2023-09-08 Xiaotao Shen presented on 2023 BAMM.</title>
-      <link>https://shen-lab.org/news/2023-bamm/</link>
-      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://shen-lab.org/news/2023-bamm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2023-9-1 Xiaotao Shen presented the nonlinear aging work on 2023 Stanford University Biox Symposium.</title>
-      <link>https://shen-lab.org/news/2023-stanford-biox/</link>
-      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://shen-lab.org/news/2023-stanford-biox/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2023-8-29 Xiaotao Shen presented on CASMS2023.</title>
-      <link>https://shen-lab.org/news/2023-casms-talk/</link>
-      <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://shen-lab.org/news/2023-casms-talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2023-8-29 Xiaotao Shen received the CASMS Young Investigator Award!😀</title>
-      <link>https://shen-lab.org/news/2023-casms-yia/</link>
-      <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://shen-lab.org/news/2023-casms-yia/</guid>
-      <description></description>
     </item>
     
   </channel>

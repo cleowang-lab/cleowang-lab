@@ -4,8 +4,8 @@ theme: "starter-hugo-research-group"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Shen Lab # Website name
-baseURL: 'https://shen-lab.org' # Website URL
+title: Wang Lab # Website name
+baseURL: 'https://cleowang-lab.github.io/' # Website URL
 
 ############################
 ## LANGUAGE

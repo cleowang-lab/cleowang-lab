@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chao Jiang | Shen lab</title>
-    <link>https://shen-lab.org/author/chao-jiang/</link>
-      <atom:link href="https://shen-lab.org/author/chao-jiang/index.xml" rel="self" type="application/rss+xml" />
+    <title>Chao Jiang | Wang Lab</title>
+    <link>https://cleowang-lab.github.io/author/chao-jiang/</link>
+      <atom:link href="https://cleowang-lab.github.io/author/chao-jiang/index.xml" rel="self" type="application/rss+xml" />
     <description>Chao Jiang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 08 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://shen-lab.org/media/logo_hu5606885a69ebc720faad867579aa5b55_46386_300x300_fit_lanczos_3.png</url>
+      <url>https://cleowang-lab.github.io/media/logo_huc1e8bf6e3a0def47b02e7ddbc8513fba_29358_300x300_fit_lanczos_3.png</url>
       <title>Chao Jiang</title>
-      <link>https://shen-lab.org/author/chao-jiang/</link>
+      <link>https://cleowang-lab.github.io/author/chao-jiang/</link>
     </image>
     
     <item>
       <title>Generalized reporter score-based enrichment analysis for omics data</title>
-      <link>https://shen-lab.org/publication/generalized-reporter-score-based-enrichment-analysis-for-omics-data/</link>
+      <link>https://cleowang-lab.github.io/publication/generalized-reporter-score-based-enrichment-analysis-for-omics-data/</link>
       <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://shen-lab.org/publication/generalized-reporter-score-based-enrichment-analysis-for-omics-data/</guid>
+      <guid>https://cleowang-lab.github.io/publication/generalized-reporter-score-based-enrichment-analysis-for-omics-data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Longitudinal profiling of the microbiome at four body sites reveals core stability and individualized dynamics during health and disease</title>
-      <link>https://shen-lab.org/publication/longitudinal-profiling-of-the-microbiome-at-four-body-sites-reveals-core-stability-and-individualized-dynamics-during-health-and-disease/</link>
+      <link>https://cleowang-lab.github.io/publication/longitudinal-profiling-of-the-microbiome-at-four-body-sites-reveals-core-stability-and-individualized-dynamics-during-health-and-disease/</link>
       <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://shen-lab.org/publication/longitudinal-profiling-of-the-microbiome-at-four-body-sites-reveals-core-stability-and-individualized-dynamics-during-health-and-disease/</guid>
+      <guid>https://cleowang-lab.github.io/publication/longitudinal-profiling-of-the-microbiome-at-four-body-sites-reveals-core-stability-and-individualized-dynamics-during-health-and-disease/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Precision environmental health monitoring by longitudinal exposome and multi-omics profiling</title>
-      <link>https://shen-lab.org/publication/precision-environmental-health-monitoring-by-longitudinal-exposome-and-multi-omics-profiling/</link>
+      <link>https://cleowang-lab.github.io/publication/precision-environmental-health-monitoring-by-longitudinal-exposome-and-multi-omics-profiling/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://shen-lab.org/publication/precision-environmental-health-monitoring-by-longitudinal-exposome-and-multi-omics-profiling/</guid>
+      <guid>https://cleowang-lab.github.io/publication/precision-environmental-health-monitoring-by-longitudinal-exposome-and-multi-omics-profiling/</guid>
       <description></description>
     </item>
     

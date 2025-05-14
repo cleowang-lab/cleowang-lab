@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Miao Mo | Shen Lab</title>
-    <link>https://shen-lab.org/author/miao-mo/</link>
-      <atom:link href="https://shen-lab.org/author/miao-mo/index.xml" rel="self" type="application/rss+xml" />
+    <title>Miao Mo | Wang Lab</title>
+    <link>https://cleowang-lab.github.io/author/miao-mo/</link>
+      <atom:link href="https://cleowang-lab.github.io/author/miao-mo/index.xml" rel="self" type="application/rss+xml" />
     <description>Miao Mo</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://shen-lab.org/media/logo_hu5606885a69ebc720faad867579aa5b55_46386_300x300_fit_lanczos_3.png</url>
+      <url>https://cleowang-lab.github.io/media/logo_huc1e8bf6e3a0def47b02e7ddbc8513fba_29358_300x300_fit_lanczos_3.png</url>
       <title>Miao Mo</title>
-      <link>https://shen-lab.org/author/miao-mo/</link>
+      <link>https://cleowang-lab.github.io/author/miao-mo/</link>
     </image>
     
     <item>
       <title>Predicting the pathological response to neoadjuvant chemoradiation using untargeted metabolomics in locally advanced rectal cancer</title>
-      <link>https://shen-lab.org/publication/predicting-the-pathological-response-to-neoadjuvant-chemoradiation-using-untargeted-metabolomics-in-locally-advanced-rectal-cancer/</link>
+      <link>https://cleowang-lab.github.io/publication/predicting-the-pathological-response-to-neoadjuvant-chemoradiation-using-untargeted-metabolomics-in-locally-advanced-rectal-cancer/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://shen-lab.org/publication/predicting-the-pathological-response-to-neoadjuvant-chemoradiation-using-untargeted-metabolomics-in-locally-advanced-rectal-cancer/</guid>
+      <guid>https://cleowang-lab.github.io/publication/predicting-the-pathological-response-to-neoadjuvant-chemoradiation-using-untargeted-metabolomics-in-locally-advanced-rectal-cancer/</guid>
       <description></description>
     </item>
     

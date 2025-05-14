@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alessandra Renieri | Shen Lab</title>
-    <link>https://shen-lab.org/author/alessandra-renieri/</link>
-      <atom:link href="https://shen-lab.org/author/alessandra-renieri/index.xml" rel="self" type="application/rss+xml" />
+    <title>Alessandra Renieri | Wang Lab</title>
+    <link>https://cleowang-lab.github.io/author/alessandra-renieri/</link>
+      <atom:link href="https://cleowang-lab.github.io/author/alessandra-renieri/index.xml" rel="self" type="application/rss+xml" />
     <description>Alessandra Renieri</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://shen-lab.org/media/logo_hu5606885a69ebc720faad867579aa5b55_46386_300x300_fit_lanczos_3.png</url>
+      <url>https://cleowang-lab.github.io/media/logo_huc1e8bf6e3a0def47b02e7ddbc8513fba_29358_300x300_fit_lanczos_3.png</url>
       <title>Alessandra Renieri</title>
-      <link>https://shen-lab.org/author/alessandra-renieri/</link>
+      <link>https://cleowang-lab.github.io/author/alessandra-renieri/</link>
     </image>
     
     <item>
       <title>Multiomic analysis reveals cell-type-specific molecular determinants of COVID-19 severity</title>
-      <link>https://shen-lab.org/publication/multiomic-analysis-reveals-cell-type-specific-molecular-determinants-of-covid-19-severity/</link>
+      <link>https://cleowang-lab.github.io/publication/multiomic-analysis-reveals-cell-type-specific-molecular-determinants-of-covid-19-severity/</link>
       <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://shen-lab.org/publication/multiomic-analysis-reveals-cell-type-specific-molecular-determinants-of-covid-19-severity/</guid>
+      <guid>https://cleowang-lab.github.io/publication/multiomic-analysis-reveals-cell-type-specific-molecular-determinants-of-covid-19-severity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Common and rare variant analyses combined with single-cell multiomics reveal cell-type-specific molecular mechanisms of COVID-19 severity</title>
-      <link>https://shen-lab.org/publication/common-and-rare-variant-analyses-combined-with-single-cell-multiomics-reveal-cell-type-specific-molecular-mechanisms-of-covid-19-severity/</link>
+      <link>https://cleowang-lab.github.io/publication/common-and-rare-variant-analyses-combined-with-single-cell-multiomics-reveal-cell-type-specific-molecular-mechanisms-of-covid-19-severity/</link>
       <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://shen-lab.org/publication/common-and-rare-variant-analyses-combined-with-single-cell-multiomics-reveal-cell-type-specific-molecular-mechanisms-of-covid-19-severity/</guid>
+      <guid>https://cleowang-lab.github.io/publication/common-and-rare-variant-analyses-combined-with-single-cell-multiomics-reveal-cell-type-specific-molecular-mechanisms-of-covid-19-severity/</guid>
       <description></description>
     </item>
     

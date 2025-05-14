@@ -43,8 +43,8 @@ status:
 superuser: false
 title: Yuting WANG
 user_groups:
-- Students
-- Graduate Students
+- Students2
+- Graduate Students2
 ---
 
 My research focuses on leveraging cutting-edge multi-omics technologies and machine learning approaches to capture the molecular features and dynamic trajectories of human aging and age-related diseases. I am also interested in developing bioinformatics tools to address current gaps in omics data analysis, with a particular emphasis on metabolomics.

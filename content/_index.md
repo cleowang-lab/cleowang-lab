@@ -10,52 +10,7 @@ sections:
       background:
         color: '#666'
         image:
-          filename: h&m-2025-2.png
-          filters:
-            brightness: 0.6
-        position: right
-      content: 
-      link:
-        icon: link
-        icon_pack: fas
-        text: Link
-        url: ../publication/application-of-llms-transformer-based-models-for-metabolite-annotation-in-metabolomics/
-      title: "New publication: Application of LLMs/Transformer-Based Models for Metabolite Annotation in Metabolomics"
-    - align: center
-      background:
-        color: '#666'
-        image:
-          filename: h&m-2025.png
-          filters:
-            brightness: 0.6
-        position: right
-      content: 
-      link:
-        icon: link
-        icon_pack: fas
-        text: Link
-        url: ../publication/application-of-wearable-devices-in-diabetes-management/
-      title: "New publication: Application of Wearable Devices in Diabetes Management"
-    - align: center
-      background:
-        color: '#666'
-        image:
-          filename: bib-2025-pregnancy.png
-          filters:
-            brightness: 0.6
-        position: right
-      content: 
-      link:
-        icon: link
-        icon_pack: fas
-        text: Link
-        url: ../publication/longitudinal-urine-metabolic-profiling-and-gestational-age-prediction-in-pregnancy/
-      title: "New publication: Longitudinal Urine Metabolic Profiling and Gestational Age Prediction in Pregnancy"
-    - align: center
-      background:
-        color: '#666'
-        image:
-          filename: multi-omics4.jpg
+          filename: research.jpg
           filters:
             brightness: 0.7
         position: right
@@ -65,12 +20,12 @@ sections:
         icon_pack: fas
         text: Research
         url: ../research/
-      title: "👋 Welcome to Shen Lab@NTU, Singapore 👋"
+      title: "👋 Welcome to Wang Lab@NTU, Singapore 👋"
     - align: center
       background:
         color: '#333'
         image:
-          filename: group_photo3.png
+          filename: group_photo2.jpg
           filters:
             brightness: 0.8
         position: center
@@ -85,7 +40,7 @@ sections:
       background:
         color: '#555'
         image:
-          filename: contact2.jpg
+          filename: contact_us.jpg
           filters:
             brightness: 0.8
         position: center
@@ -103,17 +58,17 @@ sections:
     loop: true
     slide_height: ""
 
-- block: hero
-  content:
-    title: Opportunities
-    image:
-      filename: join_us2.jpg
-    text: |
-      <br>
-
-      We are excited to announce multiple openings at Shen Lab, Nanyang Technological University, for passionate and dedicated researchers. Our team is at the forefront of **multi-omics research**, focusing on innovative algorithm and method development for the **integration of multi-omics data**, particularly in the areas of **microbiome and metabolome**, and their impact on human health. 
-      Positions Available are **PhD Students, Postdoctoral Researchers, Research Assistants, and Lab Manager**.
-      {{% cta cta_link="./news/2023-11-23-recruitment/" cta_text="More information →" %}}
+# - block: hero
+#   content:
+#     title: Opportunities
+#     image:
+#       filename: join_us2.jpg
+#     text: |
+#       <br>
+# 
+#       We are excited to announce multiple openings at Shen Lab, Nanyang Technological University, for passionate and dedicated researchers. Our team is at the forefront of **multi-omics research**, focusing on innovative algorithm and method development for the **integration of multi-omics data**, particularly in the areas of **microbiome and metabolome**, and their impact on human health. 
+#       Positions Available are **PhD Students, Postdoctoral Researchers, Research Assistants, and Lab Manager**.
+#       {{% cta cta_link="./news/2023-11-23-recruitment/" cta_text="More information →" %}}
 
 # - block: about.avatar
 #   id: about
@@ -200,47 +155,47 @@ sections:
     columns: "1"
     view: community/showcase2
     
-- block: portfolio
-  id: software
-  content:
-    title: 🖥️ SOFTWARE
-    # subtitle: ":point_right: [All Software](./all_software/)"
-    text: ""
-    buttons:
-    - name: All
-      tag: '*'
-    - name: Metabolomics
-      tag: Metabolomics
-    - name: Multi-omics
-      tag: Multi-omics
-    - name: Others
-      tag: Others
-    default_button_index: 0
-    filters:
-      folders:
-        - software
-  design:
-    columns: "2"
-    flip_alt_rows: false
-    view: community/compact4
-    background:
-      video:
-      # Name of video in `assets/media/`.
-        # filename: pexels_videos_2699 (1080p).mp4
-        filters:
-          # brightness: 0.5
-      # image: 
-      #   filename: coding.mp4
-      #   filters:
-      #     brightness: 0.5
-      #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
-      # size: cover
-      # Image focal point. Options include `left`, `center` (default), or `right`.
-      # position: center
-      # Use a fun parallax-like fixed background effect on desktop? true/false
-      parallax: true
-      # Text color (true=light, false=dark, or remove for the dynamic theme color).
-      # text_color_light: false
+# - block: portfolio
+#   id: software
+#   content:
+#     title: 🖥️ SOFTWARE
+#     # subtitle: ":point_right: [All Software](./all_software/)"
+#     text: ""
+#     buttons:
+#     - name: All
+#       tag: '*'
+#     - name: Metabolomics
+#       tag: Metabolomics
+#     - name: Multi-omics
+#       tag: Multi-omics
+#     - name: Others
+#       tag: Others
+#     default_button_index: 0
+#     filters:
+#       folders:
+#         - software
+#   design:
+#     columns: "2"
+#     flip_alt_rows: false
+#     view: community/compact4
+#     background:
+#       video:
+#       # Name of video in `assets/media/`.
+#         # filename: pexels_videos_2699 (1080p).mp4
+#         filters:
+#           # brightness: 0.5
+#       # image: 
+#       #   filename: coding.mp4
+#       #   filters:
+#       #     brightness: 0.5
+#       #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
+#       # size: cover
+#       # Image focal point. Options include `left`, `center` (default), or `right`.
+#       # position: center
+#       # Use a fun parallax-like fixed background effect on desktop? true/false
+#       parallax: true
+#       # Text color (true=light, false=dark, or remove for the dynamic theme color).
+#       # text_color_light: false
     
 - block: collection
   id: publication
@@ -273,19 +228,19 @@ sections:
   design:
     columns: "2"
     view: list
-    background:
-      image:
-        filename: news.jpg
-        filters:
-          brightness: 0.5
-      #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
-      size: cover
-      # Image focal point. Options include `left`, `center` (default), or `right`.
-      position: center
-      # Use a fun parallax-like fixed background effect on desktop? true/false
-      parallax: true
-      # Text color (true=light, false=dark, or remove for the dynamic theme color).
-      text_color_light: true
+    # background:
+    #   image:
+    #     filename: news.jpg
+    #     filters:
+    #       brightness: 0.5
+    #   #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
+    #   size: cover
+    #   # Image focal point. Options include `left`, `center` (default), or `right`.
+    #   position: center
+    #   # Use a fun parallax-like fixed background effect on desktop? true/false
+    #   parallax: true
+    #   # Text color (true=light, false=dark, or remove for the dynamic theme color).
+    #   text_color_light: true
 
 - block: people
   id: team
@@ -309,33 +264,33 @@ sections:
     show_role: true
     show_social: true
     
-- block: collection
-  id: event
-  content:
-    count: 3
-    title: 🎫 EVENT
-    subtitle: ":point_right: [All Events](./event/)"
-    text: 
-    filters:
-      folders:
-        - event
-      exclude_featured: false
-  design:
-    columns: '2'
-    view: compact
-    background:
-      image:
-        filename: events.jpg
-        filters:
-          brightness: 0.55
-      #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
-      size: cover
-      # Image focal point. Options include `left`, `center` (default), or `right`.
-      position: center
-      # Use a fun parallax-like fixed background effect on desktop? true/false
-      parallax: true
-      # Text color (true=light, false=dark, or remove for the dynamic theme color).
-      text_color_light: true
+# - block: collection
+#   id: event
+#   content:
+#     count: 3
+#     title: 🎫 EVENT
+#     subtitle: ":point_right: [All Events](./event/)"
+#     text: 
+#     filters:
+#       folders:
+#         - event
+#       exclude_featured: false
+#   design:
+#     columns: '2'
+#     view: compact
+#     background:
+#       image:
+#         filename: events.jpg
+#         filters:
+#           brightness: 0.55
+#       #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
+#       size: cover
+#       # Image focal point. Options include `left`, `center` (default), or `right`.
+#       position: center
+#       # Use a fun parallax-like fixed background effect on desktop? true/false
+#       parallax: true
+#       # Text color (true=light, false=dark, or remove for the dynamic theme color).
+#       text_color_light: true
 
 - block: contact
   id: contact
@@ -361,18 +316,18 @@ sections:
       #   icon_pack: fas
       #   name: Zoom Me
       #   link: 'https://zoom.com'
-      - icon: weixin
-        icon_pack: fab
-        name: Follow us on WeChat
-        link: 'https://jaspershen.github.io/image/wechat_QR.jpg'
+      # - icon: weixin
+      #   icon_pack: fab
+      #   name: Follow us on WeChat
+      #   link: 'https://jaspershen.github.io/image/wechat_QR.jpg'
       - icon: twitter
         icon_pack: fab
-        name: Follow us on X
-        link: https://twitter.com/xiaotaoshen1990
+        # name: Follow us on X
+        link: https://x.com/ChuchuWang0820
       - icon: github
         icon_pack: fab
-        name: Follow us on Github
-        link: https://github.com/jaspershen-lab
+        # name: Follow us on Github
+        link: https://github.com/cleowang-lab
     # Automatically link email and phone or display as text?
     autolink: true
     # Email form provider

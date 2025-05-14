@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zhiwei Rong | Shen Lab</title>
-    <link>https://shen-lab.org/author/zhiwei-rong/</link>
-      <atom:link href="https://shen-lab.org/author/zhiwei-rong/index.xml" rel="self" type="application/rss+xml" />
+    <title>Zhiwei Rong | Wang Lab</title>
+    <link>https://cleowang-lab.github.io/author/zhiwei-rong/</link>
+      <atom:link href="https://cleowang-lab.github.io/author/zhiwei-rong/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhiwei Rong</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Dec 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://shen-lab.org/media/logo_hu5606885a69ebc720faad867579aa5b55_46386_300x300_fit_lanczos_3.png</url>
+      <url>https://cleowang-lab.github.io/media/logo_huc1e8bf6e3a0def47b02e7ddbc8513fba_29358_300x300_fit_lanczos_3.png</url>
       <title>Zhiwei Rong</title>
-      <link>https://shen-lab.org/author/zhiwei-rong/</link>
+      <link>https://cleowang-lab.github.io/author/zhiwei-rong/</link>
     </image>
     
     <item>
       <title>Development of a correlative strategy to discover colorectal tumor tissue derived metabolite biomarkers in plasma using untargeted metabolomics</title>
-      <link>https://shen-lab.org/publication/development-of-a-correlative-strategy-to-discover-colorectal-tumor-tissue-derived-metabolite-biomarkers-in-plasma-using-untargeted-metabolomics/</link>
+      <link>https://cleowang-lab.github.io/publication/development-of-a-correlative-strategy-to-discover-colorectal-tumor-tissue-derived-metabolite-biomarkers-in-plasma-using-untargeted-metabolomics/</link>
       <pubDate>Sun, 23 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://shen-lab.org/publication/development-of-a-correlative-strategy-to-discover-colorectal-tumor-tissue-derived-metabolite-biomarkers-in-plasma-using-untargeted-metabolomics/</guid>
+      <guid>https://cleowang-lab.github.io/publication/development-of-a-correlative-strategy-to-discover-colorectal-tumor-tissue-derived-metabolite-biomarkers-in-plasma-using-untargeted-metabolomics/</guid>
       <description></description>
     </item>
     

@@ -34,7 +34,7 @@ status:
 superuser: false
 title: Yitong WU
 user_groups:
-- Intern
+- Intern2
 ---
 
 My research interests: My research focuses on deciphering complex interactions across biological systems through multi-omics integration. With a background in precision medicine, I explored how genetic and molecular variations drive divergent responses to therapeutics. In the future, I aim to simulate cross-omic interactions and predict therapeutic outcomes, ultimately bridging multi-dimensional data to actionable clinical insights—from personalized nutrient interventions to synthetic biomarker discovery.
