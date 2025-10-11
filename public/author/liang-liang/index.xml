@@ -5,7 +5,7 @@
     <link>https://cleowang-lab.github.io/author/liang-liang/</link>
       <atom:link href="https://cleowang-lab.github.io/author/liang-liang/index.xml" rel="self" type="application/rss+xml" />
     <description>Liang Liang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cleowang-lab.github.io/media/logo_huc1e8bf6e3a0def47b02e7ddbc8513fba_29358_300x300_fit_lanczos_3.png</url>
       <title>Liang Liang</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Deep learning-based pseudo-mass spectrometry imaging analysis for precision medicine</title>
-      <link>https://cleowang-lab.github.io/publication/deep-learning-based-pseudo-mass-spectrometry-imaging-analysis-for-precision-medicine/</link>
-      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://cleowang-lab.github.io/publication/deep-learning-based-pseudo-mass-spectrometry-imaging-analysis-for-precision-medicine/</guid>
+      <title>metID: an R package for automatable compound annotation for LC− MS-based data</title>
+      <link>https://cleowang-lab.github.io/publication/metid-an-r-package-for-automatable-compound-annotation-for-lc-ms-based-data/</link>
+      <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/publication/metid-an-r-package-for-automatable-compound-annotation-for-lc-ms-based-data/</guid>
       <description></description>
     </item>
     

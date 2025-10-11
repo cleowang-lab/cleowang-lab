@@ -1,0 +1,73 @@
+<footer class="site-footer">
+  <hr>
+
+    <div style="display: flex; justify-content: space-between; padding: 20px;">
+          <!-- container1 -->
+ <div style="flex: 2;">
+   
+   <p style="text-align:left; font-weight: bold">
+   Honored supported by:
+    </p>
+    
+    <!-- Add lab logo below the text -->
+    <a href="https://www.ntu.edu.sg/" target="_blank"><img src="https://jaspershen-lab.github.io/image/ntu_logo.png" alt="logo" class="center" width="50%" height="100"></a>
+    <hr style="margin: 10px 0; width: 50%; border-top: 1px solid #ddd;">
+    <a href="https://www.ntu.edu.sg/medicine" target="_blank"><img src="https://jaspershen-lab.github.io/image/lkcmedicine.png" alt="logo" class="center" width="50%" height="100"></a>
+    <hr style="margin: 10px 0; width: 50%; border-top: 1px solid #ddd;">
+    <a href="https://www.ntu.edu.sg/cceb" target="_blank"><img src="https://jaspershen-lab.github.io/image/cceb_logo.png" alt="logo" class="center" width="30%" height="100"></a>
+   
+            </div>
+            
+    <!-- container2 -->
+            <div style="flex: 2;">
+  <p style="text-align:left; font-weight: bold">
+    Find us here:
+    <br>
+    <i class="fa-brands fa-github"></i> <a href="https://github.com/tidymass" target="_blank" rel="noopener">GitHub</a>
+<br>
+        <i class="fa-brands fa-weixin"></i> <a href="https://jaspershen.github.io/image/wechat_QR.jpg" target="_blank" rel="noopener">WeChat</a>
+
+    <br>
+        <i class="fa-brands fa-twitter"></i> <a href="https://twitter.com/xiaotaoshen1990" target="_blank" rel="noopener">Twitter</a>
+        
+   <br>
+        <i class="fa-solid fa-envelope"></i> <a href="https://jaspershen.github.io/#contact" target="_blank" rel="noopener">Email</a>  
+        
+        <br>
+<i class="fa-solid fa-location-dot"></i> Address: <a href="https://maps.app.goo.gl/pcizQc8QdorHMMvB6" target="_blank" rel="noopener">59 Nanyang Dr, Singapore 636921</a>
+   
+    </p>
+            </div>
+            
+    <!-- container3 -->
+            <div style="flex: 1;">
+            </div>
+            
+    <!-- container4 -->
+    
+            <div style="flex: 1;">
+                     <p style="text-align:center; font-weight: bold">
+   Visitors from:
+    </p>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=yqvc_qUTqeZAQuPNuedk_Ln_lEiAPfnT5br9KDkIZoo"></script>
+            </div>
+            
+    <!-- container5 -->
+            <div style="flex: 1;">
+            </div>
+    
+        </div>
+        
+      <hr>
+
+      {{ partial "functions/get_hook" (dict "hook" "footer-start" "context" .) }}
+  {{/* Load footer block */}}
+  {{ $footer_section_name := site.Params.footer.block | default "minimal" }}
+  {{ $footer_section_path := printf "components/footers/%s.html" $footer_section_name }}
+  {{ if not (templates.Exists (printf "partials/%s" $footer_section_path)) }}
+    {{ errorf "Check your `params.yaml`. Cannot find footer block at `layouts/partials/%s`" $footer_section_path }}
+  {{ end }}
+  {{ partial $footer_section_path . }}
+  
+  
+</footer>

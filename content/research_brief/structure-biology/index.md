@@ -1,0 +1,11 @@
+---
+date: "2020-12-01"
+title: Structure Biology
+weight: 1
+---
+
+Structural biology is a powerful approach to understanding the molecular basis of biological processes by revealing the three-dimensional architecture of biomolecules. Our research focuses on elucidating the structural mechanisms underlying key cellular events, with a particular emphasis on protein–lipid interactions, vesicle trafficking, and membrane-associated complexes involved in neuronal function and disease. By integrating cutting-edge techniques such as cryo-electron microscopy (cryo-EM), cryo-electron tomography (cryo-ET), and in-cell NMR spectroscopy, we aim to capture biomolecular structures in their native environments and dynamic states. These structural insights are further complemented by biochemical assays, functional studies, and computational modeling to link molecular architecture to biological function. Ultimately, our goal is to uncover how structural alterations contribute to aging, neurodegeneration, and other disease processes, paving the way for the development of targeted therapeutic strategies.
+
+<!--more-->
+
+Structural biology is a powerful approach to understanding the molecular basis of biological processes by revealing the three-dimensional architecture of biomolecules. Our research focuses on elucidating the structural mechanisms underlying key cellular events, with a particular emphasis on protein–lipid interactions, vesicle trafficking, and membrane-associated complexes involved in neuronal function and disease. By integrating cutting-edge techniques such as cryo-electron microscopy (cryo-EM), cryo-electron tomography (cryo-ET), and in-cell NMR spectroscopy, we aim to capture biomolecular structures in their native environments and dynamic states. These structural insights are further complemented by biochemical assays, functional studies, and computational modeling to link molecular architecture to biological function. Ultimately, our goal is to uncover how structural alterations contribute to aging, neurodegeneration, and other disease processes, paving the way for the development of targeted therapeutic strategies.

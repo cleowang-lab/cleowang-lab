@@ -10,7 +10,7 @@ sections:
       background:
         color: '#666'
         image:
-          filename: research.jpg
+          filename: research2.jpg
           filters:
             brightness: 0.7
         position: right
@@ -137,8 +137,8 @@ sections:
   id: research
   content:
     title: 🔬 RESEARCH
-    subtitle: ":point_right: [Detailed Research](./research/)"
-    text: "Our research is focused on the development of computational methods for the analysis of <u>multi-omics data</u>, with a particular emphasis on <u>metabolomics and microbiome data</u>. We are also interested in the application of these methods to <u>precision medicine, aging, pregnancy, and other health-related areas</u>."
+    # subtitle: ":point_right: [Detailed Research](./research/)"
+    text: "Our research is focused on the development of computational methods for the analysis of proteomics, lipidomics, and structure biology. We are also interested in the application of these methods to aging and aging related diseases"
     count: 100
     filters:
       author: ""
@@ -202,7 +202,7 @@ sections:
   content:
     count: 5
     title: 📃 PUBLICATION
-    subtitle: ":point_right: [All Publications](./publication/)"
+    # subtitle: ":point_right: [All Publications](./publication/)"
     text: 
     filters:
       folders:
@@ -222,7 +222,7 @@ sections:
       exclude_featured: false
     offset: 0
     order: desc
-    subtitle: ":point_right: [All News](./news/)"
+    # subtitle: ":point_right: [All News](./news/)"
     title: 📰 NEWS
     text: 
   design:
@@ -299,7 +299,7 @@ sections:
     # subtitle: ":point_right: [More social media](./contact/)"
     text: 
     # Contact (add or remove contact options as necessary)
-    email: xiaotao.shen@outlook.com
+    email: choicewang0820@hotmail.com
     phone: +65 83042333
     # appointment_url: 'https://calendly.com'
     address:
@@ -322,11 +322,11 @@ sections:
       #   link: 'https://jaspershen.github.io/image/wechat_QR.jpg'
       - icon: twitter
         icon_pack: fab
-        # name: Follow us on X
+        name: Follow us on X
         link: https://x.com/ChuchuWang0820
       - icon: github
         icon_pack: fab
-        # name: Follow us on Github
+        name: Follow us on Github
         link: https://github.com/cleowang-lab
     # Automatically link email and phone or display as text?
     autolink: true
@@ -360,9 +360,9 @@ sections:
 #   id: github
 #   content:
 #     title: 😺 GitHub
-#     subtitle: ":point_right: [GitHub Link](https://github.com/jaspershen-lab2)"
+#     subtitle: ":point_right: [GitHub Link](https://github.com/cleoshen-lab)"
 #     text: |-
-#       <img src="http://ghchart.rshah.org/jaspershen" alt="jaspershen-lab" width = "100%"/>
+#       <img src="http://ghchart.rshah.org/jaspershen" alt="cleoshen-lab" width = "100%"/>
 #   design:
 #     columns: '2'
 #     background:

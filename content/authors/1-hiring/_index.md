@@ -20,13 +20,13 @@ social:
   icon: github
   icon_pack: fab
   label: Follow us on GitHub
-  link: https://github.com/jaspershen-lab
+  link: https://github.com/cleoshen-lab
 - display:
     header: true
   icon: twitter
   icon_pack: fab
   label: Follow us on X
-  link: https://twitter.com/xiaotaoshen1990
+  link: https://twitter.com/ChuchuWang0820
 status:
   icon: ☕️
 superuser: true
@@ -35,12 +35,6 @@ user_groups:
 - Join US
 ---
 
-We are thrilled to announce a range of open positions at Shen Lab, 
-Nanyang Technological University, Singapore. 
-Join our dynamic team, which is spearheading the field of multi-omics research. 
-Our focus lies in developing groundbreaking algorithms and methods to 
-integrate multi-omics data. We particularly emphasize research in microbiome 
-and metabolome and their implications for human health, 
-including aging and pregnancy-related diseases.
+We are excited to invite passionate scientists to join Shen Lab at Nanyang Technological University, Singapore, where we are advancing the frontiers of molecular and structural biology. Our team focuses on understanding the fundamental mechanisms of protein–lipid interactions, vesicle biology, and their critical roles in aging, neurodegenerative diseases, and central nervous system disorders. By combining cutting-edge approaches such as in situ structural biology, mass spectrometry–based lipidomics, and mechanistic studies of vesicle function, we aim to uncover novel biomarkers and therapeutic strategies. Join us in an interdisciplinary and collaborative environment to explore exciting questions at the interface of cell biology, biophysics, and translational neuroscience.
 
-More information can be found [here](https://www.shen-lab.org/news/2023-11-23-recruitment/)
+More information can be found [here](https://cleowang-lab.github.io/news/2023-11-23-recruitment/)
