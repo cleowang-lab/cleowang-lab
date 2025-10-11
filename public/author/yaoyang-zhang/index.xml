@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yaoyang Zhang | Wang Lab</title>
+    <link>https://cleowang-lab.github.io/author/yaoyang-zhang/</link>
+      <atom:link href="https://cleowang-lab.github.io/author/yaoyang-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yaoyang Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cleowang-lab.github.io/media/logo_huc1e8bf6e3a0def47b02e7ddbc8513fba_29358_300x300_fit_lanczos_3.png</url>
+      <title>Yaoyang Zhang</title>
+      <link>https://cleowang-lab.github.io/author/yaoyang-zhang/</link>
+    </image>
+    
+    <item>
+      <title>N-acetylation of α-synuclein enhances synaptic vesicle clustering mediated by α-synuclein and lysophosphatidylcholine</title>
+      <link>https://cleowang-lab.github.io/publication/n-acetylation-of-%CE%B1-synuclein-enhances-synaptic-vesicle-clustering-mediated-by-%CE%B1-synuclein-and-lysophosphatidylcholine/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/publication/n-acetylation-of-%CE%B1-synuclein-enhances-synaptic-vesicle-clustering-mediated-by-%CE%B1-synuclein-and-lysophosphatidylcholine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VAMP2 chaperones α-synuclein in synaptic vesicle co-condensates</title>
+      <link>https://cleowang-lab.github.io/publication/vamp2-chaperones-%CE%B1-synuclein-in-synaptic-vesicle-co-condensates/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/publication/vamp2-chaperones-%CE%B1-synuclein-in-synaptic-vesicle-co-condensates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicotinamide mononucleotide adenylyltransferase uses its NAD&#43; substrate-binding site to chaperone phosphorylated Tau</title>
+      <link>https://cleowang-lab.github.io/publication/nicotinamide-mononucleotide-adenylyltransferase-uses-its-nad&#43;-substrate-binding-site-to-chaperone-phosphorylated-tau/</link>
+      <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/publication/nicotinamide-mononucleotide-adenylyltransferase-uses-its-nad&#43;-substrate-binding-site-to-chaperone-phosphorylated-tau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hsp27 chaperones FUS phase separation under the modulation of stress-induced phosphorylation</title>
+      <link>https://cleowang-lab.github.io/publication/hsp27-chaperones-fus-phase-separation-under-the-modulation-of-stress-induced-phosphorylation/</link>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/publication/hsp27-chaperones-fus-phase-separation-under-the-modulation-of-stress-induced-phosphorylation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

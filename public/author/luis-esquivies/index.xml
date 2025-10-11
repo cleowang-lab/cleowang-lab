@@ -5,7 +5,7 @@
     <link>https://cleowang-lab.github.io/author/luis-esquivies/</link>
       <atom:link href="https://cleowang-lab.github.io/author/luis-esquivies/index.xml" rel="self" type="application/rss+xml" />
     <description>Luis Esquivies</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cleowang-lab.github.io/media/logo_huc1e8bf6e3a0def47b02e7ddbc8513fba_29358_300x300_fit_lanczos_3.png</url>
       <title>Luis Esquivies</title>
@@ -13,10 +13,58 @@
     </image>
     
     <item>
+      <title>Observing isolated synaptic vesicle association and fusion ex vivo</title>
+      <link>https://cleowang-lab.github.io/publication/observing-isolated-synaptic-vesicle-association-and-fusion-ex-vivo/</link>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/publication/observing-isolated-synaptic-vesicle-association-and-fusion-ex-vivo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Structure and topography of the synaptic V-ATPase–synaptophysin complex</title>
       <link>https://cleowang-lab.github.io/publication/structure-and-topography-of-the-synaptic-v-atpasesynaptophysin-complex/</link>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://cleowang-lab.github.io/publication/structure-and-topography-of-the-synaptic-v-atpasesynaptophysin-complex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond the MUN domain Munc13 controls priming and depriming of synaptic vesicles</title>
+      <link>https://cleowang-lab.github.io/publication/beyond-the-mun-domain-munc13-controls-priming-and-depriming-of-synaptic-vesicles/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/publication/beyond-the-mun-domain-munc13-controls-priming-and-depriming-of-synaptic-vesicles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new method for isolation and purification of fusion-competent inhibitory synaptic vesicles</title>
+      <link>https://cleowang-lab.github.io/publication/a-new-method-for-isolation-and-purification-of-fusion-competent-inhibitory-synaptic-vesicles/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/publication/a-new-method-for-isolation-and-purification-of-fusion-competent-inhibitory-synaptic-vesicles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure-based design of a SARS-CoV-2 Omicron-specific inhibitor</title>
+      <link>https://cleowang-lab.github.io/publication/structure-based-design-of-a-sars-cov-2-omicron-specific-inhibitor/</link>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/publication/structure-based-design-of-a-sars-cov-2-omicron-specific-inhibitor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nanomolar inhibition of SARS-CoV-2 infection by an unmodified peptide targeting the prehairpin intermediate of the spike protein</title>
+      <link>https://cleowang-lab.github.io/publication/nanomolar-inhibition-of-sars-cov-2-infection-by-an-unmodified-peptide-targeting-the-prehairpin-intermediate-of-the-spike-protein/</link>
+      <pubDate>Mon, 19 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/publication/nanomolar-inhibition-of-sars-cov-2-infection-by-an-unmodified-peptide-targeting-the-prehairpin-intermediate-of-the-spike-protein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural conservation among variants of the SARS-CoV-2 spike postfusion bundle</title>
+      <link>https://cleowang-lab.github.io/publication/structural-conservation-among-variants-of-the-sars-cov-2-spike-postfusion-bundle/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/publication/structural-conservation-among-variants-of-the-sars-cov-2-spike-postfusion-bundle/</guid>
       <description></description>
     </item>
     
