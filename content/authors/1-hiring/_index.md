@@ -20,7 +20,7 @@ social:
   icon: github
   icon_pack: fab
   label: Follow us on GitHub
-  link: https://github.com/cleoshen-lab
+  link: https://github.com/cleowang-lab
 - display:
     header: true
   icon: twitter

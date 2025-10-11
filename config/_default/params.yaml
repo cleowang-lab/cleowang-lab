@@ -104,7 +104,7 @@ features:
     algolia:
       app_id: 'KZN4XT95B1'
       api_key: 'ffb4e7ce2faa874ed5f9d8a121f86c2a'
-      index_name: 'cleoshen-lab'
+      index_name: 'cleowang-lab'
       show_logo: true
   map:
     provider: 'mapnik'

@@ -360,9 +360,9 @@ sections:
 #   id: github
 #   content:
 #     title: 😺 GitHub
-#     subtitle: ":point_right: [GitHub Link](https://github.com/cleoshen-lab)"
+#     subtitle: ":point_right: [GitHub Link](https://github.com/cleowang-lab)"
 #     text: |-
-#       <img src="http://ghchart.rshah.org/jaspershen" alt="cleoshen-lab" width = "100%"/>
+#       <img src="http://ghchart.rshah.org/jaspershen" alt="cleowang-lab" width = "100%"/>
 #   design:
 #     columns: '2'
 #     background:
