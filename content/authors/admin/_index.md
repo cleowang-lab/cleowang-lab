@@ -1,5 +1,5 @@
 ---
-bio: Proteomics, Lipidomics, Structure biology, Neurobiology
+bio: Lipidomics, Structure biology, Neurobiology
 education:
   courses:
   - course: Postdoctoral Research Fellow
@@ -7,7 +7,7 @@ education:
     year: 2020/1-2025/10
   - course: Ph.D.
     institution: University of Chinese Academy of Sciences
-    year: 2013/09-2019/12
+    year: 2013/08-2019/12
   - course: Exchanged Undergraduate Student
     institution: University of Rugers-New Brunswick
     year: 2012/9-2013/3
