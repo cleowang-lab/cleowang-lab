@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://cleowang-lab.github.io/sitemap.xml
+Sitemap: https://chuchuwanglab.com/sitemap.xml

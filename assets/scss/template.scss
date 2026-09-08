@@ -146,6 +146,26 @@ h6,
   color: #002f5f;
 }
 
+.site-footer .footer-x-icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  margin-right: 0.25em;
+  vertical-align: -0.125em;
+}
+
+.site-footer .footer-visitor-map {
+  margin-top: 0;
+  width: 175px;
+  height: 122px;
+  overflow: hidden;
+}
+
+.site-footer .footer-visitor-map > * {
+  transform: scale(0.67);
+  transform-origin: top left;
+}
+
 #lipidflow.home-section .home-section-bg,
 #lipidflow .home-section-bg {
   background-image: url("/media/flow.gif") !important;
@@ -186,6 +206,14 @@ input,
 select,
 textarea {
   font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+.navbar .navbar-nav .nav-link,
+.navbar .navbar-nav .nav-link.active,
+.navbar .navbar-nav .nav-link:hover,
+.navbar .navbar-nav .nav-link:focus {
+  color: #003d7c !important;
+  font-weight: 500;
 }
 
 pre,
