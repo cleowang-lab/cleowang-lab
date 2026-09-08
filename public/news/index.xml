@@ -1,164 +1,92 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>📰 News | Wang Lab</title>
-    <link>https://cleowang-lab.github.io/news/</link>
-      <atom:link href="https://cleowang-lab.github.io/news/index.xml" rel="self" type="application/rss+xml" />
-    <description>📰 News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
-    <image>
-      <url>https://cleowang-lab.github.io/media/logo_hu59533391df896ae5e83994df6754cd25_74072_300x300_fit_lanczos_3.png</url>
-      <title>📰 News</title>
-      <link>https://cleowang-lab.github.io/news/</link>
-    </image>
-    
-    <item>
-      <title>2025-05-14 Opportunities in Wang Lab</title>
-      <link>https://cleowang-lab.github.io/news/2023-11-23-recruitment/</link>
-      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://cleowang-lab.github.io/news/2023-11-23-recruitment/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Job Opportunities in Wang Lab at Nanyang Technological University (NTU), Singapore&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Institution Overview&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Nanyang Technological University (NTU), Singapore, is a world-renowned research-intensive university, ranked &lt;strong&gt;15th globally in the 2025 QS World University Rankings&lt;/strong&gt;. NTU is recognized for its academic excellence, groundbreaking research, and global outlook. The university offers a vibrant, interdisciplinary research environment with state-of-the-art facilities and comprehensive support services.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;About the Lab&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Dr. &lt;strong&gt;Chuchu Wang&lt;/strong&gt; will join NTU’s &lt;strong&gt;Lee Kong Chian School of Medicine (LKCMedicine)&lt;/strong&gt; as an Assistant Professor in &lt;strong&gt;November 2025&lt;/strong&gt; and has been awarded the prestigious &lt;strong&gt;Nanyang Assistant Professorship (NAP)&lt;/strong&gt; grant. The lab will be well-funded and housed in a dynamic and collaborative research environment.&lt;/p&gt;
-&lt;p&gt;Dr. Wang received her Ph.D. in Cell Biology in 2019 under the supervision of Dr. Cong Liu at the Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences. From 2020 to 2025, she conducted postdoctoral research at Stanford University under the guidance of HHMI Investigator &lt;strong&gt;Prof. Axel Brunger&lt;/strong&gt;, focusing on structural and molecular neuroscience. Dr. Wang has published as first or co-first author in journals including &lt;em&gt;Nature&lt;/em&gt;, &lt;em&gt;Nature Aging&lt;/em&gt;, &lt;em&gt;Nature Cell Biology&lt;/em&gt;, &lt;em&gt;Nature Communications&lt;/em&gt;, &lt;em&gt;Nature Protocols&lt;/em&gt;, &lt;em&gt;National Science Review&lt;/em&gt;, &lt;em&gt;PNAS&lt;/em&gt;, &lt;em&gt;eLife&lt;/em&gt;, and &lt;em&gt;Bioinformatics&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Google Scholar&lt;/strong&gt;: &lt;a href=&#34;https://scholar.google.co.uk/citations?hl=en&amp;amp;user=1SQy-gQAAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://scholar.google.co.uk/citations?hl=en&amp;amp;user=1SQy-gQAAAAJ&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Research Focus&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Our interdisciplinary lab combines &lt;strong&gt;in situ structural biology (cryo-EM/ET, in-cell NMR)&lt;/strong&gt;, &lt;strong&gt;mass spectrometry-based lipidomics and proteomics&lt;/strong&gt;, &lt;strong&gt;cell biology&lt;/strong&gt;, &lt;strong&gt;bioinformatics&lt;/strong&gt;, and &lt;strong&gt;molecular biology&lt;/strong&gt; to investigate the physiological and pathological mechanisms of &lt;strong&gt;human aging and neurodegenerative diseases&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;The lab aims to integrate multi-omics, molecular structural analysis, and biochemical/cellular experiments to uncover &lt;strong&gt;lipid–protein interactions in age-related disorders&lt;/strong&gt;, with the ultimate goal of identifying early diagnostic markers and therapeutic strategies to promote healthy aging.&lt;/p&gt;
-&lt;p&gt;We welcome applicants from diverse backgrounds (e.g., neuroscience, biophysics, biochemistry, bioinformatics), who are passionate about impactful, translational research.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Collaborations&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Our lab maintains active collaborations with leading institutions in the &lt;strong&gt;US, Singapore, and China&lt;/strong&gt;, offering lab members the opportunity to engage with top-tier researchers globally.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;open-positions&#34;&gt;&lt;strong&gt;Open Positions&lt;/strong&gt;&lt;/h3&gt;
-&lt;h4 id=&#34;1-phd-students--undergraduate-researchers&#34;&gt;1. &lt;strong&gt;PhD Students &amp;amp; Undergraduate Researchers&lt;/strong&gt;&lt;/h4&gt;
-&lt;p&gt;We are recruiting &lt;strong&gt;PhD students for January 2026 intake&lt;/strong&gt; (application period: &lt;strong&gt;May 1 – June 30, 2025&lt;/strong&gt;). August intake applications open &lt;strong&gt;September 1 – December 31&lt;/strong&gt; annually.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Benefits:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Full scholarship and competitive monthly stipend&lt;/li&gt;
-&lt;li&gt;Support for international conference travel (funded by both the school and the lab)&lt;/li&gt;
-&lt;li&gt;Access to cutting-edge facilities and mentorship in a collaborative research environment&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Eligibility:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;English proficiency: TOEFL ≥ 100 or IELTS ≥ 6.5 (within 2 years); required unless graduated from English-medium institutions&lt;/li&gt;
-&lt;li&gt;GRE required for non-Singapore degree holders (V+Q ≥ 319; AW ≥ 3.5, within 5 years)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Application info:&lt;/strong&gt;
-&lt;a href=&#34;https://www.ntu.edu.sg/education/graduate-programme/lkcmedicine-phd-by-research-programme#admission&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NTU LKCMedicine PhD Admissions&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Outstanding undergraduates are also encouraged to join for research training and thesis projects.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h4 id=&#34;2-postdoctoral-research-fellow&#34;&gt;2. &lt;strong&gt;Postdoctoral Research Fellow&lt;/strong&gt;&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;Qualifications:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Ph.D. in biology, neuroscience, biophysics, structural biology, bioinformatics, or related fields&lt;/li&gt;
-&lt;li&gt;Experience in &lt;strong&gt;neurocell biology&lt;/strong&gt;, &lt;strong&gt;cryo-EM/NMR&lt;/strong&gt;, or &lt;strong&gt;omics data analysis&lt;/strong&gt; preferred&lt;/li&gt;
-&lt;li&gt;Proven ability to conduct independent research&lt;/li&gt;
-&lt;li&gt;Strong publication record (first-author papers or preprints)&lt;/li&gt;
-&lt;li&gt;Excellent communication and teamwork skills&lt;/li&gt;
-&lt;li&gt;Ability to mentor students and contribute to grant writing&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Compensation:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Competitive salary based on experience and NTU guidelines&lt;/li&gt;
-&lt;li&gt;Support for fellowship applications and career development&lt;/li&gt;
-&lt;li&gt;Funding for conferences and collaborative visits&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h4 id=&#34;3-research-assistant&#34;&gt;3. &lt;strong&gt;Research Assistant&lt;/strong&gt;&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;Qualifications:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Bachelor&amp;rsquo;s degree or above&lt;/li&gt;
-&lt;li&gt;Prior experience in protein purification, cell culture, or animal handling is a plus&lt;/li&gt;
-&lt;li&gt;Familiarity with EM/NMR data or omics analysis is desirable&lt;/li&gt;
-&lt;li&gt;Ability to work independently and collaboratively&lt;/li&gt;
-&lt;li&gt;Fluent in written and spoken English&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Compensation:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Salary will be competitive and commensurate with experience&lt;/li&gt;
-&lt;li&gt;Opportunities to co-author publications and attend international meetings&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h4 id=&#34;4-visiting-scholars--joint-phd-students&#34;&gt;4. &lt;strong&gt;Visiting Scholars &amp;amp; Joint PhD Students&lt;/strong&gt;&lt;/h4&gt;
-&lt;p&gt;We welcome visiting researchers and joint PhD students interested in collaborative or short-term research exchanges.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Application Instructions&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;To apply, please send the following documents in &lt;strong&gt;English&lt;/strong&gt; to &lt;strong&gt;&lt;a href=&#34;mailto:choicewang0820@hotmail.com&#34;&gt;choicewang0820@hotmail.com&lt;/a&gt;&lt;/strong&gt;:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Cover letter (briefly describing your past experience and research interests)&lt;/li&gt;
-&lt;li&gt;CV&lt;/li&gt;
-&lt;li&gt;Contact details of 2–3 referees&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Email subject format&lt;/strong&gt;:
-&lt;code&gt;[Application Position] - [Your Name]&lt;/code&gt;, e.g.,
-&lt;code&gt;Postdoc Application – David Liu&lt;/code&gt;,
-&lt;code&gt;PhD Application – Jeremy Lee&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Applicants will be contacted for interviews shortly after submission.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>2024-08-14 Paper accepted in Nature Aging</title>
-      <link>https://cleowang-lab.github.io/news/2024-8-14-nature-aging/</link>
-      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://cleowang-lab.github.io/news/2024-8-14-nature-aging/</guid>
-      <description>&lt;p&gt;Our paper: Nonlinear dynamics of multi-omics profiles during human aging has been accepted for publication in Nature Aging.&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;%22featured.png%22&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>2024-06-05 Paper accepted in Nature</title>
-      <link>https://cleowang-lab.github.io/news/2024-6-5-nature/</link>
-      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://cleowang-lab.github.io/news/2024-6-5-nature/</guid>
-      <description>&lt;p&gt;Our paper Structure and topography of the synaptic V-ATPase–synaptophysin complex has been accepted for publication in Cell Host &amp;amp; Microbe.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.nature.com/articles/s41586-024-07610-x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper Link&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;%22featured.jpg%22&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>📰 News | Wang Lab</title><link>https://cleowang-lab.github.io/news/</link><atom:link href="https://cleowang-lab.github.io/news/index.xml" rel="self" type="application/rss+xml"/><description>📰 News</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://cleowang-lab.github.io/media/logo_hu59533391df896ae5e83994df6754cd25_74072_300x300_fit_lanczos_3.png</url><title>📰 News</title><link>https://cleowang-lab.github.io/news/</link></image><item><title>2025-05-14 Opportunities in Wang Lab</title><link>https://cleowang-lab.github.io/news/2023-11-23-recruitment/</link><pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/news/2023-11-23-recruitment/</guid><description>&lt;p>&lt;strong>Job Opportunities in Wang Lab at Nanyang Technological University (NTU), Singapore&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Institution Overview&lt;/strong>&lt;/p>
+&lt;p>Nanyang Technological University (NTU), Singapore, is a world-renowned research-intensive university, ranked &lt;strong>15th globally in the 2025 QS World University Rankings&lt;/strong>. NTU is recognized for its academic excellence, groundbreaking research, and global outlook. The university offers a vibrant, interdisciplinary research environment with state-of-the-art facilities and comprehensive support services.&lt;/p>
+&lt;p>&lt;strong>About the Lab&lt;/strong>&lt;/p>
+&lt;p>Dr. &lt;strong>Chuchu Wang&lt;/strong> will join NTU’s &lt;strong>Lee Kong Chian School of Medicine (LKCMedicine)&lt;/strong> as an Assistant Professor in &lt;strong>November 2025&lt;/strong> and has been awarded the prestigious &lt;strong>Nanyang Assistant Professorship (NAP)&lt;/strong> grant. The lab will be well-funded and housed in a dynamic and collaborative research environment.&lt;/p>
+&lt;p>Dr. Wang received her Ph.D. in Cell Biology in 2019 under the supervision of Dr. Cong Liu at the Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences. From 2020 to 2025, she conducted postdoctoral research at Stanford University under the guidance of HHMI Investigator &lt;strong>Prof. Axel Brunger&lt;/strong>, focusing on structural and molecular neuroscience. Dr. Wang has published as first or co-first author in journals including &lt;em>Nature&lt;/em>, &lt;em>Nature Aging&lt;/em>, &lt;em>Nature Cell Biology&lt;/em>, &lt;em>Nature Communications&lt;/em>, &lt;em>Nature Protocols&lt;/em>, &lt;em>National Science Review&lt;/em>, &lt;em>PNAS&lt;/em>, &lt;em>eLife&lt;/em>, and &lt;em>Bioinformatics&lt;/em>.&lt;/p>
+&lt;p>&lt;strong>Google Scholar&lt;/strong>: &lt;a href="https://scholar.google.co.uk/citations?hl=en&amp;amp;user=1SQy-gQAAAAJ" target="_blank" rel="noopener">https://scholar.google.co.uk/citations?hl=en&amp;amp;user=1SQy-gQAAAAJ&lt;/a>&lt;/p>
+&lt;p>&lt;strong>Research Focus&lt;/strong>&lt;/p>
+&lt;p>Our interdisciplinary lab combines &lt;strong>in situ structural biology (cryo-EM/ET, in-cell NMR)&lt;/strong>, &lt;strong>mass spectrometry-based lipidomics and proteomics&lt;/strong>, &lt;strong>cell biology&lt;/strong>, &lt;strong>bioinformatics&lt;/strong>, and &lt;strong>molecular biology&lt;/strong> to investigate the physiological and pathological mechanisms of &lt;strong>human aging and neurodegenerative diseases&lt;/strong>.&lt;/p>
+&lt;p>The lab aims to integrate multi-omics, molecular structural analysis, and biochemical/cellular experiments to uncover &lt;strong>lipid–protein interactions in age-related disorders&lt;/strong>, with the ultimate goal of identifying early diagnostic markers and therapeutic strategies to promote healthy aging.&lt;/p>
+&lt;p>We welcome applicants from diverse backgrounds (e.g., neuroscience, biophysics, biochemistry, bioinformatics), who are passionate about impactful, translational research.&lt;/p>
+&lt;p>&lt;strong>Collaborations&lt;/strong>&lt;/p>
+&lt;p>Our lab maintains active collaborations with leading institutions in the &lt;strong>US, Singapore, and China&lt;/strong>, offering lab members the opportunity to engage with top-tier researchers globally.&lt;/p>
+&lt;hr>
+&lt;h3 id="open-positions">&lt;strong>Open Positions&lt;/strong>&lt;/h3>
+&lt;h4 id="1-phd-students--undergraduate-researchers">1. &lt;strong>PhD Students &amp;amp; Undergraduate Researchers&lt;/strong>&lt;/h4>
+&lt;p>We are recruiting &lt;strong>PhD students for January 2026 intake&lt;/strong> (application period: &lt;strong>May 1 – June 30, 2025&lt;/strong>). August intake applications open &lt;strong>September 1 – December 31&lt;/strong> annually.&lt;/p>
+&lt;p>&lt;strong>Benefits:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Full scholarship and competitive monthly stipend&lt;/li>
+&lt;li>Support for international conference travel (funded by both the school and the lab)&lt;/li>
+&lt;li>Access to cutting-edge facilities and mentorship in a collaborative research environment&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Eligibility:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>English proficiency: TOEFL ≥ 100 or IELTS ≥ 6.5 (within 2 years); required unless graduated from English-medium institutions&lt;/li>
+&lt;li>GRE required for non-Singapore degree holders (V+Q ≥ 319; AW ≥ 3.5, within 5 years)&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Application info:&lt;/strong>
+&lt;a href="https://www.ntu.edu.sg/education/graduate-programme/lkcmedicine-phd-by-research-programme#admission" target="_blank" rel="noopener">NTU LKCMedicine PhD Admissions&lt;/a>&lt;/p>
+&lt;p>Outstanding undergraduates are also encouraged to join for research training and thesis projects.&lt;/p>
+&lt;hr>
+&lt;h4 id="2-postdoctoral-research-fellow">2. &lt;strong>Postdoctoral Research Fellow&lt;/strong>&lt;/h4>
+&lt;p>&lt;strong>Qualifications:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Ph.D. in biology, neuroscience, biophysics, structural biology, bioinformatics, or related fields&lt;/li>
+&lt;li>Experience in &lt;strong>neurocell biology&lt;/strong>, &lt;strong>cryo-EM/NMR&lt;/strong>, or &lt;strong>omics data analysis&lt;/strong> preferred&lt;/li>
+&lt;li>Proven ability to conduct independent research&lt;/li>
+&lt;li>Strong publication record (first-author papers or preprints)&lt;/li>
+&lt;li>Excellent communication and teamwork skills&lt;/li>
+&lt;li>Ability to mentor students and contribute to grant writing&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Compensation:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Competitive salary based on experience and NTU guidelines&lt;/li>
+&lt;li>Support for fellowship applications and career development&lt;/li>
+&lt;li>Funding for conferences and collaborative visits&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h4 id="3-research-assistant">3. &lt;strong>Research Assistant&lt;/strong>&lt;/h4>
+&lt;p>&lt;strong>Qualifications:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Bachelor&amp;rsquo;s degree or above&lt;/li>
+&lt;li>Prior experience in protein purification, cell culture, or animal handling is a plus&lt;/li>
+&lt;li>Familiarity with EM/NMR data or omics analysis is desirable&lt;/li>
+&lt;li>Ability to work independently and collaboratively&lt;/li>
+&lt;li>Fluent in written and spoken English&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Compensation:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Salary will be competitive and commensurate with experience&lt;/li>
+&lt;li>Opportunities to co-author publications and attend international meetings&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h4 id="4-visiting-scholars--joint-phd-students">4. &lt;strong>Visiting Scholars &amp;amp; Joint PhD Students&lt;/strong>&lt;/h4>
+&lt;p>We welcome visiting researchers and joint PhD students interested in collaborative or short-term research exchanges.&lt;/p>
+&lt;hr>
+&lt;p>&lt;strong>Application Instructions&lt;/strong>&lt;/p>
+&lt;p>To apply, please send the following documents in &lt;strong>English&lt;/strong> to &lt;strong>&lt;a href="mailto:choicewang0820@hotmail.com">choicewang0820@hotmail.com&lt;/a>&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>Cover letter (briefly describing your past experience and research interests)&lt;/li>
+&lt;li>CV&lt;/li>
+&lt;li>Contact details of 2–3 referees&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Email subject format&lt;/strong>:
+&lt;code>[Application Position] - [Your Name]&lt;/code>, e.g.,
+&lt;code>Postdoc Application – David Liu&lt;/code>,
+&lt;code>PhD Application – Jeremy Lee&lt;/code>&lt;/p>
+&lt;p>Applicants will be contacted for interviews shortly after submission.&lt;/p></description></item><item><title>2024-08-14 Paper accepted in Nature Aging</title><link>https://cleowang-lab.github.io/news/2024-8-14-nature-aging/</link><pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/news/2024-8-14-nature-aging/</guid><description>&lt;p>Our paper: Nonlinear dynamics of multi-omics profiles during human aging has been accepted for publication in Nature Aging.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%22featured.png%22" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>2024-06-05 Paper accepted in Nature</title><link>https://cleowang-lab.github.io/news/2024-6-5-nature/</link><pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/news/2024-6-5-nature/</guid><description>&lt;p>Our paper Structure and topography of the synaptic V-ATPase–synaptophysin complex has been accepted for publication in Cell Host &amp;amp; Microbe.&lt;/p>
+&lt;p>&lt;a href="https://www.nature.com/articles/s41586-024-07610-x" target="_blank" rel="noopener">Paper Link&lt;/a>&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%22featured.jpg%22" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item></channel></rss>

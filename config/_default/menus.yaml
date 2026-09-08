@@ -11,17 +11,20 @@ main:
   #   url: '#software'
   #   weight: 11
   - name: PUBLICATION
-    url: '#publication'
+    url: '/publication/'
     weight: 12
   - name: NEWS
-    url: '#news'
+    url: '/news/'
     weight: 20
   - name: TEAM
-    url: '#team'
+    url: '/team/'
     weight: 30
   # - name: EVENT
   #   url: '#event'
   #   weight: 40
+  - name: INTRANET
+    url: 'https://entuedu.sharepoint.com/:u:/r/sites/cwang-lab/SitePages/Home.aspx?d=w68a280f63e644ce58258cf5ed33e081d&csf=1&web=1&e=F4miXE'
+    weight: 50
   - name: CONTACT
     url: '#contact'
     weight: 60

@@ -10,47 +10,14 @@ sections:
       background:
         color: '#666'
         image:
-          filename: research2.jpg
+          filename: alzheimers_brain_cell_tem.jpg
           filters:
             brightness: 0.7
         position: right
-      content: 
+      content: '<span class="hero-image-credit">Alzheimer&apos;s disease brain cell by TEM (<a href="https://www.sciencephoto.com/media/250394/view" target="_blank" rel="noopener">SciPhotoLib</a>)</span>'
       link:
-        icon: flask
-        icon_pack: fas
-        text: Research
-        url: ../research/
-      title: "👋 Welcome to Wang Lab@NTU, Singapore 👋"
-    - align: center
-      background:
-        color: '#333'
-        image:
-          filename: group_photo2.jpg
-          filters:
-            brightness: 0.8
-        position: center
-      content: 
-      link:
-        icon: graduation-cap
-        icon_pack: fas
-        text: Team
-        url: ../team/
-      title: 🌍 Meet Our Team Members 🌍
-    - align: center
-      background:
-        color: '#555'
-        image:
-          filename: contact_us.jpg
-          filters:
-            brightness: 0.8
-        position: center
-      content: 
-      link:
-        # icon: graduation-cap
-        # icon_pack: fas
-        text: 📨 Contact
-        url: ../contact/
-      title: ☕️ Talking and Collaboration ☕️
+        url: ''
+      title: "Welcome to CWang Lab @ NTU, Singapore"
       
   design:
     interval: 5000
@@ -136,9 +103,9 @@ sections:
 - block: collection
   id: research
   content:
-    title: 🔬 RESEARCH
+    title: RESEARCH
     # subtitle: ":point_right: [Detailed Research](./research/)"
-    text: "Our research is focused on the development of computational methods for the analysis of proteomics, lipidomics, and structure biology. We are also interested in the application of these methods to aging and aging related diseases"
+    text: "We investigate the molecular mechanisms underlying synaptic dysfunction in neurodegenerative diseases and aging, with an emphasis on protein–lipid interactions, using cryo-electron microscopy and tomography together with mass spectrometry-based multi-omics."
     count: 100
     filters:
       author: ""
@@ -197,73 +164,6 @@ sections:
 #       # Text color (true=light, false=dark, or remove for the dynamic theme color).
 #       # text_color_light: false
     
-- block: collection
-  id: publication
-  content:
-    count: 5
-    title: 📃 PUBLICATION
-    # subtitle: ":point_right: [All Publications](./publication/)"
-    text: 
-    filters:
-      folders:
-        - publication
-      exclude_featured: false
-  design:
-    columns: '1'
-    view: compact
-    
-- block: collection
-  id: news
-  content:
-    count: 10
-    filters:
-      folders:
-        - news
-      exclude_featured: false
-    offset: 0
-    order: desc
-    # subtitle: ":point_right: [All News](./news/)"
-    title: 📰 NEWS
-    text: 
-  design:
-    columns: "2"
-    view: list
-    # background:
-    #   image:
-    #     filename: news.jpg
-    #     filters:
-    #       brightness: 0.5
-    #   #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
-    #   size: cover
-    #   # Image focal point. Options include `left`, `center` (default), or `right`.
-    #   position: center
-    #   # Use a fun parallax-like fixed background effect on desktop? true/false
-    #   parallax: true
-    #   # Text color (true=light, false=dark, or remove for the dynamic theme color).
-    #   text_color_light: true
-
-- block: people
-  id: team
-  content:
-    sort_ascending: true
-    sort_by: Params.last_name
-    title: 👥 TEAM
-    subtitle: ":point_right: [All Team Members](./team/)"
-    # text: |-
-    #   {{% callout note %}}
-    #   [All team members](./team/).
-    #   {{% /callout %}}
-    user_groups:
-    - Principal Investigator
-    - Researchers
-    - Students
-    - Intern
-    - Join US
-  design:
-    show_interests: false
-    show_role: true
-    show_social: true
-    
 # - block: collection
 #   id: event
 #   content:
@@ -295,23 +195,23 @@ sections:
 - block: contact
   id: contact
   content:
-    title: 📨 CONTACT
+    title: CONTACT/JOIN US
     # subtitle: ":point_right: [More social media](./contact/)"
     text: 
     # Contact (add or remove contact options as necessary)
-    email: choicewang0820@hotmail.com
-    phone: +65 83042333
+    # email: choicewang0820@hotmail.com
+    # phone: +65 83042333
     # appointment_url: 'https://calendly.com'
-    address:
-      street: 59 Nanyang Dr
-      city: Singapore
-      region: Singapore
-      postcode: '636921'
-      country: Singapore
-      country_code: SG
+    # address:
+    #   street: 59 Nanyang Dr
+    #   city: Singapore
+    #   region: Singapore
+    #   postcode: '636921'
+    #   country: Singapore
+    #   country_code: SG
     # office_hours:
     #   - 'Weekdays 9:00 to 18:00'
-    contact_links:
+    # contact_links:
       # - icon: video
       #   icon_pack: fas
       #   name: Zoom Me
@@ -320,20 +220,20 @@ sections:
       #   icon_pack: fab
       #   name: Follow us on WeChat
       #   link: 'https://jaspershen.github.io/image/wechat_QR.jpg'
-      - icon: twitter
-        icon_pack: fab
-        name: Follow us on X
-        link: https://x.com/ChuchuWang0820
-      - icon: github
-        icon_pack: fab
-        name: Follow us on Github
-        link: https://github.com/cleowang-lab
+      # - icon: twitter
+      #   icon_pack: fab
+      #   name: Follow us on X
+      #   link: https://x.com/ChuchuWang0820
+      # - icon: github
+      #   icon_pack: fab
+      #   name: Follow us on Github
+      #   link: https://github.com/cleowang-lab
     # Automatically link email and phone or display as text?
     autolink: true
     # Email form provider
     form:
       formspree:
-        id: xpzgpjby
+        id: xkjnqeqv
       netlify:
         captcha: false
       provider: formspree
@@ -416,14 +316,16 @@ sections:
   #   columns: '1'
 
 
-- block: tag_cloud
+- block: markdown
+  id: lipidflow
   content:
     title: ""
+    text: '<div class="lipidflow-banner"><a href="https://github.com/jaspershen-lab/lipidflowshiny" target="_blank" rel="noopener">LipidFlow</a> - a collaborative platform for untargeted lipidomics data analysis</div>'
   design:
     columns: '1'
     background:
-      video:
-        filename: tags_background.mp4
+      image:
+        filename: flow.gif
         filters:
           brightness: 1
       #  Image fit. Options are `cover` (default), `contain`, or `actual` size.

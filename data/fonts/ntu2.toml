@@ -1,11 +1,11 @@
 # Font style metadata
-name = "Minimal"
+name = "Nature-inspired"
 
 # Optional Google font URL
-google_fonts = "family=Bruno+Ace&family=Limelight&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900"
+google_fonts = "family=Inter:wght@400;500;600;700&family=Libre+Baskerville:wght@400;700&family=Oswald:wght@500;600;700&family=Source+Code+Pro:wght@400;500;600"
 
 # Font families
-heading_font = "Limelight"
-body_font = "Poppins"
-nav_font = "Poppins"
-mono_font = "Poppins"
+heading_font = "Libre Baskerville"
+body_font = "Libre Baskerville"
+nav_font = "Inter"
+mono_font = "Source Code Pro"

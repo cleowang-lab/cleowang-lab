@@ -127,8 +127,4 @@ publications:
   citation_style: apa
 
 params:
-  social:
-    - icon: github
-      icon_pack: fab
-      link: https://github.com/cleowang-lab
-
+  social: []

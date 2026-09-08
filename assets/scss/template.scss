@@ -3,6 +3,198 @@
   text-align: center;
 }
 
+body,
+.article-style {
+  font-family: "Libre Baskerville", Georgia, "Times New Roman", serif;
+  font-weight: 400;
+}
+
+h1,
+.h1,
+.section-heading h1,
+.hero-title,
+.article-title {
+  font-family: "Oswald", "Arial Narrow", Arial, sans-serif;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4,
+h5,
+.h5,
+h6,
+.h6,
+.section-subheading,
+.portrait-title h2 {
+  font-family: "Libre Baskerville", Georgia, "Times New Roman", serif;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+.article-style,
+.article-style p,
+.summary-link .article-style,
+.home-section .article-style {
+  font-family: "Libre Baskerville", Georgia, "Times New Roman", serif;
+  font-weight: 400;
+}
+
+.section-subheading.article-title {
+  font-family: "Libre Baskerville", Georgia, "Times New Roman", serif;
+  font-weight: 700;
+}
+
+.wg-slider .hero-image-credit {
+  position: absolute;
+  bottom: 1.25rem;
+  right: 6.5rem;
+  z-index: 20;
+  width: fit-content;
+  max-width: calc(100vw - 3rem);
+  padding: 0.35rem 0.55rem;
+  border-radius: 4px;
+  background: rgba(0, 0, 0, 0.45);
+  color: rgba(255, 255, 255, 0.86);
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 0.68rem;
+  line-height: 1.35;
+  text-align: right;
+  pointer-events: auto;
+}
+
+.wg-slider .hero-image-credit a {
+  position: relative;
+  z-index: 21;
+  color: #fff;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  pointer-events: auto;
+}
+
+#section-slider .carousel-indicators,
+#section-slider .carousel-control-prev,
+#section-slider .carousel-control-next {
+  display: none !important;
+}
+
+.view-showcase {
+  margin-top: 2.25rem;
+}
+
+.view-showcase .row.align-items-center {
+  align-items: flex-start !important;
+}
+
+.view-showcase img {
+  display: block;
+  width: 86%;
+  height: auto;
+  margin: 0 auto;
+}
+
+.view-showcase .article-style p {
+  text-align: justify;
+}
+
+.view-showcase .article-style ul {
+  padding-left: 1.4rem;
+  margin-top: 1rem;
+  text-align: left;
+}
+
+.view-showcase .article-style li {
+  margin-bottom: 0.35rem;
+}
+
+.view-showcase .article-style a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+#research.home-section {
+  padding-bottom: 55px;
+}
+
+#contact.home-section {
+  padding-top: 55px;
+}
+
+#contact .btn-primary {
+  background-color: #003d7c;
+  border-color: #003d7c;
+}
+
+#contact .btn-primary:hover,
+#contact .btn-primary:focus {
+  background-color: #002f5f;
+  border-color: #002f5f;
+}
+
+.site-footer a,
+.site-footer a:visited {
+  color: #003d7c;
+}
+
+.site-footer a:hover,
+.site-footer a:focus {
+  color: #002f5f;
+}
+
+#lipidflow.home-section .home-section-bg,
+#lipidflow .home-section-bg {
+  background-image: url("/media/flow.gif") !important;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: brightness(1);
+}
+
+#lipidflow .lipidflow-banner {
+  color: #003d7c !important;
+  font-family: "Oswald", "Arial Narrow", Arial, sans-serif;
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 1.2;
+  text-align: center;
+  white-space: nowrap;
+}
+
+#lipidflow .lipidflow-banner a {
+  color: inherit !important;
+  text-decoration: underline;
+  text-underline-offset: 0.12em;
+}
+
+#lipidflow .lipidflow-banner a:hover {
+  color: inherit !important;
+}
+
+.navbar,
+.navbar-brand,
+.navbar-nav,
+.nav-icons,
+.search-modal,
+button,
+input,
+select,
+textarea {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+pre,
+code,
+kbd,
+samp {
+  font-family: "Source Code Pro", SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+}
+
 // Center the CTA shortcode button
 .cta-group {
   justify-content: center;

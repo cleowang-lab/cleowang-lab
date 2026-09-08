@@ -16,13 +16,13 @@ organizations:
 role: 
 social:
 - display:
-    header: true
+    header: false
   icon: github
   icon_pack: fab
   label: Follow us on GitHub
   link: https://github.com/cleowang-lab
 - display:
-    header: true
+    header: false
   icon: twitter
   icon_pack: fab
   label: Follow us on X
