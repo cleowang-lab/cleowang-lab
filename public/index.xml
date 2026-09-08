@@ -1,367 +1,1086 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wang Lab</title><link>https://cleowang-lab.github.io/</link><atom:link href="https://cleowang-lab.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Wang Lab</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate><image><url>https://cleowang-lab.github.io/media/logo_hu59533391df896ae5e83994df6754cd25_74072_300x300_fit_lanczos_3.png</url><title>Wang Lab</title><link>https://cleowang-lab.github.io/</link></image><item><title>Research Resources</title><link>https://cleowang-lab.github.io/research_brief/structure-biology/</link><pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/research_brief/structure-biology/</guid><description>&lt;p>Our research is supported by a multidisciplinary ecosystem of in-house instrumentation and shared research facilities across NTU, including:&lt;/p>
-&lt;ul>
-&lt;li>Our lab&amp;rsquo;s FPLC, HPLC and DLS systems&lt;/li>
-&lt;li>&lt;a href="https://www.ntu.edu.sg/nisb/research-capabilities/cryoem-platform?utm_source=chatgpt.com" target="_blank" rel="noopener">NISB Cryo-EM Platform&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.ntu.edu.sg/nisb/research-capabilities/researchplatforms?utm_source=chatgpt.com" target="_blank" rel="noopener">NISB Other Research Platforms&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.ntu.edu.sg/spc" target="_blank" rel="noopener">Singapore Phenome Centre&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.nobic.sg/Facilities.html" target="_blank" rel="noopener">NTU Optical Bio-Imaging Centre&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Aging and Aging-Related Diseases</title><link>https://cleowang-lab.github.io/research_brief/aging/</link><pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/research_brief/aging/</guid><description>&lt;p>Aging gradually changes how neurons function and increases the risk of neurodegenerative diseases such as Alzheimer’s and Parkinson’s disease. What makes aging synapses vulnerable to dysfunction and degeneration? We seek to answer this question by investigating how the cellular environment shapes the molecular organisation and function of the synapse. We are particularly interested in neuronal membranes and protein–lipid interactions. Proteins do not act in isolation: their behaviour depends not only on their sequences, but also on the lipids and molecular partners around them. By combining cryo-electron microscopy and tomography with mass spectrometry-based multi-omics and experimental models, we aim to uncover the molecular features that distinguish healthy synapses from vulnerable ones during aging and disease.&lt;/p></description></item><item><title>2025-05-14 Opportunities in Wang Lab</title><link>https://cleowang-lab.github.io/news/2023-11-23-recruitment/</link><pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/news/2023-11-23-recruitment/</guid><description>&lt;p>&lt;strong>Job Opportunities in Wang Lab at Nanyang Technological University (NTU), Singapore&lt;/strong>&lt;/p>
-&lt;p>&lt;strong>Institution Overview&lt;/strong>&lt;/p>
-&lt;p>Nanyang Technological University (NTU), Singapore, is a world-renowned research-intensive university, ranked &lt;strong>15th globally in the 2025 QS World University Rankings&lt;/strong>. NTU is recognized for its academic excellence, groundbreaking research, and global outlook. The university offers a vibrant, interdisciplinary research environment with state-of-the-art facilities and comprehensive support services.&lt;/p>
-&lt;p>&lt;strong>About the Lab&lt;/strong>&lt;/p>
-&lt;p>Dr. &lt;strong>Chuchu Wang&lt;/strong> will join NTU’s &lt;strong>Lee Kong Chian School of Medicine (LKCMedicine)&lt;/strong> as an Assistant Professor in &lt;strong>November 2025&lt;/strong> and has been awarded the prestigious &lt;strong>Nanyang Assistant Professorship (NAP)&lt;/strong> grant. The lab will be well-funded and housed in a dynamic and collaborative research environment.&lt;/p>
-&lt;p>Dr. Wang received her Ph.D. in Cell Biology in 2019 under the supervision of Dr. Cong Liu at the Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences. From 2020 to 2025, she conducted postdoctoral research at Stanford University under the guidance of HHMI Investigator &lt;strong>Prof. Axel Brunger&lt;/strong>, focusing on structural and molecular neuroscience. Dr. Wang has published as first or co-first author in journals including &lt;em>Nature&lt;/em>, &lt;em>Nature Aging&lt;/em>, &lt;em>Nature Cell Biology&lt;/em>, &lt;em>Nature Communications&lt;/em>, &lt;em>Nature Protocols&lt;/em>, &lt;em>National Science Review&lt;/em>, &lt;em>PNAS&lt;/em>, &lt;em>eLife&lt;/em>, and &lt;em>Bioinformatics&lt;/em>.&lt;/p>
-&lt;p>&lt;strong>Google Scholar&lt;/strong>: &lt;a href="https://scholar.google.co.uk/citations?hl=en&amp;amp;user=1SQy-gQAAAAJ" target="_blank" rel="noopener">https://scholar.google.co.uk/citations?hl=en&amp;amp;user=1SQy-gQAAAAJ&lt;/a>&lt;/p>
-&lt;p>&lt;strong>Research Focus&lt;/strong>&lt;/p>
-&lt;p>Our interdisciplinary lab combines &lt;strong>in situ structural biology (cryo-EM/ET, in-cell NMR)&lt;/strong>, &lt;strong>mass spectrometry-based lipidomics and proteomics&lt;/strong>, &lt;strong>cell biology&lt;/strong>, &lt;strong>bioinformatics&lt;/strong>, and &lt;strong>molecular biology&lt;/strong> to investigate the physiological and pathological mechanisms of &lt;strong>human aging and neurodegenerative diseases&lt;/strong>.&lt;/p>
-&lt;p>The lab aims to integrate multi-omics, molecular structural analysis, and biochemical/cellular experiments to uncover &lt;strong>lipid–protein interactions in age-related disorders&lt;/strong>, with the ultimate goal of identifying early diagnostic markers and therapeutic strategies to promote healthy aging.&lt;/p>
-&lt;p>We welcome applicants from diverse backgrounds (e.g., neuroscience, biophysics, biochemistry, bioinformatics), who are passionate about impactful, translational research.&lt;/p>
-&lt;p>&lt;strong>Collaborations&lt;/strong>&lt;/p>
-&lt;p>Our lab maintains active collaborations with leading institutions in the &lt;strong>US, Singapore, and China&lt;/strong>, offering lab members the opportunity to engage with top-tier researchers globally.&lt;/p>
-&lt;hr>
-&lt;h3 id="open-positions">&lt;strong>Open Positions&lt;/strong>&lt;/h3>
-&lt;h4 id="1-phd-students--undergraduate-researchers">1. &lt;strong>PhD Students &amp;amp; Undergraduate Researchers&lt;/strong>&lt;/h4>
-&lt;p>We are recruiting &lt;strong>PhD students for January 2026 intake&lt;/strong> (application period: &lt;strong>May 1 – June 30, 2025&lt;/strong>). August intake applications open &lt;strong>September 1 – December 31&lt;/strong> annually.&lt;/p>
-&lt;p>&lt;strong>Benefits:&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>Full scholarship and competitive monthly stipend&lt;/li>
-&lt;li>Support for international conference travel (funded by both the school and the lab)&lt;/li>
-&lt;li>Access to cutting-edge facilities and mentorship in a collaborative research environment&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>Eligibility:&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>English proficiency: TOEFL ≥ 100 or IELTS ≥ 6.5 (within 2 years); required unless graduated from English-medium institutions&lt;/li>
-&lt;li>GRE required for non-Singapore degree holders (V+Q ≥ 319; AW ≥ 3.5, within 5 years)&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>Application info:&lt;/strong>
-&lt;a href="https://www.ntu.edu.sg/education/graduate-programme/lkcmedicine-phd-by-research-programme#admission" target="_blank" rel="noopener">NTU LKCMedicine PhD Admissions&lt;/a>&lt;/p>
-&lt;p>Outstanding undergraduates are also encouraged to join for research training and thesis projects.&lt;/p>
-&lt;hr>
-&lt;h4 id="2-postdoctoral-research-fellow">2. &lt;strong>Postdoctoral Research Fellow&lt;/strong>&lt;/h4>
-&lt;p>&lt;strong>Qualifications:&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>Ph.D. in biology, neuroscience, biophysics, structural biology, bioinformatics, or related fields&lt;/li>
-&lt;li>Experience in &lt;strong>neurocell biology&lt;/strong>, &lt;strong>cryo-EM/NMR&lt;/strong>, or &lt;strong>omics data analysis&lt;/strong> preferred&lt;/li>
-&lt;li>Proven ability to conduct independent research&lt;/li>
-&lt;li>Strong publication record (first-author papers or preprints)&lt;/li>
-&lt;li>Excellent communication and teamwork skills&lt;/li>
-&lt;li>Ability to mentor students and contribute to grant writing&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>Compensation:&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>Competitive salary based on experience and NTU guidelines&lt;/li>
-&lt;li>Support for fellowship applications and career development&lt;/li>
-&lt;li>Funding for conferences and collaborative visits&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h4 id="3-research-assistant">3. &lt;strong>Research Assistant&lt;/strong>&lt;/h4>
-&lt;p>&lt;strong>Qualifications:&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>Bachelor&amp;rsquo;s degree or above&lt;/li>
-&lt;li>Prior experience in protein purification, cell culture, or animal handling is a plus&lt;/li>
-&lt;li>Familiarity with EM/NMR data or omics analysis is desirable&lt;/li>
-&lt;li>Ability to work independently and collaboratively&lt;/li>
-&lt;li>Fluent in written and spoken English&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>Compensation:&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>Salary will be competitive and commensurate with experience&lt;/li>
-&lt;li>Opportunities to co-author publications and attend international meetings&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h4 id="4-visiting-scholars--joint-phd-students">4. &lt;strong>Visiting Scholars &amp;amp; Joint PhD Students&lt;/strong>&lt;/h4>
-&lt;p>We welcome visiting researchers and joint PhD students interested in collaborative or short-term research exchanges.&lt;/p>
-&lt;hr>
-&lt;p>&lt;strong>Application Instructions&lt;/strong>&lt;/p>
-&lt;p>To apply, please send the following documents in &lt;strong>English&lt;/strong> to &lt;strong>&lt;a href="mailto:choicewang0820@hotmail.com">choicewang0820@hotmail.com&lt;/a>&lt;/strong>:&lt;/p>
-&lt;ul>
-&lt;li>Cover letter (briefly describing your past experience and research interests)&lt;/li>
-&lt;li>CV&lt;/li>
-&lt;li>Contact details of 2–3 referees&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>Email subject format&lt;/strong>:
-&lt;code>[Application Position] - [Your Name]&lt;/code>, e.g.,
-&lt;code>Postdoc Application – David Liu&lt;/code>,
-&lt;code>PhD Application – Jeremy Lee&lt;/code>&lt;/p>
-&lt;p>Applicants will be contacted for interviews shortly after submission.&lt;/p></description></item><item><title>N-acetylation of α-synuclein enhances synaptic vesicle clustering mediated by α-synuclein and lysophosphatidylcholine</title><link>https://cleowang-lab.github.io/publication/n-acetylation-of-%CE%B1-synuclein-enhances-synaptic-vesicle-clustering-mediated-by-%CE%B1-synuclein-and-lysophosphatidylcholine/</link><pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/publication/n-acetylation-of-%CE%B1-synuclein-enhances-synaptic-vesicle-clustering-mediated-by-%CE%B1-synuclein-and-lysophosphatidylcholine/</guid><description/></item><item><title>Photos</title><link>https://cleowang-lab.github.io/photo-2024/</link><pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/photo-2024/</guid><description>&lt;h1 id="---">&amp;mdash;&lt;/h1>
-&lt;h1 id="date-2024-12-22">date: &amp;ldquo;2024-12-22&amp;rdquo;&lt;/h1>
-&lt;h1 id="sections">sections:&lt;/h1>
-&lt;h1 id="--block-markdown">- block: markdown&lt;/h1>
-&lt;h1 id="id-photo">id: photo&lt;/h1>
-&lt;h1 id="content">content:&lt;/h1>
-&lt;h1 id="title--lab-photos-2024">title: 📸 Lab Photos 2024&lt;/h1>
-&lt;h1 id="subtitle-">subtitle: ''&lt;/h1>
-&lt;h1 id="text--">text: |-&lt;/h1>
-&lt;h1 id="heading">&lt;/h1>
-&lt;h1 id="style">&lt;style>&lt;/h1>
-&lt;h1 id="gallery-">.gallery {&lt;/h1>
-&lt;h1 id="display-flex">display: flex;&lt;/h1>
-&lt;h1 id="flex-wrap-wrap">flex-wrap: wrap;&lt;/h1>
-&lt;h1 id="gap-10px">gap: 10px;&lt;/h1>
-&lt;h1 id="heading-1">}&lt;/h1>
-&lt;h1 id="gallery-img-">.gallery img {&lt;/h1>
-&lt;h1 id="max-width-48">max-width: 48%;&lt;/h1>
-&lt;h1 id="cursor-pointer">cursor: pointer;&lt;/h1>
-&lt;h1 id="border-1px-solid-ddd">border: 1px solid #ddd;&lt;/h1>
-&lt;h1 id="border-radius-4px">border-radius: 4px;&lt;/h1>
-&lt;h1 id="heading-2">}&lt;/h1>
-&lt;h1 id="gallery-imghover-">.gallery img:hover {&lt;/h1>
-&lt;h1 id="border-1px-solid-000">border: 1px solid #000;&lt;/h1>
-&lt;h1 id="heading-3">}&lt;/h1>
-&lt;h1 id="style-1">&lt;/style>&lt;/h1>
-&lt;h1 id="heading-4">&lt;/h1>
-&lt;h1 id="div-classgallery">&lt;div class="gallery">&lt;/h1>
-&lt;h1 id="a-hreflablab-2024-12-19jpg-target_blankimg-srclablab-2024-12-19jpg-altphoto-1a">&lt;a href="lab/lab-2024-12-19.jpg" target="_blank">&lt;img src="lab/lab-2024-12-19.jpg" alt="Photo 1">&lt;/a>&lt;/h1>
-&lt;h1 id="a-hreflab2024-11-19-editor-visitingjpg-target_blankimg-srclab2024-11-19-editor-visitingjpg-altphoto-2a">&lt;a href="lab/2024-11-19-editor-visiting.jpg" target="_blank">&lt;img src="lab/2024-11-19-editor-visiting.jpg" alt="Photo 2">&lt;/a>&lt;/h1>
-&lt;h1 id="a-hreflab2024-10-14-jingxiang-arrivaljpg-target_blankimg-srclab2024-10-14-jingxiang-arrivaljpg-altphoto-3a">&lt;a href="lab/2024-10-14-jingxiang-arrival.jpg" target="_blank">&lt;img src="lab/2024-10-14-jingxiang-arrival.jpg" alt="Photo 3">&lt;/a>&lt;/h1>
-&lt;h1 id="a-hreflab2024-5-21-first-day-in-officejpg-target_blankimg-srclab2024-5-21-first-day-in-officejpg-altphoto-4a">&lt;a href="lab/2024-5-21-first-day-in-office.jpg" target="_blank">&lt;img src="lab/2024-5-21-first-day-in-office.jpg" alt="Photo 4">&lt;/a>&lt;/h1>
-&lt;h1 id="div">&lt;/div>&lt;/h1>
-&lt;h1 id="heading-5">&lt;/h1>
-&lt;h1 id="heading-6">&lt;/h1>
-&lt;h1 id="-------hr"># &lt;hr>&lt;/h1>
-&lt;h1 id="-------figure"># &lt;figure>&lt;/h1>
-&lt;h1 id="-------centerimg-srclablab-2024-12-19jpg-alt2024-12-19-lab-dinner-width60center"># &lt;center>&lt;img src="lab/lab-2024-12-19.jpg" alt="2024-12-19 lab dinner" width="60%">&lt;/center>&lt;/h1>
-&lt;h1 id="-------figcaption12192024-lab-dinnerfigcaption"># &lt;figcaption>12/19/2024: lab dinner&lt;/figcaption>&lt;/h1>
-&lt;h1 id="-------figure-1"># &lt;/figure>&lt;/h1>
-&lt;h1 id="heading-7">&lt;/h1>
-&lt;h1 id="-------hr-1"># &lt;hr>&lt;/h1>
-&lt;h1 id="----------figure2---"># &lt;!-- figure2 -->&lt;/h1>
-&lt;h1 id="-------figure-2"># &lt;figure>&lt;/h1>
-&lt;h1 id="-------centerimg-srclab2024-11-19-editor-visitingjpg-altmass-spec-width60center"># &lt;center>&lt;img src="lab/2024-11-19-editor-visiting.jpg" alt="mass-spec" width="60%">&lt;/center>&lt;/h1>
-&lt;h1 id="-------figcaption11192024-editor-visitingfigcaption"># &lt;figcaption>11/19/2024: Editor visiting&lt;/figcaption>&lt;/h1>
-&lt;h1 id="-------figure-3"># &lt;/figure>&lt;/h1>
-&lt;h1 id="heading-8">&lt;/h1>
-&lt;h1 id="-------hr-2"># &lt;hr>&lt;/h1>
-&lt;h1 id="----------figure2----1"># &lt;!-- figure2 -->&lt;/h1>
-&lt;h1 id="-------figure-4"># &lt;figure>&lt;/h1>
-&lt;h1 id="-------centerimg-srclab2024-10-14-jingxiang-arrivaljpg-altmass-spec-width60center"># &lt;center>&lt;img src="lab/2024-10-14-jingxiang-arrival.jpg" alt="mass-spec" width="60%">&lt;/center>&lt;/h1>
-&lt;h1 id="-------figcaption10142024-jingxiang-arrivalfigcaption"># &lt;figcaption>10/14/2024: Jingxiang arrival&lt;/figcaption>&lt;/h1>
-&lt;h1 id="-------figure-5"># &lt;/figure>&lt;/h1>
-&lt;h1 id="heading-9">&lt;/h1>
-&lt;h1 id="-------hr-3"># &lt;hr>&lt;/h1>
-&lt;h1 id="----------figure3---"># &lt;!-- figure3 -->&lt;/h1>
-&lt;h1 id="-------figure-6"># &lt;figure>&lt;/h1>
-&lt;h1 id="-------centerimg-srclablab-dinner-2024-9-17jpg-altmass-spec-width60center"># &lt;center>&lt;img src="lab/lab-dinner-2024-9-17.jpg" alt="mass-spec" width="60%">&lt;/center>&lt;/h1>
-&lt;h1 id="-------figcaption9172024-lab-dinnerfigcaption"># &lt;figcaption>9/17/2024: lab dinner&lt;/figcaption>&lt;/h1>
-&lt;h1 id="-------figure-7"># &lt;/figure>&lt;/h1>
-&lt;h1 id="heading-10">&lt;/h1>
-&lt;h1 id="-------hr-4"># &lt;hr>&lt;/h1>
-&lt;h1 id="----------figure4---"># &lt;!-- figure4 -->&lt;/h1>
-&lt;h1 id="-------figure-8"># &lt;figure>&lt;/h1>
-&lt;h1 id="-------centerimg-srclab2024-5-21-first-day-in-officejpg-altmass-spec-width60center"># &lt;center>&lt;img src="lab/2024-5-21-first-day-in-office.jpg" alt="mass-spec" width="60%">&lt;/center>&lt;/h1>
-&lt;h1 id="-------figcaption5212024-first-day-in-the-officefigcaption"># &lt;figcaption>5/21/2024: first day in the office&lt;/figcaption>&lt;/h1>
-&lt;h1 id="-------figure-9"># &lt;/figure>&lt;/h1>
-&lt;h1 id="heading-11">&lt;/h1>
-&lt;h1 id="design">design:&lt;/h1>
-&lt;h1 id="columns-1">columns: &amp;lsquo;1&amp;rsquo;&lt;/h1>
-&lt;h1 id="heading-12">&lt;/h1>
-&lt;h1 id="title-photos">title: Photos&lt;/h1>
-&lt;h1 id="type-landing">type: landing&lt;/h1>
-&lt;h1 id="httpswwwlabnolorgembedgooglephotos">##https://www.labnol.org/embed/google/photos/&lt;/h1>
-&lt;h1 id="httpswwwpublicalbumorgblogembedding-google-photos-albums">##https://www.publicalbum.org/blog/embedding-google-photos-albums&lt;/h1>
-&lt;h1 id="----1">&amp;mdash;&lt;/h1></description></item><item><title>Photos</title><link>https://cleowang-lab.github.io/photo-2025/</link><pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/photo-2025/</guid><description/></item><item><title>Xiaotao Shen presented in 3rd FEBS-IUBMB-ENABLE conference Singapore 2024</title><link>https://cleowang-lab.github.io/event/2024-12-04-enable-conference/</link><pubDate>Thu, 05 Dec 2024 13:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/event/2024-12-04-enable-conference/</guid><description>&lt;p>
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img alt="" srcset="
-/event/2024-12-04-enable-conference/featured_hub484fa88e41818203f9138faa7681294_321055_66dc57a4a8cd139ab6963cb889839825.webp 400w,
-/event/2024-12-04-enable-conference/featured_hub484fa88e41818203f9138faa7681294_321055_6c016836af808486509010fbe1e22db8.webp 760w,
-/event/2024-12-04-enable-conference/featured_hub484fa88e41818203f9138faa7681294_321055_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-src="https://cleowang-lab.github.io/event/2024-12-04-enable-conference/featured_hub484fa88e41818203f9138faa7681294_321055_66dc57a4a8cd139ab6963cb889839825.webp"
-width="760"
-height="570"
-loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p></description></item><item><title>2024-08-14 Paper accepted in Nature Aging</title><link>https://cleowang-lab.github.io/news/2024-8-14-nature-aging/</link><pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/news/2024-8-14-nature-aging/</guid><description>&lt;p>Our paper: Nonlinear dynamics of multi-omics profiles during human aging has been accepted for publication in Nature Aging.&lt;/p>
-&lt;p>
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%22featured.png%22" alt="" loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p></description></item><item><title>Nonlinear dynamics of multi-omics profiles during human aging</title><link>https://cleowang-lab.github.io/publication/nonlinear-dynamics-of-multi-omics-profiles-during-human-aging/</link><pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/publication/nonlinear-dynamics-of-multi-omics-profiles-during-human-aging/</guid><description/></item><item><title>Visit Hong Kong Baptist University</title><link>https://cleowang-lab.github.io/event/2024-7-19-hkbu/</link><pubDate>Fri, 19 Jul 2024 13:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/event/2024-7-19-hkbu/</guid><description>&lt;p>
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img alt="" srcset="
-/event/2024-7-19-hkbu/featured_hub484fa88e41818203f9138faa7681294_321055_66dc57a4a8cd139ab6963cb889839825.webp 400w,
-/event/2024-7-19-hkbu/featured_hub484fa88e41818203f9138faa7681294_321055_6c016836af808486509010fbe1e22db8.webp 760w,
-/event/2024-7-19-hkbu/featured_hub484fa88e41818203f9138faa7681294_321055_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-src="https://cleowang-lab.github.io/event/2024-7-19-hkbu/featured_hub484fa88e41818203f9138faa7681294_321055_66dc57a4a8cd139ab6963cb889839825.webp"
-width="760"
-height="570"
-loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p></description></item><item><title>Observing isolated synaptic vesicle association and fusion ex vivo</title><link>https://cleowang-lab.github.io/publication/observing-isolated-synaptic-vesicle-association-and-fusion-ex-vivo/</link><pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/publication/observing-isolated-synaptic-vesicle-association-and-fusion-ex-vivo/</guid><description/></item><item><title>VAMP2 chaperones α-synuclein in synaptic vesicle co-condensates</title><link>https://cleowang-lab.github.io/publication/vamp2-chaperones-%CE%B1-synuclein-in-synaptic-vesicle-co-condensates/</link><pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/publication/vamp2-chaperones-%CE%B1-synuclein-in-synaptic-vesicle-co-condensates/</guid><description/></item><item><title>2024-06-05 Paper accepted in Nature</title><link>https://cleowang-lab.github.io/news/2024-6-5-nature/</link><pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/news/2024-6-5-nature/</guid><description>&lt;p>Our paper Structure and topography of the synaptic V-ATPase–synaptophysin complex has been accepted for publication in Cell Host &amp;amp; Microbe.&lt;/p>
-&lt;p>&lt;a href="https://www.nature.com/articles/s41586-024-07610-x" target="_blank" rel="noopener">Paper Link&lt;/a>&lt;/p>
-&lt;p>
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%22featured.jpg%22" alt="" loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p></description></item><item><title>Structure and topography of the synaptic V-ATPase–synaptophysin complex</title><link>https://cleowang-lab.github.io/publication/structure-and-topography-of-the-synaptic-v-atpasesynaptophysin-complex/</link><pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/publication/structure-and-topography-of-the-synaptic-v-atpasesynaptophysin-complex/</guid><description/></item><item><title>Nonlinear Dynamic Changes During Human Aging Revealed in Multi-omics Profiles</title><link>https://cleowang-lab.github.io/event/2024-asms/</link><pubDate>Sat, 01 Jun 2024 13:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/event/2024-asms/</guid><description>&lt;p>
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img alt="" srcset="
-/event/2024-asms/figure1_hu96a5ab8e0364e843af4687201b687892_249234_b53052ab6c2e74c885ad1fae975bdfa2.webp 400w,
-/event/2024-asms/figure1_hu96a5ab8e0364e843af4687201b687892_249234_89d9542397d7e2686a26f9993f22a456.webp 760w,
-/event/2024-asms/figure1_hu96a5ab8e0364e843af4687201b687892_249234_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-src="https://cleowang-lab.github.io/event/2024-asms/figure1_hu96a5ab8e0364e843af4687201b687892_249234_b53052ab6c2e74c885ad1fae975bdfa2.webp"
-width="760"
-height="570"
-loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img alt="" srcset="
-/event/2024-asms/figure2_hud4f9a659192453ac7c88fa1e2b492400_307275_3810850b4ac2fc48b7f3abf48fe9afa7.webp 400w,
-/event/2024-asms/figure2_hud4f9a659192453ac7c88fa1e2b492400_307275_4b1a9d4ba01f5c93c0d15cf8f25f985f.webp 760w,
-/event/2024-asms/figure2_hud4f9a659192453ac7c88fa1e2b492400_307275_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-src="https://cleowang-lab.github.io/event/2024-asms/figure2_hud4f9a659192453ac7c88fa1e2b492400_307275_3810850b4ac2fc48b7f3abf48fe9afa7.webp"
-width="760"
-height="570"
-loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p></description></item><item><title>Lysophosphatidylcholine binds α-synuclein and prevents its pathological aggregation</title><link>https://cleowang-lab.github.io/publication/lysophosphatidylcholine-binds-%CE%B1-synuclein-and-prevents-its-pathological-aggregation/</link><pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/publication/lysophosphatidylcholine-binds-%CE%B1-synuclein-and-prevents-its-pathological-aggregation/</guid><description/></item><item><title>Beyond the MUN domain Munc13 controls priming and depriming of synaptic vesicles</title><link>https://cleowang-lab.github.io/publication/beyond-the-mun-domain-munc13-controls-priming-and-depriming-of-synaptic-vesicles/</link><pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/publication/beyond-the-mun-domain-munc13-controls-priming-and-depriming-of-synaptic-vesicles/</guid><description/></item><item><title>A new method for isolation and purification of fusion-competent inhibitory synaptic vesicles</title><link>https://cleowang-lab.github.io/publication/a-new-method-for-isolation-and-purification-of-fusion-competent-inhibitory-synaptic-vesicles/</link><pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/publication/a-new-method-for-isolation-and-purification-of-fusion-competent-inhibitory-synaptic-vesicles/</guid><description/></item><item><title>🔬 Research</title><link>https://cleowang-lab.github.io/research/</link><pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/research/</guid><description>&lt;p>Our overarching research interests are bioinformatics algorithms development for multi-omics and wearable data, and their application to precision medicine and biological questions.&lt;/p>
-&lt;h1 id="-method-development-for-multi-omics-and-wearable-data">💻 Method Development For Multi-Omics and Wearable Data&lt;/h1>
-&lt;h2 id="-mass-spectrometry-data">🧬 Mass Spectrometry Data&lt;/h2>
-&lt;p>Mass spectrometry (MS) is an analytical technique used to measure the mass-to-charge ratio (m/z) of ions. It is a powerful tool for identifying the chemical structure of molecules in biological samples, including small molecules (metabolomics), proteins (proteomics), peptides (proteomics), and other biomolecules (lipidomics). We are working on the bioinformatics method and algorithm development (Deep Learning and Maching Learning) for Mass Spectrometry data processing and analysis, including whhole workflow of MS data, and metabolic network analysis. We are also working on the integration of MS data with other omics data, such as transcriptomics, proteomics and microbiome data (see below for more).&lt;/p>
-&lt;p>
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img alt="" srcset="
-/research/tidymass_hu8e0ee36e6082fa90f613ca1e27c82609_267302_61a913da140bcdd85b5f22489ca194c8.webp 400w,
-/research/tidymass_hu8e0ee36e6082fa90f613ca1e27c82609_267302_d5e5a309786755657596f0e0b76a97c5.webp 760w,
-/research/tidymass_hu8e0ee36e6082fa90f613ca1e27c82609_267302_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
-src="https://cleowang-lab.github.io/research/tidymass_hu8e0ee36e6082fa90f613ca1e27c82609_267302_61a913da140bcdd85b5f22489ca194c8.webp"
-width="760"
-height="305"
-loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p>
-&lt;h2 id="-microbiome-data">🦠 Microbiome Data&lt;/h2>
-&lt;p>Research is defined as the creation of new knowledge and/or the use of existing knowledge in a new and creative way so as to generate new concepts, methodologies and understandings. This could include synthesis and analysis of previous research to the extent that it leads to new and creative outcomes.&lt;/p>
-&lt;p>
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img alt="" srcset="
-/research/microbiome_hu5c66fdf1a9d9c8bd9d9c57995ac5d1e9_375650_df3ca90c9853a8ca59616ddaf5dc54a7.webp 400w,
-/research/microbiome_hu5c66fdf1a9d9c8bd9d9c57995ac5d1e9_375650_a49debf4539c5c1330970ee3c5b90879.webp 760w,
-/research/microbiome_hu5c66fdf1a9d9c8bd9d9c57995ac5d1e9_375650_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-src="https://cleowang-lab.github.io/research/microbiome_hu5c66fdf1a9d9c8bd9d9c57995ac5d1e9_375650_df3ca90c9853a8ca59616ddaf5dc54a7.webp"
-width="760"
-height="380"
-loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p>
-&lt;h2 id="-wearable-data">⌚ Wearable Data&lt;/h2>
-&lt;p>Research is defined as the creation of new knowledge and/or the use of existing knowledge in a new and creative way so as to generate new concepts, methodologies and understandings. This could include synthesis and analysis of previous research to the extent that it leads to new and creative outcomes.&lt;/p>
-&lt;p>
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img alt="" srcset="
-/research/wearable_hu469f4e61ddd77a939173bdd29fbadf73_1423236_b98e30db0f216582c51b33b93f6de5ed.webp 400w,
-/research/wearable_hu469f4e61ddd77a939173bdd29fbadf73_1423236_2aec29619929add138ec9913c745cfef.webp 760w,
-/research/wearable_hu469f4e61ddd77a939173bdd29fbadf73_1423236_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
-src="https://cleowang-lab.github.io/research/wearable_hu469f4e61ddd77a939173bdd29fbadf73_1423236_b98e30db0f216582c51b33b93f6de5ed.webp"
-width="760"
-height="509"
-loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p>
-&lt;hr>
-&lt;h1 id="multi-omics-and-wearable-data-integration">Multi-Omics and Wearable Data Integration&lt;/h1>
-&lt;h2 id="precisione-medicine-and-biological-questions">Precisione Medicine and Biological Questions&lt;/h2>
-&lt;h2 id="-aging">🧑 Aging&lt;/h2>
-&lt;p>Research is defined as the creation of new knowledge and/or the use of existing knowledge in a new and creative way so as to generate new concepts, methodologies and understandings. This could include synthesis and analysis of previous research to the extent that it leads to new and creative outcomes.&lt;/p>
-&lt;p>
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img alt="" srcset="
-/research/aging_hufb011f6191f69f7272c34644b78a3084_255788_acebf8fbe89a320cec3f55d2819a8f45.webp 400w,
-/research/aging_hufb011f6191f69f7272c34644b78a3084_255788_7c5c22e35172e9f1ed10650234777564.webp 760w,
-/research/aging_hufb011f6191f69f7272c34644b78a3084_255788_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-src="https://cleowang-lab.github.io/research/aging_hufb011f6191f69f7272c34644b78a3084_255788_acebf8fbe89a320cec3f55d2819a8f45.webp"
-width="760"
-height="480"
-loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p>
-&lt;h2 id="-pregnancy">🤰 Pregnancy&lt;/h2>
-&lt;p>Research is defined as the creation of new knowledge and/or the use of existing knowledge in a new and creative way so as to generate new concepts, methodologies and understandings. This could include synthesis and analysis of previous research to the extent that it leads to new and creative outcomes.&lt;/p>
-&lt;p>
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img alt="" srcset="
-/research/pregnancy_hu147228133437fd25987ff12bd176783c_150086_87d9139bbd3b6e63a44c28afd0f938fe.webp 400w,
-/research/pregnancy_hu147228133437fd25987ff12bd176783c_150086_20a41ca3142b0052323b7f519686d691.webp 760w,
-/research/pregnancy_hu147228133437fd25987ff12bd176783c_150086_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-src="https://cleowang-lab.github.io/research/pregnancy_hu147228133437fd25987ff12bd176783c_150086_87d9139bbd3b6e63a44c28afd0f938fe.webp"
-width="760"
-height="507"
-loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p>
-&lt;h2 id="personal-health-monitoring-and-disease-early-diagnosis">Personal Health Monitoring and Disease Early Diagnosis&lt;/h2></description></item><item><title>Contact</title><link>https://cleowang-lab.github.io/contact/</link><pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/contact/</guid><description/></item><item><title>Neutral lysophosphatidylcholine mediates α-synuclein-induced synaptic vesicle clustering</title><link>https://cleowang-lab.github.io/publication/neutral-lysophosphatidylcholine-mediates-%CE%B1-synuclein-induced-synaptic-vesicle-clustering/</link><pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/publication/neutral-lysophosphatidylcholine-mediates-%CE%B1-synuclein-induced-synaptic-vesicle-clustering/</guid><description/></item><item><title>Nonlinear Dynamic Changes During Human Aging Revealed in Multi-omics Profiles</title><link>https://cleowang-lab.github.io/event/2023-genetics-retreat/</link><pubDate>Thu, 21 Sep 2023 13:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/event/2023-genetics-retreat/</guid><description/></item><item><title>Nonlinear Dynamic Changes During Human Aging Revealed in Multi-omics Profiles</title><link>https://cleowang-lab.github.io/event/2023-bamm/</link><pubDate>Fri, 08 Sep 2023 13:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/event/2023-bamm/</guid><description/></item><item><title>Multi-Omics Microsampling for The Profiling of Lifestyle-Associated Changes in Health</title><link>https://cleowang-lab.github.io/event/2023-casms/</link><pubDate>Tue, 29 Aug 2023 13:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/event/2023-casms/</guid><description/></item><item><title>Software</title><link>https://cleowang-lab.github.io/all_software/</link><pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/all_software/</guid><description/></item><item><title>Multi-Omics Microsampling for The Profiling of Lifestyle-Associated Changes in Health</title><link>https://cleowang-lab.github.io/event/2023-asms/</link><pubDate>Tue, 06 Jun 2023 13:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/event/2023-asms/</guid><description/></item><item><title>Structure-based design of a SARS-CoV-2 Omicron-specific inhibitor</title><link>https://cleowang-lab.github.io/publication/structure-based-design-of-a-sars-cov-2-omicron-specific-inhibitor/</link><pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/publication/structure-based-design-of-a-sars-cov-2-omicron-specific-inhibitor/</guid><description/></item><item><title>Multi-Omics Microsampling for The Profiling of Lifestyle-Associated Changes in Health</title><link>https://cleowang-lab.github.io/event/2023-stanford-postdoc-syposium/</link><pubDate>Wed, 08 Feb 2023 13:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/event/2023-stanford-postdoc-syposium/</guid><description>&lt;p>Abstract&lt;/p></description></item><item><title>Multi-omics microsampling for the profiling of lifestyle-associated changes in health</title><link>https://cleowang-lab.github.io/publication/multi-omics-microsampling-for-the-profiling-of-lifestyle-associated-changes-in-health/</link><pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/publication/multi-omics-microsampling-for-the-profiling-of-lifestyle-associated-changes-in-health/</guid><description/></item><item><title>People</title><link>https://cleowang-lab.github.io/collaborators/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/collaborators/</guid><description/></item><item><title>People</title><link>https://cleowang-lab.github.io/team/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/team/</guid><description/></item><item><title>Twitter</title><link>https://cleowang-lab.github.io/twitter/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/twitter/</guid><description/></item><item><title>Deep learning-based pseudo-mass spectrometry imaging analysis for precision medicine</title><link>https://cleowang-lab.github.io/event/2022-casms/</link><pubDate>Thu, 20 Oct 2022 13:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/event/2022-casms/</guid><description/></item><item><title>Deep learning-based pseudo-mass spectrometry imaging analysis for precision medicine</title><link>https://cleowang-lab.github.io/event/2022-shandong_university/</link><pubDate>Sun, 09 Oct 2022 13:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/event/2022-shandong_university/</guid><description/></item><item><title>massDatabase utilities for the operation of the public compound and pathway database</title><link>https://cleowang-lab.github.io/publication/massdatabase-utilities-for-the-operation-of-the-public-compound-and-pathway-database/</link><pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/publication/massdatabase-utilities-for-the-operation-of-the-public-compound-and-pathway-database/</guid><description/></item><item><title>Nanomolar inhibition of SARS-CoV-2 infection by an unmodified peptide targeting the prehairpin intermediate of the spike protein</title><link>https://cleowang-lab.github.io/publication/nanomolar-inhibition-of-sars-cov-2-infection-by-an-unmodified-peptide-targeting-the-prehairpin-intermediate-of-the-spike-protein/</link><pubDate>Mon, 19 Sep 2022 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/publication/nanomolar-inhibition-of-sars-cov-2-infection-by-an-unmodified-peptide-targeting-the-prehairpin-intermediate-of-the-spike-protein/</guid><description/></item><item><title>Deep learning-based pseudo-mass spectrometry imaging analysis for precision medicine</title><link>https://cleowang-lab.github.io/event/2022-stanford-genetics-retreat/</link><pubDate>Wed, 14 Sep 2022 13:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/event/2022-stanford-genetics-retreat/</guid><description/></item><item><title>Deep learning-based pseudo-mass spectrometry imaging analysis for precision medicine</title><link>https://cleowang-lab.github.io/event/2022-bamm/</link><pubDate>Thu, 08 Sep 2022 13:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/event/2022-bamm/</guid><description/></item><item><title>TidyMicrobiome</title><link>https://cleowang-lab.github.io/software/tidymicrobiome-project/</link><pubDate>Sat, 27 Aug 2022 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/software/tidymicrobiome-project/</guid><description>&lt;p>&lt;code>TidyMicrobiome&lt;/code> project is a comprehensive computational framework that can process the whole workflow of data processing and analysis for microbiome data using tidyverse principles.&lt;/p></description></item><item><title>Tidymass An Object-oriented Computational Framework for LC-MS Data Processing and Analysis</title><link>https://cleowang-lab.github.io/event/2022-acs-fall/</link><pubDate>Mon, 22 Aug 2022 13:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/event/2022-acs-fall/</guid><description/></item><item><title>TidyMass an object-oriented reproducible analysis framework for LC–MS data</title><link>https://cleowang-lab.github.io/publication/tidymass-an-object-oriented-reproducible-analysis-framework-for-lcms-data/</link><pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/publication/tidymass-an-object-oriented-reproducible-analysis-framework-for-lcms-data/</guid><description/></item><item><title>Tidymass An Object-oriented Computational Framework for LC-MS Data Processing and Analysis</title><link>https://cleowang-lab.github.io/event/2022-asms/</link><pubDate>Sun, 05 Jun 2022 13:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/event/2022-asms/</guid><description/></item><item><title>Structural conservation among variants of the SARS-CoV-2 spike postfusion bundle</title><link>https://cleowang-lab.github.io/publication/structural-conservation-among-variants-of-the-sars-cov-2-spike-postfusion-bundle/</link><pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/publication/structural-conservation-among-variants-of-the-sars-cov-2-spike-postfusion-bundle/</guid><description/></item><item><title>metID: an R package for automatable compound annotation for LC− MS-based data</title><link>https://cleowang-lab.github.io/publication/metid-an-r-package-for-automatable-compound-annotation-for-lc-ms-based-data/</link><pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/publication/metid-an-r-package-for-automatable-compound-annotation-for-lc-ms-based-data/</guid><description/></item><item><title>metID A R package for Automatable Compound Annotation for LC−MS-based Data</title><link>https://cleowang-lab.github.io/event/2021-asms/</link><pubDate>Sun, 31 Oct 2021 13:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/event/2021-asms/</guid><description/></item><item><title>Mechanistic basis for receptor-mediated pathological α-synuclein fibril cell-to-cell transmission in Parkinson's disease</title><link>https://cleowang-lab.github.io/publication/mechanistic-basis-for-receptor-mediated-pathological-%CE%B1-synuclein-fibril-cell-to-cell-transmission-in-parkinsons-disease/</link><pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/publication/mechanistic-basis-for-receptor-mediated-pathological-%CE%B1-synuclein-fibril-cell-to-cell-transmission-in-parkinsons-disease/</guid><description/></item><item><title>Decoding links between the exposome and health outcomes by multi-omics analysis</title><link>https://cleowang-lab.github.io/event/2021-exposome_data_challenge_event_xiaotao/</link><pubDate>Thu, 29 Apr 2021 13:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/event/2021-exposome_data_challenge_event_xiaotao/</guid><description/></item><item><title>Nicotinamide mononucleotide adenylyltransferase uses its NAD+ substrate-binding site to chaperone phosphorylated Tau</title><link>https://cleowang-lab.github.io/publication/nicotinamide-mononucleotide-adenylyltransferase-uses-its-nad+-substrate-binding-site-to-chaperone-phosphorylated-tau/</link><pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/publication/nicotinamide-mononucleotide-adenylyltransferase-uses-its-nad+-substrate-binding-site-to-chaperone-phosphorylated-tau/</guid><description/></item><item><title>Different regions of synaptic vesicle membrane regulate VAMP2 conformation for the SNARE assembly</title><link>https://cleowang-lab.github.io/publication/different-regions-of-synaptic-vesicle-membrane-regulate-vamp2-conformation-for-the-snare-assembly/</link><pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/publication/different-regions-of-synaptic-vesicle-membrane-regulate-vamp2-conformation-for-the-snare-assembly/</guid><description/></item><item><title>R cookbook</title><link>https://cleowang-lab.github.io/software/r_cookbook/</link><pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/software/r_cookbook/</guid><description>&lt;p>This is myself note book for R study.&lt;/p></description></item><item><title>Hsp27 chaperones FUS phase separation under the modulation of stress-induced phosphorylation</title><link>https://cleowang-lab.github.io/publication/hsp27-chaperones-fus-phase-separation-under-the-modulation-of-stress-induced-phosphorylation/</link><pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/publication/hsp27-chaperones-fus-phase-separation-under-the-modulation-of-stress-induced-phosphorylation/</guid><description/></item><item><title>deepPseudoMSI</title><link>https://cleowang-lab.github.io/software/deeppseudomsi-project/</link><pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/software/deeppseudomsi-project/</guid><description>&lt;p>The &lt;code>deepPseudoMSI&lt;/code> project is the first method that convert LC-MS raw data to “images” and then process them using deep learning method for diagnosis.&lt;/p></description></item><item><title>laggedCor</title><link>https://cleowang-lab.github.io/software/laggedcor-project/</link><pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/software/laggedcor-project/</guid><description>&lt;p>&lt;code>TidyMass&lt;/code> project is a comprehensive computational framework that can process the whole workflow of data processing and analysis for LC-MS-based untargeted metabolomics using tidyverse principles.&lt;/p></description></item><item><title>metID</title><link>https://cleowang-lab.github.io/software/metid-project/</link><pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/software/metid-project/</guid><description>&lt;p>&lt;code>metID&lt;/code> is a R packge which is used for metabolite identification based on in-house database and public database based on accurate mass, retention time and/or MS2 spectra.&lt;/p></description></item><item><title>TidyMass</title><link>https://cleowang-lab.github.io/software/tidymass-project/</link><pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/software/tidymass-project/</guid><description>&lt;p>&lt;code>TidyMass&lt;/code> project is a comprehensive computational framework that can process the whole workflow of data processing and analysis for LC-MS-based untargeted metabolomics using tidyverse principles.&lt;/p></description></item><item><title>Structure-Based Peptide Inhibitor Design of Amyloid-β Aggregation</title><link>https://cleowang-lab.github.io/publication/structure-based-peptide-inhibitor-design-of-amyloid-%CE%B2-aggregation/</link><pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/publication/structure-based-peptide-inhibitor-design-of-amyloid-%CE%B2-aggregation/</guid><description/></item><item><title>In-Cell NMR Study of Tau and MARK2 Phosphorylated Tau</title><link>https://cleowang-lab.github.io/publication/in-cell-nmr-study-of-tau-and-mark2-phosphorylated-tau/</link><pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/publication/in-cell-nmr-study-of-tau-and-mark2-phosphorylated-tau/</guid><description/></item><item><title>Development of a correlative strategy to discover colorectal tumor tissue derived metabolite biomarkers in plasma using untargeted metabolomics</title><link>https://cleowang-lab.github.io/publication/development-of-a-correlative-strategy-to-discover-colorectal-tumor-tissue-derived-metabolite-biomarkers-in-plasma-using-untargeted-metabolomics/</link><pubDate>Sun, 23 Dec 2018 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/publication/development-of-a-correlative-strategy-to-discover-colorectal-tumor-tissue-derived-metabolite-biomarkers-in-plasma-using-untargeted-metabolomics/</guid><description/></item><item><title>Mechanistic insights into the switch of αB-crystallin chaperone activity and self-multimerization</title><link>https://cleowang-lab.github.io/publication/mechanistic-insights-into-the-switch-of-%CE%B1b-crystallin-chaperone-activity-and-self-multimerization/</link><pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/publication/mechanistic-insights-into-the-switch-of-%CE%B1b-crystallin-chaperone-activity-and-self-multimerization/</guid><description/></item><item><title>Metabolic Reaction Network-based Recursive Metabolite Identification for Untargeted Metabolomics</title><link>https://cleowang-lab.github.io/event/2018-metabolomics-conference/</link><pubDate>Sun, 24 Jun 2018 13:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/event/2018-metabolomics-conference/</guid><description/></item><item><title>Normalization and Integration of Large-Scale Mass Spectrometry-based Metabolomics Data Using Support Vector Regression</title><link>https://cleowang-lab.github.io/event/2016-asms/</link><pubDate>Fri, 22 Jul 2016 13:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/event/2016-asms/</guid><description/></item><item><title>Versatile Structures of α-Synuclein</title><link>https://cleowang-lab.github.io/publication/versatile-structures-of-%CE%B1-synuclein/</link><pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/publication/versatile-structures-of-%CE%B1-synuclein/</guid><description/></item><item><title>Mass Spectrometry</title><link>https://cleowang-lab.github.io/software2/tidymodels/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/software2/tidymodels/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
-&lt;p>Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p>
-&lt;p>Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p>
-&lt;p>Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p>
-&lt;p>Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p></description></item><item><title>Mass Spectrometry</title><link>https://cleowang-lab.github.io/software2/tidymodels2/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/software2/tidymodels2/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
-&lt;p>Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p>
-&lt;p>Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p>
-&lt;p>Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p>
-&lt;p>Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p></description></item><item><title>MetDNA</title><link>https://cleowang-lab.github.io/software/metdna-project/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/software/metdna-project/</guid><description>&lt;p>MetDNA characterizes initial seed metabolites using a small tandem spectral library, and utilize their experimental MS2 spectra as surrogate spectra to annotate their reaction-paired neighbor metabolites which are subsequently served as the basis for recursive analysis.&lt;/p></description></item><item><title>tidyverse</title><link>https://cleowang-lab.github.io/software2/tidyverse/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/software2/tidyverse/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
-&lt;p>Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p>
-&lt;p>Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p>
-&lt;p>Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p>
-&lt;p>Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p></description></item><item><title>tidyverse</title><link>https://cleowang-lab.github.io/software2/tidyverse2/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/software2/tidyverse2/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
-&lt;p>Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p>
-&lt;p>Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p>
-&lt;p>Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p>
-&lt;p>Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p></description></item><item><title/><link>https://cleowang-lab.github.io/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/admin/config.yml</guid><description/></item><item><title/><link>https://cleowang-lab.github.io/tour/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cleowang-lab.github.io/tour/</guid><description>&lt;h1 id="---">&amp;mdash;&lt;/h1>
-&lt;h1 id="date-2023-08-01">date: &amp;ldquo;2023-08-01&amp;rdquo;&lt;/h1>
-&lt;h1 id="sections">sections:&lt;/h1>
-&lt;h1 id="--block-slider">- block: slider&lt;/h1>
-&lt;h1 id="content">content:&lt;/h1>
-&lt;h1 id="slides">slides:&lt;/h1>
-&lt;h1 id="--align-center">- align: center&lt;/h1>
-&lt;h1 id="background">background:&lt;/h1>
-&lt;h1 id="color-666">color: &amp;lsquo;#666&amp;rsquo;&lt;/h1>
-&lt;h1 id="image">image:&lt;/h1>
-&lt;h1 id="filename-codersjpg">filename: coders.jpg&lt;/h1>
-&lt;h1 id="filters">filters:&lt;/h1>
-&lt;h1 id="brightness-07">brightness: 0.7&lt;/h1>
-&lt;h1 id="position-right">position: right&lt;/h1>
-&lt;h1 id="content-take-a-look-at-what-were-working-on">content: Take a look at what we&amp;rsquo;re working on&amp;hellip;&lt;/h1>
-&lt;h1 id="title-u0001f44b-welcome-to-the-group">title: &amp;ldquo;\U0001F44B Welcome to the group&amp;rdquo;&lt;/h1>
-&lt;h1 id="--align-left">- align: left&lt;/h1>
-&lt;h1 id="background-1">background:&lt;/h1>
-&lt;h1 id="color-555">color: &amp;lsquo;#555&amp;rsquo;&lt;/h1>
-&lt;h1 id="image-1">image:&lt;/h1>
-&lt;h1 id="filename-contactjpg">filename: contact.jpg&lt;/h1>
-&lt;h1 id="filters-1">filters:&lt;/h1>
-&lt;h1 id="brightness-07-1">brightness: 0.7&lt;/h1>
-&lt;h1 id="position-center">position: center&lt;/h1>
-&lt;h1 id="content-share-your-knowledge-with-the-group-and-explore-exciting-new-topics">content: Share your knowledge with the group and explore exciting new topics&lt;/h1>
-&lt;h1 id="together">together!&lt;/h1>
-&lt;h1 id="title-lunch--learn-">title: Lunch &amp;amp; Learn ☕️&lt;/h1>
-&lt;h1 id="--align-right">- align: right&lt;/h1>
-&lt;h1 id="background-2">background:&lt;/h1>
-&lt;h1 id="color-333">color: &amp;lsquo;#333&amp;rsquo;&lt;/h1>
-&lt;h1 id="image-2">image:&lt;/h1>
-&lt;h1 id="filename-welcomejpg">filename: welcome.jpg&lt;/h1>
-&lt;h1 id="filters-2">filters:&lt;/h1>
-&lt;h1 id="brightness-05">brightness: 0.5&lt;/h1>
-&lt;h1 id="position-center-1">position: center&lt;/h1>
-&lt;h1 id="content-just-opened-last-month">content: Just opened last month!&lt;/h1>
-&lt;h1 id="link">link:&lt;/h1>
-&lt;h1 id="icon-graduation-cap">icon: graduation-cap&lt;/h1>
-&lt;h1 id="icon_pack-fas">icon_pack: fas&lt;/h1>
-&lt;h1 id="text-join-us">text: Join Us&lt;/h1>
-&lt;h1 id="url-contact">url: ../contact/&lt;/h1>
-&lt;h1 id="title-world-class-semiconductor-lab">title: World-Class Semiconductor Lab&lt;/h1>
-&lt;h1 id="design">design:&lt;/h1>
-&lt;h1 id="interval-2000">interval: 2000&lt;/h1>
-&lt;h1 id="is_fullscreen-true">is_fullscreen: true&lt;/h1>
-&lt;h1 id="loop-false">loop: false&lt;/h1>
-&lt;h1 id="slide_height-">slide_height: &amp;quot;&amp;quot;&lt;/h1>
-&lt;h1 id="title-tour">title: Tour&lt;/h1>
-&lt;h1 id="type-landing">type: landing&lt;/h1>
-&lt;h1 id="----1">&amp;mdash;&lt;/h1></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wang Lab</title>
+    <link>https://cleowang-lab.github.io/</link>
+      <atom:link href="https://cleowang-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wang Lab</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cleowang-lab.github.io/media/logo_hu59533391df896ae5e83994df6754cd25_74072_300x300_fit_lanczos_3.png</url>
+      <title>Wang Lab</title>
+      <link>https://cleowang-lab.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Research Resources</title>
+      <link>https://cleowang-lab.github.io/research_brief/structure-biology/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/research_brief/structure-biology/</guid>
+      <description>&lt;p&gt;Our research is supported by a multidisciplinary ecosystem of in-house instrumentation and shared research facilities across NTU, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Our lab&amp;rsquo;s FPLC, HPLC and DLS systems&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ntu.edu.sg/nisb/research-capabilities/cryoem-platform?utm_source=chatgpt.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NISB Cryo-EM Platform&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ntu.edu.sg/nisb/research-capabilities/researchplatforms?utm_source=chatgpt.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NISB Other Research Platforms&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ntu.edu.sg/spc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Singapore Phenome Centre&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nobic.sg/Facilities.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NTU Optical Bio-Imaging Centre&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aging and Aging-Related Diseases</title>
+      <link>https://cleowang-lab.github.io/research_brief/aging/</link>
+      <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/research_brief/aging/</guid>
+      <description>&lt;p&gt;Aging gradually changes how neurons function and increases the risk of neurodegenerative diseases such as Alzheimer’s and Parkinson’s disease. What makes aging synapses vulnerable to dysfunction and degeneration? We seek to answer this question by investigating how the cellular environment shapes the molecular organisation and function of the synapse. We are particularly interested in neuronal membranes and protein–lipid interactions. Proteins do not act in isolation: their behaviour depends not only on their sequences, but also on the lipids and molecular partners around them. By combining cryo-electron microscopy and tomography with mass spectrometry-based multi-omics and experimental models, we aim to uncover the molecular features that distinguish healthy synapses from vulnerable ones during aging and disease.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2025-05-14 Opportunities in Wang Lab</title>
+      <link>https://cleowang-lab.github.io/news/2023-11-23-recruitment/</link>
+      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/news/2023-11-23-recruitment/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Job Opportunities in Wang Lab at Nanyang Technological University (NTU), Singapore&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Institution Overview&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Nanyang Technological University (NTU), Singapore, is a world-renowned research-intensive university, ranked &lt;strong&gt;15th globally in the 2025 QS World University Rankings&lt;/strong&gt;. NTU is recognized for its academic excellence, groundbreaking research, and global outlook. The university offers a vibrant, interdisciplinary research environment with state-of-the-art facilities and comprehensive support services.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the Lab&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Dr. &lt;strong&gt;Chuchu Wang&lt;/strong&gt; will join NTU’s &lt;strong&gt;Lee Kong Chian School of Medicine (LKCMedicine)&lt;/strong&gt; as an Assistant Professor in &lt;strong&gt;November 2025&lt;/strong&gt; and has been awarded the prestigious &lt;strong&gt;Nanyang Assistant Professorship (NAP)&lt;/strong&gt; grant. The lab will be well-funded and housed in a dynamic and collaborative research environment.&lt;/p&gt;
+&lt;p&gt;Dr. Wang received her Ph.D. in Cell Biology in 2019 under the supervision of Dr. Cong Liu at the Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences. From 2020 to 2025, she conducted postdoctoral research at Stanford University under the guidance of HHMI Investigator &lt;strong&gt;Prof. Axel Brunger&lt;/strong&gt;, focusing on structural and molecular neuroscience. Dr. Wang has published as first or co-first author in journals including &lt;em&gt;Nature&lt;/em&gt;, &lt;em&gt;Nature Aging&lt;/em&gt;, &lt;em&gt;Nature Cell Biology&lt;/em&gt;, &lt;em&gt;Nature Communications&lt;/em&gt;, &lt;em&gt;Nature Protocols&lt;/em&gt;, &lt;em&gt;National Science Review&lt;/em&gt;, &lt;em&gt;PNAS&lt;/em&gt;, &lt;em&gt;eLife&lt;/em&gt;, and &lt;em&gt;Bioinformatics&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Google Scholar&lt;/strong&gt;: &lt;a href=&#34;https://scholar.google.co.uk/citations?hl=en&amp;amp;user=1SQy-gQAAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://scholar.google.co.uk/citations?hl=en&amp;amp;user=1SQy-gQAAAAJ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Research Focus&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Our interdisciplinary lab combines &lt;strong&gt;in situ structural biology (cryo-EM/ET, in-cell NMR)&lt;/strong&gt;, &lt;strong&gt;mass spectrometry-based lipidomics and proteomics&lt;/strong&gt;, &lt;strong&gt;cell biology&lt;/strong&gt;, &lt;strong&gt;bioinformatics&lt;/strong&gt;, and &lt;strong&gt;molecular biology&lt;/strong&gt; to investigate the physiological and pathological mechanisms of &lt;strong&gt;human aging and neurodegenerative diseases&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The lab aims to integrate multi-omics, molecular structural analysis, and biochemical/cellular experiments to uncover &lt;strong&gt;lipid–protein interactions in age-related disorders&lt;/strong&gt;, with the ultimate goal of identifying early diagnostic markers and therapeutic strategies to promote healthy aging.&lt;/p&gt;
+&lt;p&gt;We welcome applicants from diverse backgrounds (e.g., neuroscience, biophysics, biochemistry, bioinformatics), who are passionate about impactful, translational research.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Collaborations&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Our lab maintains active collaborations with leading institutions in the &lt;strong&gt;US, Singapore, and China&lt;/strong&gt;, offering lab members the opportunity to engage with top-tier researchers globally.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;open-positions&#34;&gt;&lt;strong&gt;Open Positions&lt;/strong&gt;&lt;/h3&gt;
+&lt;h4 id=&#34;1-phd-students--undergraduate-researchers&#34;&gt;1. &lt;strong&gt;PhD Students &amp;amp; Undergraduate Researchers&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;We are recruiting &lt;strong&gt;PhD students for January 2026 intake&lt;/strong&gt; (application period: &lt;strong&gt;May 1 – June 30, 2025&lt;/strong&gt;). August intake applications open &lt;strong&gt;September 1 – December 31&lt;/strong&gt; annually.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Benefits:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Full scholarship and competitive monthly stipend&lt;/li&gt;
+&lt;li&gt;Support for international conference travel (funded by both the school and the lab)&lt;/li&gt;
+&lt;li&gt;Access to cutting-edge facilities and mentorship in a collaborative research environment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Eligibility:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;English proficiency: TOEFL ≥ 100 or IELTS ≥ 6.5 (within 2 years); required unless graduated from English-medium institutions&lt;/li&gt;
+&lt;li&gt;GRE required for non-Singapore degree holders (V+Q ≥ 319; AW ≥ 3.5, within 5 years)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Application info:&lt;/strong&gt;
+&lt;a href=&#34;https://www.ntu.edu.sg/education/graduate-programme/lkcmedicine-phd-by-research-programme#admission&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NTU LKCMedicine PhD Admissions&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Outstanding undergraduates are also encouraged to join for research training and thesis projects.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;2-postdoctoral-research-fellow&#34;&gt;2. &lt;strong&gt;Postdoctoral Research Fellow&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Qualifications:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ph.D. in biology, neuroscience, biophysics, structural biology, bioinformatics, or related fields&lt;/li&gt;
+&lt;li&gt;Experience in &lt;strong&gt;neurocell biology&lt;/strong&gt;, &lt;strong&gt;cryo-EM/NMR&lt;/strong&gt;, or &lt;strong&gt;omics data analysis&lt;/strong&gt; preferred&lt;/li&gt;
+&lt;li&gt;Proven ability to conduct independent research&lt;/li&gt;
+&lt;li&gt;Strong publication record (first-author papers or preprints)&lt;/li&gt;
+&lt;li&gt;Excellent communication and teamwork skills&lt;/li&gt;
+&lt;li&gt;Ability to mentor students and contribute to grant writing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Compensation:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Competitive salary based on experience and NTU guidelines&lt;/li&gt;
+&lt;li&gt;Support for fellowship applications and career development&lt;/li&gt;
+&lt;li&gt;Funding for conferences and collaborative visits&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;3-research-assistant&#34;&gt;3. &lt;strong&gt;Research Assistant&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Qualifications:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bachelor&amp;rsquo;s degree or above&lt;/li&gt;
+&lt;li&gt;Prior experience in protein purification, cell culture, or animal handling is a plus&lt;/li&gt;
+&lt;li&gt;Familiarity with EM/NMR data or omics analysis is desirable&lt;/li&gt;
+&lt;li&gt;Ability to work independently and collaboratively&lt;/li&gt;
+&lt;li&gt;Fluent in written and spoken English&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Compensation:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Salary will be competitive and commensurate with experience&lt;/li&gt;
+&lt;li&gt;Opportunities to co-author publications and attend international meetings&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;4-visiting-scholars--joint-phd-students&#34;&gt;4. &lt;strong&gt;Visiting Scholars &amp;amp; Joint PhD Students&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;We welcome visiting researchers and joint PhD students interested in collaborative or short-term research exchanges.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Application Instructions&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;To apply, please send the following documents in &lt;strong&gt;English&lt;/strong&gt; to &lt;strong&gt;&lt;a href=&#34;mailto:choicewang0820@hotmail.com&#34;&gt;choicewang0820@hotmail.com&lt;/a&gt;&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cover letter (briefly describing your past experience and research interests)&lt;/li&gt;
+&lt;li&gt;CV&lt;/li&gt;
+&lt;li&gt;Contact details of 2–3 referees&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Email subject format&lt;/strong&gt;:
+&lt;code&gt;[Application Position] - [Your Name]&lt;/code&gt;, e.g.,
+&lt;code&gt;Postdoc Application – David Liu&lt;/code&gt;,
+&lt;code&gt;PhD Application – Jeremy Lee&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Applicants will be contacted for interviews shortly after submission.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>N-acetylation of α-synuclein enhances synaptic vesicle clustering mediated by α-synuclein and lysophosphatidylcholine</title>
+      <link>https://cleowang-lab.github.io/publication/n-acetylation-of-%CE%B1-synuclein-enhances-synaptic-vesicle-clustering-mediated-by-%CE%B1-synuclein-and-lysophosphatidylcholine/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/publication/n-acetylation-of-%CE%B1-synuclein-enhances-synaptic-vesicle-clustering-mediated-by-%CE%B1-synuclein-and-lysophosphatidylcholine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photos</title>
+      <link>https://cleowang-lab.github.io/photo-2024/</link>
+      <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/photo-2024/</guid>
+      <description>&lt;h1 id=&#34;---&#34;&gt;&amp;mdash;&lt;/h1&gt;
+&lt;h1 id=&#34;date-2024-12-22&#34;&gt;date: &amp;ldquo;2024-12-22&amp;rdquo;&lt;/h1&gt;
+&lt;h1 id=&#34;sections&#34;&gt;sections:&lt;/h1&gt;
+&lt;h1 id=&#34;--block-markdown&#34;&gt;- block: markdown&lt;/h1&gt;
+&lt;h1 id=&#34;id-photo&#34;&gt;id: photo&lt;/h1&gt;
+&lt;h1 id=&#34;content&#34;&gt;content:&lt;/h1&gt;
+&lt;h1 id=&#34;title--lab-photos-2024&#34;&gt;title: 📸 Lab Photos 2024&lt;/h1&gt;
+&lt;h1 id=&#34;subtitle-&#34;&gt;subtitle: &#39;&#39;&lt;/h1&gt;
+&lt;h1 id=&#34;text--&#34;&gt;text: |-&lt;/h1&gt;
+&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;style&#34;&gt;&lt;style&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;gallery-&#34;&gt;.gallery {&lt;/h1&gt;
+&lt;h1 id=&#34;display-flex&#34;&gt;display: flex;&lt;/h1&gt;
+&lt;h1 id=&#34;flex-wrap-wrap&#34;&gt;flex-wrap: wrap;&lt;/h1&gt;
+&lt;h1 id=&#34;gap-10px&#34;&gt;gap: 10px;&lt;/h1&gt;
+&lt;h1 id=&#34;heading-1&#34;&gt;}&lt;/h1&gt;
+&lt;h1 id=&#34;gallery-img-&#34;&gt;.gallery img {&lt;/h1&gt;
+&lt;h1 id=&#34;max-width-48&#34;&gt;max-width: 48%;&lt;/h1&gt;
+&lt;h1 id=&#34;cursor-pointer&#34;&gt;cursor: pointer;&lt;/h1&gt;
+&lt;h1 id=&#34;border-1px-solid-ddd&#34;&gt;border: 1px solid #ddd;&lt;/h1&gt;
+&lt;h1 id=&#34;border-radius-4px&#34;&gt;border-radius: 4px;&lt;/h1&gt;
+&lt;h1 id=&#34;heading-2&#34;&gt;}&lt;/h1&gt;
+&lt;h1 id=&#34;gallery-imghover-&#34;&gt;.gallery img:hover {&lt;/h1&gt;
+&lt;h1 id=&#34;border-1px-solid-000&#34;&gt;border: 1px solid #000;&lt;/h1&gt;
+&lt;h1 id=&#34;heading-3&#34;&gt;}&lt;/h1&gt;
+&lt;h1 id=&#34;style-1&#34;&gt;&lt;/style&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;heading-4&#34;&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;div-classgallery&#34;&gt;&lt;div class=&#34;gallery&#34;&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;a-hreflablab-2024-12-19jpg-target_blankimg-srclablab-2024-12-19jpg-altphoto-1a&#34;&gt;&lt;a href=&#34;lab/lab-2024-12-19.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;lab/lab-2024-12-19.jpg&#34; alt=&#34;Photo 1&#34;&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;a-hreflab2024-11-19-editor-visitingjpg-target_blankimg-srclab2024-11-19-editor-visitingjpg-altphoto-2a&#34;&gt;&lt;a href=&#34;lab/2024-11-19-editor-visiting.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;lab/2024-11-19-editor-visiting.jpg&#34; alt=&#34;Photo 2&#34;&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;a-hreflab2024-10-14-jingxiang-arrivaljpg-target_blankimg-srclab2024-10-14-jingxiang-arrivaljpg-altphoto-3a&#34;&gt;&lt;a href=&#34;lab/2024-10-14-jingxiang-arrival.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;lab/2024-10-14-jingxiang-arrival.jpg&#34; alt=&#34;Photo 3&#34;&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;a-hreflab2024-5-21-first-day-in-officejpg-target_blankimg-srclab2024-5-21-first-day-in-officejpg-altphoto-4a&#34;&gt;&lt;a href=&#34;lab/2024-5-21-first-day-in-office.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;lab/2024-5-21-first-day-in-office.jpg&#34; alt=&#34;Photo 4&#34;&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;div&#34;&gt;&lt;/div&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;heading-5&#34;&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;heading-6&#34;&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;-------hr&#34;&gt;#       &lt;hr&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;-------figure&#34;&gt;#       &lt;figure&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;-------centerimg-srclablab-2024-12-19jpg-alt2024-12-19-lab-dinner-width60center&#34;&gt;#       &lt;center&gt;&lt;img src=&#34;lab/lab-2024-12-19.jpg&#34; alt=&#34;2024-12-19 lab dinner&#34; width=&#34;60%&#34;&gt;&lt;/center&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;-------figcaption12192024-lab-dinnerfigcaption&#34;&gt;#       &lt;figcaption&gt;12/19/2024: lab dinner&lt;/figcaption&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;-------figure-1&#34;&gt;#       &lt;/figure&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;heading-7&#34;&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;-------hr-1&#34;&gt;#       &lt;hr&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;----------figure2---&#34;&gt;#       &lt;!-- figure2 --&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;-------figure-2&#34;&gt;#       &lt;figure&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;-------centerimg-srclab2024-11-19-editor-visitingjpg-altmass-spec-width60center&#34;&gt;#       &lt;center&gt;&lt;img src=&#34;lab/2024-11-19-editor-visiting.jpg&#34; alt=&#34;mass-spec&#34; width=&#34;60%&#34;&gt;&lt;/center&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;-------figcaption11192024-editor-visitingfigcaption&#34;&gt;#       &lt;figcaption&gt;11/19/2024: Editor visiting&lt;/figcaption&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;-------figure-3&#34;&gt;#       &lt;/figure&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;heading-8&#34;&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;-------hr-2&#34;&gt;#       &lt;hr&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;----------figure2----1&#34;&gt;#       &lt;!-- figure2 --&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;-------figure-4&#34;&gt;#       &lt;figure&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;-------centerimg-srclab2024-10-14-jingxiang-arrivaljpg-altmass-spec-width60center&#34;&gt;#       &lt;center&gt;&lt;img src=&#34;lab/2024-10-14-jingxiang-arrival.jpg&#34; alt=&#34;mass-spec&#34; width=&#34;60%&#34;&gt;&lt;/center&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;-------figcaption10142024-jingxiang-arrivalfigcaption&#34;&gt;#       &lt;figcaption&gt;10/14/2024: Jingxiang arrival&lt;/figcaption&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;-------figure-5&#34;&gt;#       &lt;/figure&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;heading-9&#34;&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;-------hr-3&#34;&gt;#       &lt;hr&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;----------figure3---&#34;&gt;#       &lt;!-- figure3 --&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;-------figure-6&#34;&gt;#       &lt;figure&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;-------centerimg-srclablab-dinner-2024-9-17jpg-altmass-spec-width60center&#34;&gt;#       &lt;center&gt;&lt;img src=&#34;lab/lab-dinner-2024-9-17.jpg&#34; alt=&#34;mass-spec&#34; width=&#34;60%&#34;&gt;&lt;/center&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;-------figcaption9172024-lab-dinnerfigcaption&#34;&gt;#       &lt;figcaption&gt;9/17/2024: lab dinner&lt;/figcaption&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;-------figure-7&#34;&gt;#       &lt;/figure&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;heading-10&#34;&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;-------hr-4&#34;&gt;#       &lt;hr&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;----------figure4---&#34;&gt;#       &lt;!-- figure4 --&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;-------figure-8&#34;&gt;#       &lt;figure&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;-------centerimg-srclab2024-5-21-first-day-in-officejpg-altmass-spec-width60center&#34;&gt;#       &lt;center&gt;&lt;img src=&#34;lab/2024-5-21-first-day-in-office.jpg&#34; alt=&#34;mass-spec&#34; width=&#34;60%&#34;&gt;&lt;/center&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;-------figcaption5212024-first-day-in-the-officefigcaption&#34;&gt;#       &lt;figcaption&gt;5/21/2024: first day in the office&lt;/figcaption&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;-------figure-9&#34;&gt;#       &lt;/figure&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;heading-11&#34;&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;design&#34;&gt;design:&lt;/h1&gt;
+&lt;h1 id=&#34;columns-1&#34;&gt;columns: &amp;lsquo;1&amp;rsquo;&lt;/h1&gt;
+&lt;h1 id=&#34;heading-12&#34;&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;title-photos&#34;&gt;title: Photos&lt;/h1&gt;
+&lt;h1 id=&#34;type-landing&#34;&gt;type: landing&lt;/h1&gt;
+&lt;h1 id=&#34;httpswwwlabnolorgembedgooglephotos&#34;&gt;##https://www.labnol.org/embed/google/photos/&lt;/h1&gt;
+&lt;h1 id=&#34;httpswwwpublicalbumorgblogembedding-google-photos-albums&#34;&gt;##https://www.publicalbum.org/blog/embedding-google-photos-albums&lt;/h1&gt;
+&lt;h1 id=&#34;----1&#34;&gt;&amp;mdash;&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Photos</title>
+      <link>https://cleowang-lab.github.io/photo-2025/</link>
+      <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/photo-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiaotao Shen presented in 3rd FEBS-IUBMB-ENABLE conference Singapore 2024</title>
+      <link>https://cleowang-lab.github.io/event/2024-12-04-enable-conference/</link>
+      <pubDate>Thu, 05 Dec 2024 13:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/event/2024-12-04-enable-conference/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /event/2024-12-04-enable-conference/featured_hub484fa88e41818203f9138faa7681294_321055_66dc57a4a8cd139ab6963cb889839825.webp 400w,
+               /event/2024-12-04-enable-conference/featured_hub484fa88e41818203f9138faa7681294_321055_6c016836af808486509010fbe1e22db8.webp 760w,
+               /event/2024-12-04-enable-conference/featured_hub484fa88e41818203f9138faa7681294_321055_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://cleowang-lab.github.io/event/2024-12-04-enable-conference/featured_hub484fa88e41818203f9138faa7681294_321055_66dc57a4a8cd139ab6963cb889839825.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Visit Hong Kong Baptist University</title>
+      <link>https://cleowang-lab.github.io/event/2024-7-19-hkbu/</link>
+      <pubDate>Fri, 19 Jul 2024 13:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/event/2024-7-19-hkbu/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /event/2024-7-19-hkbu/featured_hub484fa88e41818203f9138faa7681294_321055_66dc57a4a8cd139ab6963cb889839825.webp 400w,
+               /event/2024-7-19-hkbu/featured_hub484fa88e41818203f9138faa7681294_321055_6c016836af808486509010fbe1e22db8.webp 760w,
+               /event/2024-7-19-hkbu/featured_hub484fa88e41818203f9138faa7681294_321055_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://cleowang-lab.github.io/event/2024-7-19-hkbu/featured_hub484fa88e41818203f9138faa7681294_321055_66dc57a4a8cd139ab6963cb889839825.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Observing isolated synaptic vesicle association and fusion ex vivo</title>
+      <link>https://cleowang-lab.github.io/publication/observing-isolated-synaptic-vesicle-association-and-fusion-ex-vivo/</link>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/publication/observing-isolated-synaptic-vesicle-association-and-fusion-ex-vivo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VAMP2 chaperones α-synuclein in synaptic vesicle co-condensates</title>
+      <link>https://cleowang-lab.github.io/publication/vamp2-chaperones-%CE%B1-synuclein-in-synaptic-vesicle-co-condensates/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/publication/vamp2-chaperones-%CE%B1-synuclein-in-synaptic-vesicle-co-condensates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2024-06-05 Paper accepted in Nature</title>
+      <link>https://cleowang-lab.github.io/news/2024-6-5-nature/</link>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/news/2024-6-5-nature/</guid>
+      <description>&lt;p&gt;Our paper Structure and topography of the synaptic V-ATPase–synaptophysin complex has been accepted for publication in Cell Host &amp;amp; Microbe.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nature.com/articles/s41586-024-07610-x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;%22featured.jpg%22&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Structure and topography of the synaptic V-ATPase–synaptophysin complex</title>
+      <link>https://cleowang-lab.github.io/publication/structure-and-topography-of-the-synaptic-v-atpasesynaptophysin-complex/</link>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/publication/structure-and-topography-of-the-synaptic-v-atpasesynaptophysin-complex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear Dynamic Changes During Human Aging Revealed in Multi-omics Profiles</title>
+      <link>https://cleowang-lab.github.io/event/2024-asms/</link>
+      <pubDate>Sat, 01 Jun 2024 13:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/event/2024-asms/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /event/2024-asms/figure1_hu96a5ab8e0364e843af4687201b687892_249234_b53052ab6c2e74c885ad1fae975bdfa2.webp 400w,
+               /event/2024-asms/figure1_hu96a5ab8e0364e843af4687201b687892_249234_89d9542397d7e2686a26f9993f22a456.webp 760w,
+               /event/2024-asms/figure1_hu96a5ab8e0364e843af4687201b687892_249234_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://cleowang-lab.github.io/event/2024-asms/figure1_hu96a5ab8e0364e843af4687201b687892_249234_b53052ab6c2e74c885ad1fae975bdfa2.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /event/2024-asms/figure2_hud4f9a659192453ac7c88fa1e2b492400_307275_3810850b4ac2fc48b7f3abf48fe9afa7.webp 400w,
+               /event/2024-asms/figure2_hud4f9a659192453ac7c88fa1e2b492400_307275_4b1a9d4ba01f5c93c0d15cf8f25f985f.webp 760w,
+               /event/2024-asms/figure2_hud4f9a659192453ac7c88fa1e2b492400_307275_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://cleowang-lab.github.io/event/2024-asms/figure2_hud4f9a659192453ac7c88fa1e2b492400_307275_3810850b4ac2fc48b7f3abf48fe9afa7.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lysophosphatidylcholine binds α-synuclein and prevents its pathological aggregation</title>
+      <link>https://cleowang-lab.github.io/publication/lysophosphatidylcholine-binds-%CE%B1-synuclein-and-prevents-its-pathological-aggregation/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/publication/lysophosphatidylcholine-binds-%CE%B1-synuclein-and-prevents-its-pathological-aggregation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond the MUN domain Munc13 controls priming and depriming of synaptic vesicles</title>
+      <link>https://cleowang-lab.github.io/publication/beyond-the-mun-domain-munc13-controls-priming-and-depriming-of-synaptic-vesicles/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/publication/beyond-the-mun-domain-munc13-controls-priming-and-depriming-of-synaptic-vesicles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new method for isolation and purification of fusion-competent inhibitory synaptic vesicles</title>
+      <link>https://cleowang-lab.github.io/publication/a-new-method-for-isolation-and-purification-of-fusion-competent-inhibitory-synaptic-vesicles/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/publication/a-new-method-for-isolation-and-purification-of-fusion-competent-inhibitory-synaptic-vesicles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>🔬 Research</title>
+      <link>https://cleowang-lab.github.io/research/</link>
+      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/research/</guid>
+      <description>&lt;p&gt;Our overarching research interests are bioinformatics algorithms development for multi-omics and wearable data, and their application to precision medicine and biological questions.&lt;/p&gt;
+&lt;h1 id=&#34;-method-development-for-multi-omics-and-wearable-data&#34;&gt;💻 Method Development For Multi-Omics and Wearable Data&lt;/h1&gt;
+&lt;h2 id=&#34;-mass-spectrometry-data&#34;&gt;🧬 Mass Spectrometry Data&lt;/h2&gt;
+&lt;p&gt;Mass spectrometry (MS) is an analytical technique used to measure the mass-to-charge ratio (m/z) of ions. It is a powerful tool for identifying the chemical structure of molecules in biological samples, including small molecules (metabolomics), proteins (proteomics), peptides (proteomics), and other biomolecules (lipidomics). We are working on the bioinformatics method and algorithm development (Deep Learning and Maching Learning) for Mass Spectrometry data processing and analysis, including whhole workflow of MS data, and metabolic network analysis. We are also working on the integration of MS data with other omics data, such as transcriptomics, proteomics and microbiome data (see below for more).&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /research/tidymass_hu8e0ee36e6082fa90f613ca1e27c82609_267302_61a913da140bcdd85b5f22489ca194c8.webp 400w,
+               /research/tidymass_hu8e0ee36e6082fa90f613ca1e27c82609_267302_d5e5a309786755657596f0e0b76a97c5.webp 760w,
+               /research/tidymass_hu8e0ee36e6082fa90f613ca1e27c82609_267302_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://cleowang-lab.github.io/research/tidymass_hu8e0ee36e6082fa90f613ca1e27c82609_267302_61a913da140bcdd85b5f22489ca194c8.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;305&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;-microbiome-data&#34;&gt;🦠 Microbiome Data&lt;/h2&gt;
+&lt;p&gt;Research is defined as the creation of new knowledge and/or the use of existing knowledge in a new and creative way so as to generate new concepts, methodologies and understandings. This could include synthesis and analysis of previous research to the extent that it leads to new and creative outcomes.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /research/microbiome_hu5c66fdf1a9d9c8bd9d9c57995ac5d1e9_375650_df3ca90c9853a8ca59616ddaf5dc54a7.webp 400w,
+               /research/microbiome_hu5c66fdf1a9d9c8bd9d9c57995ac5d1e9_375650_a49debf4539c5c1330970ee3c5b90879.webp 760w,
+               /research/microbiome_hu5c66fdf1a9d9c8bd9d9c57995ac5d1e9_375650_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://cleowang-lab.github.io/research/microbiome_hu5c66fdf1a9d9c8bd9d9c57995ac5d1e9_375650_df3ca90c9853a8ca59616ddaf5dc54a7.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;380&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;-wearable-data&#34;&gt;⌚ Wearable Data&lt;/h2&gt;
+&lt;p&gt;Research is defined as the creation of new knowledge and/or the use of existing knowledge in a new and creative way so as to generate new concepts, methodologies and understandings. This could include synthesis and analysis of previous research to the extent that it leads to new and creative outcomes.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /research/wearable_hu469f4e61ddd77a939173bdd29fbadf73_1423236_b98e30db0f216582c51b33b93f6de5ed.webp 400w,
+               /research/wearable_hu469f4e61ddd77a939173bdd29fbadf73_1423236_2aec29619929add138ec9913c745cfef.webp 760w,
+               /research/wearable_hu469f4e61ddd77a939173bdd29fbadf73_1423236_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://cleowang-lab.github.io/research/wearable_hu469f4e61ddd77a939173bdd29fbadf73_1423236_b98e30db0f216582c51b33b93f6de5ed.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;509&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;multi-omics-and-wearable-data-integration&#34;&gt;Multi-Omics and Wearable Data Integration&lt;/h1&gt;
+&lt;h2 id=&#34;precisione-medicine-and-biological-questions&#34;&gt;Precisione Medicine and Biological Questions&lt;/h2&gt;
+&lt;h2 id=&#34;-aging&#34;&gt;🧑 Aging&lt;/h2&gt;
+&lt;p&gt;Research is defined as the creation of new knowledge and/or the use of existing knowledge in a new and creative way so as to generate new concepts, methodologies and understandings. This could include synthesis and analysis of previous research to the extent that it leads to new and creative outcomes.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /research/aging_hufb011f6191f69f7272c34644b78a3084_255788_acebf8fbe89a320cec3f55d2819a8f45.webp 400w,
+               /research/aging_hufb011f6191f69f7272c34644b78a3084_255788_7c5c22e35172e9f1ed10650234777564.webp 760w,
+               /research/aging_hufb011f6191f69f7272c34644b78a3084_255788_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://cleowang-lab.github.io/research/aging_hufb011f6191f69f7272c34644b78a3084_255788_acebf8fbe89a320cec3f55d2819a8f45.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;480&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;-pregnancy&#34;&gt;🤰 Pregnancy&lt;/h2&gt;
+&lt;p&gt;Research is defined as the creation of new knowledge and/or the use of existing knowledge in a new and creative way so as to generate new concepts, methodologies and understandings. This could include synthesis and analysis of previous research to the extent that it leads to new and creative outcomes.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /research/pregnancy_hu147228133437fd25987ff12bd176783c_150086_87d9139bbd3b6e63a44c28afd0f938fe.webp 400w,
+               /research/pregnancy_hu147228133437fd25987ff12bd176783c_150086_20a41ca3142b0052323b7f519686d691.webp 760w,
+               /research/pregnancy_hu147228133437fd25987ff12bd176783c_150086_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://cleowang-lab.github.io/research/pregnancy_hu147228133437fd25987ff12bd176783c_150086_87d9139bbd3b6e63a44c28afd0f938fe.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;personal-health-monitoring-and-disease-early-diagnosis&#34;&gt;Personal Health Monitoring and Disease Early Diagnosis&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://cleowang-lab.github.io/contact/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neutral lysophosphatidylcholine mediates α-synuclein-induced synaptic vesicle clustering</title>
+      <link>https://cleowang-lab.github.io/publication/neutral-lysophosphatidylcholine-mediates-%CE%B1-synuclein-induced-synaptic-vesicle-clustering/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/publication/neutral-lysophosphatidylcholine-mediates-%CE%B1-synuclein-induced-synaptic-vesicle-clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear Dynamic Changes During Human Aging Revealed in Multi-omics Profiles</title>
+      <link>https://cleowang-lab.github.io/event/2023-genetics-retreat/</link>
+      <pubDate>Thu, 21 Sep 2023 13:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/event/2023-genetics-retreat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear Dynamic Changes During Human Aging Revealed in Multi-omics Profiles</title>
+      <link>https://cleowang-lab.github.io/event/2023-bamm/</link>
+      <pubDate>Fri, 08 Sep 2023 13:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/event/2023-bamm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Omics Microsampling for The Profiling of Lifestyle-Associated Changes in Health</title>
+      <link>https://cleowang-lab.github.io/event/2023-casms/</link>
+      <pubDate>Tue, 29 Aug 2023 13:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/event/2023-casms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://cleowang-lab.github.io/all_software/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/all_software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Omics Microsampling for The Profiling of Lifestyle-Associated Changes in Health</title>
+      <link>https://cleowang-lab.github.io/event/2023-asms/</link>
+      <pubDate>Tue, 06 Jun 2023 13:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/event/2023-asms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure-based design of a SARS-CoV-2 Omicron-specific inhibitor</title>
+      <link>https://cleowang-lab.github.io/publication/structure-based-design-of-a-sars-cov-2-omicron-specific-inhibitor/</link>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/publication/structure-based-design-of-a-sars-cov-2-omicron-specific-inhibitor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Omics Microsampling for The Profiling of Lifestyle-Associated Changes in Health</title>
+      <link>https://cleowang-lab.github.io/event/2023-stanford-postdoc-syposium/</link>
+      <pubDate>Wed, 08 Feb 2023 13:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/event/2023-stanford-postdoc-syposium/</guid>
+      <description>&lt;p&gt;Abstract&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multi-omics microsampling for the profiling of lifestyle-associated changes in health</title>
+      <link>https://cleowang-lab.github.io/publication/multi-omics-microsampling-for-the-profiling-of-lifestyle-associated-changes-in-health/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/publication/multi-omics-microsampling-for-the-profiling-of-lifestyle-associated-changes-in-health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://cleowang-lab.github.io/collaborators/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/collaborators/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://cleowang-lab.github.io/team/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/team/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twitter</title>
+      <link>https://cleowang-lab.github.io/twitter/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/twitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning-based pseudo-mass spectrometry imaging analysis for precision medicine</title>
+      <link>https://cleowang-lab.github.io/event/2022-casms/</link>
+      <pubDate>Thu, 20 Oct 2022 13:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/event/2022-casms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning-based pseudo-mass spectrometry imaging analysis for precision medicine</title>
+      <link>https://cleowang-lab.github.io/event/2022-shandong_university/</link>
+      <pubDate>Sun, 09 Oct 2022 13:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/event/2022-shandong_university/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>massDatabase utilities for the operation of the public compound and pathway database</title>
+      <link>https://cleowang-lab.github.io/publication/massdatabase-utilities-for-the-operation-of-the-public-compound-and-pathway-database/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/publication/massdatabase-utilities-for-the-operation-of-the-public-compound-and-pathway-database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nanomolar inhibition of SARS-CoV-2 infection by an unmodified peptide targeting the prehairpin intermediate of the spike protein</title>
+      <link>https://cleowang-lab.github.io/publication/nanomolar-inhibition-of-sars-cov-2-infection-by-an-unmodified-peptide-targeting-the-prehairpin-intermediate-of-the-spike-protein/</link>
+      <pubDate>Mon, 19 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/publication/nanomolar-inhibition-of-sars-cov-2-infection-by-an-unmodified-peptide-targeting-the-prehairpin-intermediate-of-the-spike-protein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning-based pseudo-mass spectrometry imaging analysis for precision medicine</title>
+      <link>https://cleowang-lab.github.io/event/2022-stanford-genetics-retreat/</link>
+      <pubDate>Wed, 14 Sep 2022 13:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/event/2022-stanford-genetics-retreat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning-based pseudo-mass spectrometry imaging analysis for precision medicine</title>
+      <link>https://cleowang-lab.github.io/event/2022-bamm/</link>
+      <pubDate>Thu, 08 Sep 2022 13:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/event/2022-bamm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TidyMicrobiome</title>
+      <link>https://cleowang-lab.github.io/software/tidymicrobiome-project/</link>
+      <pubDate>Sat, 27 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/software/tidymicrobiome-project/</guid>
+      <description>&lt;p&gt;&lt;code&gt;TidyMicrobiome&lt;/code&gt; project is a comprehensive computational framework that can process the whole workflow of data processing and analysis for microbiome data using tidyverse principles.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tidymass An Object-oriented Computational Framework for LC-MS Data Processing and Analysis</title>
+      <link>https://cleowang-lab.github.io/event/2022-acs-fall/</link>
+      <pubDate>Mon, 22 Aug 2022 13:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/event/2022-acs-fall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TidyMass an object-oriented reproducible analysis framework for LC–MS data</title>
+      <link>https://cleowang-lab.github.io/publication/tidymass-an-object-oriented-reproducible-analysis-framework-for-lcms-data/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/publication/tidymass-an-object-oriented-reproducible-analysis-framework-for-lcms-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tidymass An Object-oriented Computational Framework for LC-MS Data Processing and Analysis</title>
+      <link>https://cleowang-lab.github.io/event/2022-asms/</link>
+      <pubDate>Sun, 05 Jun 2022 13:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/event/2022-asms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural conservation among variants of the SARS-CoV-2 spike postfusion bundle</title>
+      <link>https://cleowang-lab.github.io/publication/structural-conservation-among-variants-of-the-sars-cov-2-spike-postfusion-bundle/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/publication/structural-conservation-among-variants-of-the-sars-cov-2-spike-postfusion-bundle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>metID: an R package for automatable compound annotation for LC− MS-based data</title>
+      <link>https://cleowang-lab.github.io/publication/metid-an-r-package-for-automatable-compound-annotation-for-lc-ms-based-data/</link>
+      <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/publication/metid-an-r-package-for-automatable-compound-annotation-for-lc-ms-based-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>metID A R package for Automatable Compound Annotation for LC−MS-based Data</title>
+      <link>https://cleowang-lab.github.io/event/2021-asms/</link>
+      <pubDate>Sun, 31 Oct 2021 13:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/event/2021-asms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanistic basis for receptor-mediated pathological α-synuclein fibril cell-to-cell transmission in Parkinson&#39;s disease</title>
+      <link>https://cleowang-lab.github.io/publication/mechanistic-basis-for-receptor-mediated-pathological-%CE%B1-synuclein-fibril-cell-to-cell-transmission-in-parkinsons-disease/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/publication/mechanistic-basis-for-receptor-mediated-pathological-%CE%B1-synuclein-fibril-cell-to-cell-transmission-in-parkinsons-disease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decoding links between the exposome and health outcomes by multi-omics analysis</title>
+      <link>https://cleowang-lab.github.io/event/2021-exposome_data_challenge_event_xiaotao/</link>
+      <pubDate>Thu, 29 Apr 2021 13:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/event/2021-exposome_data_challenge_event_xiaotao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicotinamide mononucleotide adenylyltransferase uses its NAD&#43; substrate-binding site to chaperone phosphorylated Tau</title>
+      <link>https://cleowang-lab.github.io/publication/nicotinamide-mononucleotide-adenylyltransferase-uses-its-nad&#43;-substrate-binding-site-to-chaperone-phosphorylated-tau/</link>
+      <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/publication/nicotinamide-mononucleotide-adenylyltransferase-uses-its-nad&#43;-substrate-binding-site-to-chaperone-phosphorylated-tau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Different regions of synaptic vesicle membrane regulate VAMP2 conformation for the SNARE assembly</title>
+      <link>https://cleowang-lab.github.io/publication/different-regions-of-synaptic-vesicle-membrane-regulate-vamp2-conformation-for-the-snare-assembly/</link>
+      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/publication/different-regions-of-synaptic-vesicle-membrane-regulate-vamp2-conformation-for-the-snare-assembly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R cookbook</title>
+      <link>https://cleowang-lab.github.io/software/r_cookbook/</link>
+      <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/software/r_cookbook/</guid>
+      <description>&lt;p&gt;This is myself note book for R study.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hsp27 chaperones FUS phase separation under the modulation of stress-induced phosphorylation</title>
+      <link>https://cleowang-lab.github.io/publication/hsp27-chaperones-fus-phase-separation-under-the-modulation-of-stress-induced-phosphorylation/</link>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/publication/hsp27-chaperones-fus-phase-separation-under-the-modulation-of-stress-induced-phosphorylation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deepPseudoMSI</title>
+      <link>https://cleowang-lab.github.io/software/deeppseudomsi-project/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/software/deeppseudomsi-project/</guid>
+      <description>&lt;p&gt;The &lt;code&gt;deepPseudoMSI&lt;/code&gt; project is the first method that convert LC-MS raw data to “images” and then process them using deep learning method for diagnosis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>laggedCor</title>
+      <link>https://cleowang-lab.github.io/software/laggedcor-project/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/software/laggedcor-project/</guid>
+      <description>&lt;p&gt;&lt;code&gt;TidyMass&lt;/code&gt; project is a comprehensive computational framework that can process the whole workflow of data processing and analysis for LC-MS-based untargeted metabolomics using tidyverse principles.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>metID</title>
+      <link>https://cleowang-lab.github.io/software/metid-project/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/software/metid-project/</guid>
+      <description>&lt;p&gt;&lt;code&gt;metID&lt;/code&gt; is a R packge which is used for metabolite identification based on in-house database and public database based on accurate mass, retention time and/or MS2 spectra.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TidyMass</title>
+      <link>https://cleowang-lab.github.io/software/tidymass-project/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/software/tidymass-project/</guid>
+      <description>&lt;p&gt;&lt;code&gt;TidyMass&lt;/code&gt; project is a comprehensive computational framework that can process the whole workflow of data processing and analysis for LC-MS-based untargeted metabolomics using tidyverse principles.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Structure-Based Peptide Inhibitor Design of Amyloid-β Aggregation</title>
+      <link>https://cleowang-lab.github.io/publication/structure-based-peptide-inhibitor-design-of-amyloid-%CE%B2-aggregation/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/publication/structure-based-peptide-inhibitor-design-of-amyloid-%CE%B2-aggregation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In-Cell NMR Study of Tau and MARK2 Phosphorylated Tau</title>
+      <link>https://cleowang-lab.github.io/publication/in-cell-nmr-study-of-tau-and-mark2-phosphorylated-tau/</link>
+      <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/publication/in-cell-nmr-study-of-tau-and-mark2-phosphorylated-tau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of a correlative strategy to discover colorectal tumor tissue derived metabolite biomarkers in plasma using untargeted metabolomics</title>
+      <link>https://cleowang-lab.github.io/publication/development-of-a-correlative-strategy-to-discover-colorectal-tumor-tissue-derived-metabolite-biomarkers-in-plasma-using-untargeted-metabolomics/</link>
+      <pubDate>Sun, 23 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/publication/development-of-a-correlative-strategy-to-discover-colorectal-tumor-tissue-derived-metabolite-biomarkers-in-plasma-using-untargeted-metabolomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanistic insights into the switch of αB-crystallin chaperone activity and self-multimerization</title>
+      <link>https://cleowang-lab.github.io/publication/mechanistic-insights-into-the-switch-of-%CE%B1b-crystallin-chaperone-activity-and-self-multimerization/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/publication/mechanistic-insights-into-the-switch-of-%CE%B1b-crystallin-chaperone-activity-and-self-multimerization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metabolic Reaction Network-based Recursive Metabolite Identification for Untargeted Metabolomics</title>
+      <link>https://cleowang-lab.github.io/event/2018-metabolomics-conference/</link>
+      <pubDate>Sun, 24 Jun 2018 13:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/event/2018-metabolomics-conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Normalization and Integration of Large-Scale Mass Spectrometry-based Metabolomics Data Using Support Vector Regression</title>
+      <link>https://cleowang-lab.github.io/event/2016-asms/</link>
+      <pubDate>Fri, 22 Jul 2016 13:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/event/2016-asms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Versatile Structures of α-Synuclein</title>
+      <link>https://cleowang-lab.github.io/publication/versatile-structures-of-%CE%B1-synuclein/</link>
+      <pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/publication/versatile-structures-of-%CE%B1-synuclein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mass Spectrometry</title>
+      <link>https://cleowang-lab.github.io/software2/tidymodels/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/software2/tidymodels/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mass Spectrometry</title>
+      <link>https://cleowang-lab.github.io/software2/tidymodels2/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/software2/tidymodels2/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MetDNA</title>
+      <link>https://cleowang-lab.github.io/software/metdna-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/software/metdna-project/</guid>
+      <description>&lt;p&gt;MetDNA characterizes initial seed metabolites using a small tandem spectral library, and utilize their experimental MS2 spectra as surrogate spectra to annotate their reaction-paired neighbor metabolites which are subsequently served as the basis for recursive analysis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>tidyverse</title>
+      <link>https://cleowang-lab.github.io/software2/tidyverse/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/software2/tidyverse/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>tidyverse</title>
+      <link>https://cleowang-lab.github.io/software2/tidyverse2/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/software2/tidyverse2/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://cleowang-lab.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://cleowang-lab.github.io/tour/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cleowang-lab.github.io/tour/</guid>
+      <description>&lt;h1 id=&#34;---&#34;&gt;&amp;mdash;&lt;/h1&gt;
+&lt;h1 id=&#34;date-2023-08-01&#34;&gt;date: &amp;ldquo;2023-08-01&amp;rdquo;&lt;/h1&gt;
+&lt;h1 id=&#34;sections&#34;&gt;sections:&lt;/h1&gt;
+&lt;h1 id=&#34;--block-slider&#34;&gt;- block: slider&lt;/h1&gt;
+&lt;h1 id=&#34;content&#34;&gt;content:&lt;/h1&gt;
+&lt;h1 id=&#34;slides&#34;&gt;slides:&lt;/h1&gt;
+&lt;h1 id=&#34;--align-center&#34;&gt;- align: center&lt;/h1&gt;
+&lt;h1 id=&#34;background&#34;&gt;background:&lt;/h1&gt;
+&lt;h1 id=&#34;color-666&#34;&gt;color: &amp;lsquo;#666&amp;rsquo;&lt;/h1&gt;
+&lt;h1 id=&#34;image&#34;&gt;image:&lt;/h1&gt;
+&lt;h1 id=&#34;filename-codersjpg&#34;&gt;filename: coders.jpg&lt;/h1&gt;
+&lt;h1 id=&#34;filters&#34;&gt;filters:&lt;/h1&gt;
+&lt;h1 id=&#34;brightness-07&#34;&gt;brightness: 0.7&lt;/h1&gt;
+&lt;h1 id=&#34;position-right&#34;&gt;position: right&lt;/h1&gt;
+&lt;h1 id=&#34;content-take-a-look-at-what-were-working-on&#34;&gt;content: Take a look at what we&amp;rsquo;re working on&amp;hellip;&lt;/h1&gt;
+&lt;h1 id=&#34;title-u0001f44b-welcome-to-the-group&#34;&gt;title: &amp;ldquo;\U0001F44B Welcome to the group&amp;rdquo;&lt;/h1&gt;
+&lt;h1 id=&#34;--align-left&#34;&gt;- align: left&lt;/h1&gt;
+&lt;h1 id=&#34;background-1&#34;&gt;background:&lt;/h1&gt;
+&lt;h1 id=&#34;color-555&#34;&gt;color: &amp;lsquo;#555&amp;rsquo;&lt;/h1&gt;
+&lt;h1 id=&#34;image-1&#34;&gt;image:&lt;/h1&gt;
+&lt;h1 id=&#34;filename-contactjpg&#34;&gt;filename: contact.jpg&lt;/h1&gt;
+&lt;h1 id=&#34;filters-1&#34;&gt;filters:&lt;/h1&gt;
+&lt;h1 id=&#34;brightness-07-1&#34;&gt;brightness: 0.7&lt;/h1&gt;
+&lt;h1 id=&#34;position-center&#34;&gt;position: center&lt;/h1&gt;
+&lt;h1 id=&#34;content-share-your-knowledge-with-the-group-and-explore-exciting-new-topics&#34;&gt;content: Share your knowledge with the group and explore exciting new topics&lt;/h1&gt;
+&lt;h1 id=&#34;together&#34;&gt;together!&lt;/h1&gt;
+&lt;h1 id=&#34;title-lunch--learn-&#34;&gt;title: Lunch &amp;amp; Learn ☕️&lt;/h1&gt;
+&lt;h1 id=&#34;--align-right&#34;&gt;- align: right&lt;/h1&gt;
+&lt;h1 id=&#34;background-2&#34;&gt;background:&lt;/h1&gt;
+&lt;h1 id=&#34;color-333&#34;&gt;color: &amp;lsquo;#333&amp;rsquo;&lt;/h1&gt;
+&lt;h1 id=&#34;image-2&#34;&gt;image:&lt;/h1&gt;
+&lt;h1 id=&#34;filename-welcomejpg&#34;&gt;filename: welcome.jpg&lt;/h1&gt;
+&lt;h1 id=&#34;filters-2&#34;&gt;filters:&lt;/h1&gt;
+&lt;h1 id=&#34;brightness-05&#34;&gt;brightness: 0.5&lt;/h1&gt;
+&lt;h1 id=&#34;position-center-1&#34;&gt;position: center&lt;/h1&gt;
+&lt;h1 id=&#34;content-just-opened-last-month&#34;&gt;content: Just opened last month!&lt;/h1&gt;
+&lt;h1 id=&#34;link&#34;&gt;link:&lt;/h1&gt;
+&lt;h1 id=&#34;icon-graduation-cap&#34;&gt;icon: graduation-cap&lt;/h1&gt;
+&lt;h1 id=&#34;icon_pack-fas&#34;&gt;icon_pack: fas&lt;/h1&gt;
+&lt;h1 id=&#34;text-join-us&#34;&gt;text: Join Us&lt;/h1&gt;
+&lt;h1 id=&#34;url-contact&#34;&gt;url: ../contact/&lt;/h1&gt;
+&lt;h1 id=&#34;title-world-class-semiconductor-lab&#34;&gt;title: World-Class Semiconductor Lab&lt;/h1&gt;
+&lt;h1 id=&#34;design&#34;&gt;design:&lt;/h1&gt;
+&lt;h1 id=&#34;interval-2000&#34;&gt;interval: 2000&lt;/h1&gt;
+&lt;h1 id=&#34;is_fullscreen-true&#34;&gt;is_fullscreen: true&lt;/h1&gt;
+&lt;h1 id=&#34;loop-false&#34;&gt;loop: false&lt;/h1&gt;
+&lt;h1 id=&#34;slide_height-&#34;&gt;slide_height: &amp;quot;&amp;quot;&lt;/h1&gt;
+&lt;h1 id=&#34;title-tour&#34;&gt;title: Tour&lt;/h1&gt;
+&lt;h1 id=&#34;type-landing&#34;&gt;type: landing&lt;/h1&gt;
+&lt;h1 id=&#34;----1&#34;&gt;&amp;mdash;&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
