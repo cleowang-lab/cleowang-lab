@@ -33,7 +33,7 @@ sections:
   content:
     title: ""
     text: |-
-      <div class="team-pi-card" style="display:grid;grid-template-columns:270px minmax(0,1fr);gap:2.6rem;align-items:center;max-width:1120px;margin:1rem auto 0;">
+      <div class="team-pi-card">
         <div class="team-pi-photo-wrap" style="display:flex;justify-content:center;">
           <img class="team-pi-photo" src="/author/chuchu-wang/avatar.png" alt="Chuchu WANG" width="270" height="270" style="display:block;width:270px;height:270px;border-radius:50%;object-fit:cover;box-shadow:0 18px 34px rgba(0,0,0,0.18);">
         </div>
@@ -67,7 +67,7 @@ sections:
     text: |-
       <div class="team-member-list">
         <h2 class="team-member-category">Research Fellow</h2>
-        <div class="team-member-card" style="display:grid;grid-template-columns:180px minmax(0,1fr);gap:2.1rem;align-items:center;margin-bottom:2.4rem;">
+        <div class="team-member-card">
           <div class="team-member-photo-wrap" style="display:flex;justify-content:center;">
             <img class="team-member-photo" style="display:block;width:180px;height:180px;border-radius:50%;object-fit:cover;box-shadow:0 14px 28px rgba(0,0,0,0.14);" src="/author/wencheng-xia/avatar.png" alt="Wencheng XIA" width="180" height="180">
           </div>
@@ -92,7 +92,7 @@ sections:
           </div>
         </div>
 
-        <div class="team-member-card" style="display:grid;grid-template-columns:180px minmax(0,1fr);gap:2.1rem;align-items:center;margin-bottom:2.4rem;">
+        <div class="team-member-card">
           <div class="team-member-photo-wrap" style="display:flex;justify-content:center;">
             <img class="team-member-photo" style="display:block;width:180px;height:180px;border-radius:50%;object-fit:cover;box-shadow:0 14px 28px rgba(0,0,0,0.14);" src="/author/ling-hu/avatar.png" alt="Hui CHEN" width="180" height="180">
           </div>
@@ -118,7 +118,7 @@ sections:
         </div>
 
         <h2 class="team-member-category">PhD Student</h2>
-        <div class="team-member-card" style="display:grid;grid-template-columns:180px minmax(0,1fr);gap:2.1rem;align-items:center;margin-bottom:2.4rem;">
+        <div class="team-member-card">
           <div class="team-member-photo-wrap" style="display:flex;justify-content:center;">
             <img class="team-member-photo" style="display:block;width:180px;height:180px;border-radius:50%;object-fit:cover;box-shadow:0 14px 28px rgba(0,0,0,0.14);" src="/author/ling-hu/avatar.png" alt="Ling HU" width="180" height="180">
           </div>
@@ -143,7 +143,7 @@ sections:
           </div>
         </div>
 
-        <div class="team-member-card" style="display:grid;grid-template-columns:180px minmax(0,1fr);gap:2.1rem;align-items:center;margin-bottom:2.4rem;">
+        <div class="team-member-card">
           <div class="team-member-photo-wrap" style="display:flex;justify-content:center;">
             <img class="team-member-photo" style="display:block;width:180px;height:180px;border-radius:50%;object-fit:cover;box-shadow:0 14px 28px rgba(0,0,0,0.14);" src="/author/ling-hu/avatar.png" alt="Sivani RADHAKRISHNAN" width="180" height="180">
           </div>
@@ -168,7 +168,7 @@ sections:
           </div>
         </div>
 
-        <div class="team-member-card" style="display:grid;grid-template-columns:180px minmax(0,1fr);gap:2.1rem;align-items:center;margin-bottom:2.4rem;">
+        <div class="team-member-card">
           <div class="team-member-photo-wrap" style="display:flex;justify-content:center;">
             <img class="team-member-photo" style="display:block;width:180px;height:180px;border-radius:50%;object-fit:cover;box-shadow:0 14px 28px rgba(0,0,0,0.14);" src="/author/ling-hu/avatar.png" alt="Shi Yan LEE" width="180" height="180">
           </div>
@@ -194,7 +194,7 @@ sections:
         </div>
 
         <h2 class="team-member-category">Visiting Scholar and Student</h2>
-        <div class="team-member-card" style="display:grid;grid-template-columns:180px minmax(0,1fr);gap:2.1rem;align-items:center;margin-bottom:2.4rem;">
+        <div class="team-member-card">
           <div class="team-member-photo-wrap" style="display:flex;justify-content:center;">
             <img class="team-member-photo" style="display:block;width:180px;height:180px;border-radius:50%;object-fit:cover;box-shadow:0 14px 28px rgba(0,0,0,0.14);" src="/author/ling-hu/avatar.png" alt="Minting HU" width="180" height="180">
           </div>
@@ -219,7 +219,7 @@ sections:
           </div>
         </div>
 
-        <div class="team-member-card" style="display:grid;grid-template-columns:180px minmax(0,1fr);gap:2.1rem;align-items:center;margin-bottom:2.4rem;">
+        <div class="team-member-card">
           <div class="team-member-photo-wrap" style="display:flex;justify-content:center;">
             <img class="team-member-photo" style="display:block;width:180px;height:180px;border-radius:50%;object-fit:cover;box-shadow:0 14px 28px rgba(0,0,0,0.14);" src="/author/chris-davis/avatar.png" alt="Christopher KOLB" width="180" height="180">
           </div>
@@ -245,7 +245,7 @@ sections:
         </div>
 
         <h2 class="team-member-category">Undergraduate Intern</h2>
-        <div class="team-member-card" style="display:grid;grid-template-columns:180px minmax(0,1fr);gap:2.1rem;align-items:center;margin-bottom:2.4rem;">
+        <div class="team-member-card">
           <div class="team-member-photo-wrap" style="display:flex;justify-content:center;">
             <img class="team-member-photo" style="display:block;width:180px;height:180px;border-radius:50%;object-fit:cover;box-shadow:0 14px 28px rgba(0,0,0,0.14);" src="/author/chloe-shen/avatar.png" alt="Siti Maryam Ani Binti Ismail" width="180" height="180">
           </div>
