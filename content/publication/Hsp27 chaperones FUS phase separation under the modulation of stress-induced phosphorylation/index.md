@@ -3,31 +3,26 @@ title: Hsp27 chaperones FUS phase separation under the modulation of stress-indu
 
 abstract: Hsp27 chaperones FUS phase separation under the modulation of stress-induced phosphorylation
 
-# author_notes:
-# - Equal contribution
-# - Equal contribution
-# - Equal contribution
+author_notes:
+- Equal contribution
+- Equal contribution
+- Equal contribution
+
+corresponding_authors:
+- Dan Li
+- Cong Liu
 
 authors:
-- Xiaojuan Ma
-- Yi Zhu
-- Jinxia Lu
-- Jingfei Xie
-- Chong Li
-- Woo Shik Shin
-- Jiali Qiang
-- Jiaqi Liu
-- Shuai Dou
-- Yi Xiao
-- admin
-- Chunyu Jia
-- Houfang Long
-- Juntao Yang
-- Yanshan Fang
-- Lin Jiang
-- Yaoyang Zhang
+- Zhenying Liu
 - Shengnan Zhang
-- Rong Grace Zhai
+- Jinge Gu
+- Yichen Li
+- Xinyi Gui
+- Houfang Long
+- admin
+- Chunyu Zhao
+- Jinxia Lu
+- Zhijun Liu
 - Cong Liu
 - Dan Li
 

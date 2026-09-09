@@ -8,6 +8,9 @@ abstract: Observing isolated synaptic vesicle association and fusion ex vivo
 # - Equal contribution
 # - Equal contribution
 
+corresponding_authors:
+- Axel T. Brunger
+
 authors:
 - Jeremy Leitz 
 - admin

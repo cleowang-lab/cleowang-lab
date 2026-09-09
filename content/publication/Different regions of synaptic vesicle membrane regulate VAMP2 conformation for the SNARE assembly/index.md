@@ -8,6 +8,10 @@ abstract: Different regions of synaptic vesicle membrane regulate VAMP2 conforma
 # - Equal contribution
 # - Equal contribution
 
+corresponding_authors:
+- Dan Li
+- Cong Liu
+
 authors:
 - admin
 - Jia Tu
@@ -15,16 +19,11 @@ authors:
 - Bin Cai
 - Zhenying Liu
 - Shouqiao Hou
-- Qinglu Zhong
-- Xiao Hu
-- Wenbin Liu
-- Guohui Li
 - Zhijun Liu
-- Lin He
 - Jiajie Diao
 - Zheng-Jiang Zhu
-- Dan Li
 - Cong Liu
+- Dan Li
 
 featured: true
 publication: Nature Communications

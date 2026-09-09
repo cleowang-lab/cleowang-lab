@@ -8,6 +8,10 @@ abstract: VAMP2 chaperones α-synuclein in synaptic vesicle co-condensates
 # - Equal contribution
 # - Equal contribution
 
+corresponding_authors:
+- Dan Li
+- Jiajie Diao
+
 authors:
 - admin 
 - Kai Zhang

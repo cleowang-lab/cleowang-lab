@@ -1,1 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Others | Wang Lab</title><link>https://chuchuwanglab.com/tag/others/</link><atom:link href="https://chuchuwanglab.com/tag/others/index.xml" rel="self" type="application/rss+xml"/><description>Others</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 22 Mar 2020 00:00:00 +0000</lastBuildDate><image><url>https://chuchuwanglab.com/media/logo_hu59533391df896ae5e83994df6754cd25_74072_300x300_fit_lanczos_3.png</url><title>Others</title><link>https://chuchuwanglab.com/tag/others/</link></image><item><title>R cookbook</title><link>https://chuchuwanglab.com/software/r_cookbook/</link><pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate><guid>https://chuchuwanglab.com/software/r_cookbook/</guid><description>&lt;p>This is myself note book for R study.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Others | Wang Lab</title>
+    <link>https://chuchuwanglab.com/tag/others/</link>
+      <atom:link href="https://chuchuwanglab.com/tag/others/index.xml" rel="self" type="application/rss+xml" />
+    <description>Others</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 22 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chuchuwanglab.com/media/logo_hu59533391df896ae5e83994df6754cd25_74072_300x300_fit_lanczos_3.png</url>
+      <title>Others</title>
+      <link>https://chuchuwanglab.com/tag/others/</link>
+    </image>
+    
+    <item>
+      <title>R cookbook</title>
+      <link>https://chuchuwanglab.com/software/r_cookbook/</link>
+      <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://chuchuwanglab.com/software/r_cookbook/</guid>
+      <description>&lt;p&gt;This is myself note book for R study.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -16,7 +16,7 @@ sections:
       latitude: "1.344921644620385"
       longitude: "103.67854067345625"
     # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-    email: choicewang0820@hotmail.com
+    email: chuchu.wang@ntu.edu.sg
     form:
       formspree:
         id: xpzgpjby
@@ -34,14 +34,14 @@ sections:
         icon_pack: fab
         name: Follow us on WeChat
         link: 'https://jaspershen.github.io/image/wechat_QR.jpg'
-      - icon: twitter
+      - icon: x-twitter
         icon_pack: fab
         name: Follow us on X
-        link: https://twitter.com/ChuchuWang0820
+        link: https://x.com/ChuchuWang0820
       - icon: github
         icon_pack: fab
         name: Follow us on Github
-        link: https://github.com/cleowang-lab
+        link: https://github.com/CleoShen
     phone: +65 83042333
     text: 
     title: Contact

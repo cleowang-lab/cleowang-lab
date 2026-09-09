@@ -6,7 +6,7 @@ image:
   placement: 2
 math: true
 commentable: true
-title: 2025-05-14 Opportunities in Wang Lab 
+title: Opportunities in Wang Lab
 # links:
 # - icon: file-pdf
 #   icon_pack: fas
@@ -110,7 +110,7 @@ We welcome visiting researchers and joint PhD students interested in collaborati
 
 **Application Instructions**
 
-To apply, please send the following documents in **English** to **[choicewang0820@hotmail.com](mailto:choicewang0820@hotmail.com)**:
+To apply, please send the following documents in **English** to **[chuchu.wang@ntu.edu.sg](mailto:chuchu.wang@ntu.edu.sg)**:
 
 * Cover letter (briefly describing your past experience and research interests)
 * CV
@@ -122,4 +122,3 @@ To apply, please send the following documents in **English** to **[choicewang082
 `PhD Application – Jeremy Lee`
 
 Applicants will be contacted for interviews shortly after submission.
-

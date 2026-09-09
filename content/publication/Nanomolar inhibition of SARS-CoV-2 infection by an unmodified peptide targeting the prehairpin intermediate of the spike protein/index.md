@@ -3,10 +3,14 @@ title: Nanomolar inhibition of SARS-CoV-2 infection by an unmodified peptide tar
 
 abstract: Nanomolar inhibition of SARS-CoV-2 infection by an unmodified peptide targeting the prehairpin intermediate of the spike protein
 
-# author_notes:
-# - Equal contribution
-# - Equal contribution
-# - Equal contribution
+author_notes:
+- Equal contribution
+- Equal contribution
+- Equal contribution
+
+corresponding_authors:
+- Axel T. Brunger
+- Tom Kirchhausen
 
 authors:
 - Kailu Yang

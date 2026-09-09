@@ -8,6 +8,9 @@ abstract: Beyond the MUN domain Munc13 controls priming and depriming of synapti
 # - Equal contribution
 # - Equal contribution
 
+corresponding_authors:
+- Axel T. Brunger
+
 authors:
 - Jeremy Leitz
 - admin
@@ -19,7 +22,7 @@ authors:
 - Axel T. Brunger
 
 featured: true
-publication: elife
+publication: Cell Reports
 publication_types:
 - 2
 publishDate: 2024-05-20

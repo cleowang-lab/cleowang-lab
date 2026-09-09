@@ -1,8 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>News | Wang Lab</title><link>https://chuchuwanglab.com/research_brief/</link><atom:link href="https://chuchuwanglab.com/research_brief/index.xml" rel="self" type="application/rss+xml"/><description>News</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://chuchuwanglab.com/media/logo_hu59533391df896ae5e83994df6754cd25_74072_300x300_fit_lanczos_3.png</url><title>News</title><link>https://chuchuwanglab.com/research_brief/</link></image><item><title>Research Resources</title><link>https://chuchuwanglab.com/research_brief/structure-biology/</link><pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate><guid>https://chuchuwanglab.com/research_brief/structure-biology/</guid><description>&lt;p>Our research is supported by a multidisciplinary ecosystem of in-house instrumentation and shared research facilities across NTU, including:&lt;/p>
-&lt;ul>
-&lt;li>Our lab&amp;rsquo;s FPLC, HPLC and DLS systems&lt;/li>
-&lt;li>&lt;a href="https://www.ntu.edu.sg/nisb/research-capabilities/cryoem-platform?utm_source=chatgpt.com" target="_blank" rel="noopener">NISB Cryo-EM Platform&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.ntu.edu.sg/nisb/research-capabilities/researchplatforms?utm_source=chatgpt.com" target="_blank" rel="noopener">NISB Other Research Platforms&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.ntu.edu.sg/spc" target="_blank" rel="noopener">Singapore Phenome Centre&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.nobic.sg/Facilities.html" target="_blank" rel="noopener">NTU Optical Bio-Imaging Centre&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Aging and Aging-Related Diseases</title><link>https://chuchuwanglab.com/research_brief/aging/</link><pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate><guid>https://chuchuwanglab.com/research_brief/aging/</guid><description>&lt;p>Aging gradually changes how neurons function and increases the risk of neurodegenerative diseases such as Alzheimer’s and Parkinson’s disease. What makes aging synapses vulnerable to dysfunction and degeneration? We seek to answer this question by investigating how the cellular environment shapes the molecular organisation and function of the synapse. We are particularly interested in neuronal membranes and protein–lipid interactions. Proteins do not act in isolation: their behaviour depends not only on their sequences, but also on the lipids and molecular partners around them. By combining cryo-electron microscopy and tomography with mass spectrometry-based multi-omics and experimental models, we aim to uncover the molecular features that distinguish healthy synapses from vulnerable ones during aging and disease.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News | Wang Lab</title>
+    <link>https://chuchuwanglab.com/research_brief/</link>
+      <atom:link href="https://chuchuwanglab.com/research_brief/index.xml" rel="self" type="application/rss+xml" />
+    <description>News</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://chuchuwanglab.com/media/logo_hu59533391df896ae5e83994df6754cd25_74072_300x300_fit_lanczos_3.png</url>
+      <title>News</title>
+      <link>https://chuchuwanglab.com/research_brief/</link>
+    </image>
+    
+    <item>
+      <title>Research Resources</title>
+      <link>https://chuchuwanglab.com/research_brief/structure-biology/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://chuchuwanglab.com/research_brief/structure-biology/</guid>
+      <description>&lt;p&gt;Our research is supported by a multidisciplinary ecosystem of in-house instrumentation and shared research facilities across NTU, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Our lab&amp;rsquo;s FPLC, HPLC and DLS systems&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ntu.edu.sg/nisb/research-capabilities/cryoem-platform?utm_source=chatgpt.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NISB Cryo-EM Platform&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ntu.edu.sg/nisb/research-capabilities/researchplatforms?utm_source=chatgpt.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NISB Other Research Platforms&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ntu.edu.sg/spc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Singapore Phenome Centre&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nobic.sg/Facilities.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NTU Optical Bio-Imaging Centre&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aging and Aging-Related Diseases</title>
+      <link>https://chuchuwanglab.com/research_brief/aging/</link>
+      <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://chuchuwanglab.com/research_brief/aging/</guid>
+      <description>&lt;p&gt;Aging gradually changes how neurons function and increases the risk of neurodegenerative diseases such as Alzheimer’s and Parkinson’s disease. What makes aging synapses vulnerable to dysfunction and degeneration? We seek to answer this question by investigating how the cellular environment shapes the molecular organisation and function of the synapse. We are particularly interested in neuronal membranes and protein–lipid interactions. Proteins do not act in isolation: their behaviour depends not only on their sequences, but also on the lipids and molecular partners around them. By combining cryo-electron microscopy and tomography with mass spectrometry-based multi-omics and experimental models, we aim to uncover the molecular features that distinguish healthy synapses from vulnerable ones during aging and disease.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,7 +6,7 @@ image:
   placement: 2
 math: true
 commentable: true
-title: 2024-06-05 Paper accepted in Nature
+title: Paper accepted in Nature
 # links:
 # - icon: file-pdf
 #   icon_pack: fas

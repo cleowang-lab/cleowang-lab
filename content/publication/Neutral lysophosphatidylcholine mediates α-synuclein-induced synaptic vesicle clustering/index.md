@@ -3,10 +3,17 @@ title: Neutral lysophosphatidylcholine mediates α-synuclein-induced synaptic ve
 
 abstract: Neutral lysophosphatidylcholine mediates α-synuclein-induced synaptic vesicle clustering
 
-# author_notes:
-# - Equal contribution
-# - Equal contribution
-# - Equal contribution
+author_notes:
+- Equal contribution
+- Equal contribution
+- Equal contribution
+- Equal contribution
+- Equal contribution
+
+corresponding_authors:
+- Cong Liu
+- Axel T. Brunger
+- Jiajie Diao
 
 authors:
 - Ying Lai
@@ -31,7 +38,7 @@ authors:
 - Jiajie Diao
 
 featured: true
-publication: elife
+publication: PNAS
 publication_types:
 - 2
 publishDate: 2023-10-26

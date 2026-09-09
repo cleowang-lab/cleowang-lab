@@ -8,6 +8,11 @@ abstract: Nicotinamide mononucleotide adenylyltransferase uses its NAD+ substrat
 # - Equal contribution
 # - Equal contribution
 
+corresponding_authors:
+- Rong Grace Zhai
+- Cong Liu
+- Dan Li
+
 authors:
 - Xiaojuan Ma
 - Yi Zhu

@@ -6,6 +6,10 @@ abstract: One of the major challenges in liquid chromatography coupled to mass s
 author_notes:
 - Equal contribution
 - Equal contribution
+corresponding_authors:
+- Xiaotao Shen
+- Michael Snyder
+
 authors:
 - Xiaotao Shen
 - admin

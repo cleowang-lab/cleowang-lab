@@ -8,6 +8,9 @@ abstract: A new method for isolation and purification of fusion-competent inhibi
 # - Equal contribution
 # - Equal contribution
 
+corresponding_authors:
+- Axel T. Brunger
+
 authors:
 - Nisha Gopal
 - Jeremy Leitz
@@ -17,7 +20,7 @@ authors:
 - Axel T. Brunger
 
 featured: true
-publication: elife
+publication: Current Research in Physiology
 publication_types:
 - 2
 publishDate: 2024-03-28

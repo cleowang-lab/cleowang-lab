@@ -8,6 +8,12 @@ abstract: Mechanistic basis for receptor-mediated pathological α-synuclein fibr
 # - Equal contribution
 # - Equal contribution
 
+corresponding_authors:
+- Ted M. Dawson
+- Yan-Mei Li
+- Xiaobo Mao
+- Cong Liu
+
 authors:
 - Shengnan Zhang
 - Yu-Qing Liu

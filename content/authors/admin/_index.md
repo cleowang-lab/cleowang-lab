@@ -14,7 +14,7 @@ education:
   - course: BSc
     institution: Jilin University
     year: 2009/01-2013/07
-email: "choicewang0820@hotmail.com"
+email: "chuchu.wang@ntu.edu.sg"
 commentable: true
 first_name: Chuchu
 last_name: WANG
@@ -34,16 +34,16 @@ social:
 #   link: https://github.com/cleowang-lab
 - icon: envelope
   icon_pack: fas
-  link: mailto:chuchu.wang2025@gmail.com
+  link: mailto:chuchu.wang@ntu.edu.sg
 - display:
     header: false
   icon: github
   icon_pack: fab
   # label: Follow us on GitHub
-  link: https://github.com/cleowang
+  link: https://github.com/CleoShen
 - display:
     header: false
-  icon: twitter
+  icon: x-twitter
   icon_pack: fab
   # label: Follow us on X
   link: https://x.com/ChuchuWang0820

@@ -8,6 +8,10 @@ abstract: Versatile Structures of α-Synuclein
 # - Equal contribution
 # - Equal contribution
 
+corresponding_authors:
+- Jiajie Diao
+- Cong Liu
+
 authors:
 - admin
 - Chunyu Zhao

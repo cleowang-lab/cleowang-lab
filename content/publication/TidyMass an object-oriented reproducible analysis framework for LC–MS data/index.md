@@ -8,6 +8,10 @@ author_notes:
 - Equal contribution
 - Equal contribution
 
+corresponding_authors:
+- Caroline Johnson
+- Michael Snyder
+
 authors:
 - Xiaotao Shen
 - Hong Yan

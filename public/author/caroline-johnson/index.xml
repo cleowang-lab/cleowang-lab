@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Caroline Johnson | Wang Lab</title><link>https://chuchuwanglab.com/author/caroline-johnson/</link><atom:link href="https://chuchuwanglab.com/author/caroline-johnson/index.xml" rel="self" type="application/rss+xml"/><description>Caroline Johnson</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jul 2022 00:00:00 +0000</lastBuildDate><image><url>https://chuchuwanglab.com/media/logo_hu59533391df896ae5e83994df6754cd25_74072_300x300_fit_lanczos_3.png</url><title>Caroline Johnson</title><link>https://chuchuwanglab.com/author/caroline-johnson/</link></image><item><title>TidyMass an object-oriented reproducible analysis framework for LC–MS data</title><link>https://chuchuwanglab.com/publication/tidymass-an-object-oriented-reproducible-analysis-framework-for-lcms-data/</link><pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate><guid>https://chuchuwanglab.com/publication/tidymass-an-object-oriented-reproducible-analysis-framework-for-lcms-data/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Caroline Johnson | Wang Lab</title>
+    <link>https://chuchuwanglab.com/author/caroline-johnson/</link>
+      <atom:link href="https://chuchuwanglab.com/author/caroline-johnson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Caroline Johnson</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chuchuwanglab.com/media/logo_hu59533391df896ae5e83994df6754cd25_74072_300x300_fit_lanczos_3.png</url>
+      <title>Caroline Johnson</title>
+      <link>https://chuchuwanglab.com/author/caroline-johnson/</link>
+    </image>
+    
+    <item>
+      <title>TidyMass an object-oriented reproducible analysis framework for LC–MS data</title>
+      <link>https://chuchuwanglab.com/publication/tidymass-an-object-oriented-reproducible-analysis-framework-for-lcms-data/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://chuchuwanglab.com/publication/tidymass-an-object-oriented-reproducible-analysis-framework-for-lcms-data/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

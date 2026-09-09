@@ -8,6 +8,9 @@ author_notes:
 - Equal contribution
 - Equal contribution
 - Equal contribution
+corresponding_authors:
+- Michael Snyder
+
 authors:
 - Xiaotao Shen
 - Ryan Kellogg
@@ -36,7 +39,7 @@ projects: []
 publication: 'Nature Biomedical Engineering'
 publication_types:
 - "2"
-publishDate: "2023-01-19T00:00:00Z"
+publishDate: "2024-01-01T00:00:00Z"
 summary: Multi-omics microsampling for the profiling of lifestyle-associated changes in health
 links:
 - icon: link
@@ -61,4 +64,3 @@ links:
 # url_source: ""
 # url_video: ""
 ---
-

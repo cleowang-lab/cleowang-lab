@@ -1,1 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Chloe SHEN | Wang Lab</title><link>https://chuchuwanglab.com/author/chloe-shen/</link><atom:link href="https://chuchuwanglab.com/author/chloe-shen/index.xml" rel="self" type="application/rss+xml"/><description>Chloe SHEN</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://chuchuwanglab.com/author/chloe-shen/avatar_hu5e8c75406f04b0dfb557d2e57787947c_1554297_270x270_fill_lanczos_center_3.png</url><title>Chloe SHEN</title><link>https://chuchuwanglab.com/author/chloe-shen/</link></image></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chloe SHEN | Wang Lab</title>
+    <link>https://chuchuwanglab.com/author/chloe-shen/</link>
+      <atom:link href="https://chuchuwanglab.com/author/chloe-shen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chloe SHEN</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://chuchuwanglab.com/author/chloe-shen/avatar_hu5e8c75406f04b0dfb557d2e57787947c_1554297_270x270_fill_lanczos_center_3.png</url>
+      <title>Chloe SHEN</title>
+      <link>https://chuchuwanglab.com/author/chloe-shen/</link>
+    </image>
+    
+  </channel>
+</rss>

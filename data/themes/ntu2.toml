@@ -17,6 +17,6 @@ name = "ntu2"
 
 [dark]
   # Primary
-  primary = "#9fedd4"
-  link = "#9fedd4"
-  link_hover = "#9fedd4"
+  primary = "#8ec5ff"
+  link = "#8ec5ff"
+  link_hover = "#b9dcff"

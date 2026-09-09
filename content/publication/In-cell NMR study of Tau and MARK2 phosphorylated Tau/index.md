@@ -3,10 +3,13 @@ title: In-Cell NMR Study of Tau and MARK2 Phosphorylated Tau
 
 abstract: In-Cell NMR Study of Tau and MARK2 Phosphorylated Tau
 
-# author_notes:
-# - Equal contribution
-# - Equal contribution
-# - Equal contribution
+author_notes:
+- Equal contribution
+- Equal contribution
+
+corresponding_authors:
+- Shengnan Zhang
+- Cong Liu
 
 authors:
 - Shengnan Zhang
@@ -22,7 +25,7 @@ featured: true
 publication: Int. J. Mol. Sci.
 publication_types:
 - 2
-publishDate: 2018-12-26
+publishDate: 2019-01-01
 summary: In-Cell NMR Study of Tau and MARK2 Phosphorylated Tau
 links:
 - icon: link

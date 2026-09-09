@@ -8,6 +8,10 @@ abstract: Mechanistic insights into the switch of αB-crystallin chaperone activ
 # - Equal contribution
 # - Equal contribution
 
+corresponding_authors:
+- Shengnan Zhang
+- Cong Liu
+
 authors:
 - Zhenying Liu
 - admin

@@ -199,7 +199,7 @@ sections:
     # subtitle: ":point_right: [More social media](./contact/)"
     text: 
     # Contact (add or remove contact options as necessary)
-    # email: choicewang0820@hotmail.com
+    # email: chuchu.wang@ntu.edu.sg
     # phone: +65 83042333
     # appointment_url: 'https://calendly.com'
     # address:

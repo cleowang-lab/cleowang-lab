@@ -8,6 +8,9 @@ abstract: Structure-based design of a SARS-CoV-2 Omicron-specific inhibitor
 # - Equal contribution
 # - Equal contribution
 
+corresponding_authors:
+- Axel T. Brunger
+
 authors:
 - Kailu Yang
 - admin
@@ -19,7 +22,7 @@ authors:
 - Axel T. Brunger
 
 featured: true
-publication: elife
+publication: PNAS
 publication_types:
 - 2
 publishDate: 2023-03-20

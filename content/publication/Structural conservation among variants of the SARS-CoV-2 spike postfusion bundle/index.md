@@ -8,6 +8,9 @@ abstract: Structural conservation among variants of the SARS-CoV-2 spike postfus
 # - Equal contribution
 # - Equal contribution
 
+corresponding_authors:
+- Axel T. Brunger
+
 authors:
 - Kailu Yang
 - admin

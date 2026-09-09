@@ -3,13 +3,17 @@ title: Structure-Based Peptide Inhibitor Design of Amyloid-β Aggregation
 
 abstract: Structure-Based Peptide Inhibitor Design of Amyloid-β Aggregation
 
-# author_notes:
-# - Equal contribution
-# - Equal contribution
-# - Equal contribution
+author_notes:
+- Equal contribution
+- Equal contribution
+- Equal contribution
+
+corresponding_authors:
+- Lin Jiang
+- Dan Li
 
 authors:
-- Jinxia Lu1
+- Jinxia Lu
 - Qin Cao
 - admin
 - Jing Zheng

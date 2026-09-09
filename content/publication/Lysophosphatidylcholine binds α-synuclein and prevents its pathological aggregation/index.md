@@ -8,6 +8,11 @@ author_notes:
 - Equal contribution
 - Equal contribution
 
+corresponding_authors:
+- Cong Liu
+- Zheng-Jiang Zhu
+- Jiajie Diao
+
 authors:
 - Chunyu Zhao
 - Jia Tu
@@ -22,7 +27,7 @@ authors:
 - Cong Liu
 
 featured: true
-publication: elife
+publication: National Science Review
 publication_types:
 - 2
 publishDate: 2024-06-01

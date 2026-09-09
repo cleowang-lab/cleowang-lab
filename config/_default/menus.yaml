@@ -19,15 +19,15 @@ main:
   - name: TEAM
     url: '/team/'
     weight: 30
-  # - name: EVENT
-  #   url: '#event'
-  #   weight: 40
+  - name: EVENT
+    url: '/event/'
+    weight: 40
   - name: INTRANET
     url: 'https://entuedu.sharepoint.com/:u:/r/sites/cwang-lab/SitePages/Home.aspx?d=w68a280f63e644ce58258cf5ed33e081d&csf=1&web=1&e=F4miXE'
     weight: 50
-  - name: CONTACT
-    url: '#contact'
-    weight: 60
+  # - name: CONTACT
+  #   url: '#contact'
+  #   weight: 60
   # - name: <i class="fa-brands fa-github"></i> GitHub
   #   url: '#github'
   #   weight: 65

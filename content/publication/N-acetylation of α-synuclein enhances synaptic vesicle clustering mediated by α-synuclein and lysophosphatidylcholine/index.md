@@ -3,10 +3,13 @@ title: N-acetylation of α-synuclein enhances synaptic vesicle clustering mediat
 
 abstract: N-acetylation of α-synuclein enhances synaptic vesicle clustering mediated by α-synuclein and lysophosphatidylcholine
 
-# author_notes:
-# - Equal contribution
-# - Equal contribution
-# - Equal contribution
+author_notes:
+- Equal contribution
+- Equal contribution
+
+corresponding_authors:
+- Jiajie Diao
+- Cong Liu
 
 authors:
 - admin
@@ -18,8 +21,8 @@ authors:
 - Shengnan Zhang
 - Dan Li
 - Yaoyang Zhang
-- Jacqueline Burre
-- Jiajia Diao
+- Jacqueline Burré
+- Jiajie Diao
 - Cong Liu
 
 featured: true
