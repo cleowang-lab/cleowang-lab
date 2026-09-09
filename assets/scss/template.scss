@@ -368,27 +368,33 @@ body.dark .team-pi-social a:focus {
 
 @media (max-width: 640px) {
   .team-pi-card {
-    grid-template-columns: 1fr;
-    gap: 1.75rem;
-    text-align: center;
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+    gap: 1.5rem !important;
+    max-width: 100% !important;
+    margin: 1rem auto 0 !important;
+    text-align: center !important;
   }
 
   .team-pi-photo {
-    max-width: 270px;
-    max-height: 270px;
+    width: 240px !important;
+    height: 240px !important;
+    max-width: 78vw !important;
+    max-height: 78vw !important;
   }
 
   .team-pi-name {
-    font-size: 2rem;
+    font-size: 2rem !important;
   }
 
   .team-pi-affiliation {
-    font-size: 1.15rem;
+    font-size: 1rem !important;
+    line-height: 1.6 !important;
   }
 
   .team-pi-links,
   .team-pi-social {
-    justify-content: center;
+    justify-content: center !important;
   }
 
   .team-pi-social {
@@ -537,18 +543,36 @@ body.dark .team-member-social a:focus {
 
 @media (max-width: 640px) {
   .team-member-category {
-    text-align: center;
+    text-align: center !important;
   }
 
   .team-member-card {
-    grid-template-columns: 1fr;
-    gap: 1.25rem;
-    text-align: center;
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+    gap: 1.15rem !important;
+    max-width: 100% !important;
+    text-align: center !important;
+  }
+
+  .team-member-photo {
+    width: 180px !important;
+    height: 180px !important;
+    max-width: 64vw !important;
+    max-height: 64vw !important;
+  }
+
+  .team-member-name {
+    font-size: 1.85rem !important;
+  }
+
+  .team-member-affiliation {
+    font-size: 0.95rem !important;
+    line-height: 1.55 !important;
   }
 
   .team-member-links,
   .team-member-social {
-    justify-content: center;
+    justify-content: center !important;
   }
 }
 

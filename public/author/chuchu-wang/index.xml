@@ -1,553 +1,196 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Chuchu WANG | Wang Lab</title>
-    <link>https://chuchuwanglab.com/author/chuchu-wang/</link>
-      <atom:link href="https://chuchuwanglab.com/author/chuchu-wang/index.xml" rel="self" type="application/rss+xml" />
-    <description>Chuchu WANG</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
-    <image>
-      <url>https://chuchuwanglab.com/author/chuchu-wang/avatar_hue640d778efbf4eb7ed5302bb13d9d356_4842034_270x270_fill_lanczos_center_3.png</url>
-      <title>Chuchu WANG</title>
-      <link>https://chuchuwanglab.com/author/chuchu-wang/</link>
-    </image>
-    
-    <item>
-      <title>NTU AI-for-X Postdoctoral Fellowship Opportunity in Wang Lab</title>
-      <link>https://chuchuwanglab.com/news/2026-09-08-ntu-ai-for-x-postdoctoral-fellowship/</link>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://chuchuwanglab.com/news/2026-09-08-ntu-ai-for-x-postdoctoral-fellowship/</guid>
-      <description>&lt;p&gt;We are looking for early-career researchers interested in applying for the &lt;a href=&#34;https://www.ntu.edu.sg/research/research-careers/ntu-ai-for-x-postdoctoral-fellowship&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NTU AI-for-X Postdoctoral Fellowship&lt;/a&gt; to develop AI-driven methods for cryo-EM/ET, automated data analysis, and the structural study of native neuronal systems.&lt;/p&gt;
-&lt;p&gt;The Wang Lab at Nanyang Technological University (NTU), Singapore welcomes outstanding postdoctoral fellowship candidates who are excited to work at the interface of &lt;strong&gt;artificial intelligence, structural biology, neuroscience, and neurodegeneration research&lt;/strong&gt;.&lt;/p&gt;
-&lt;h3 id=&#34;fellowship&#34;&gt;Fellowship&lt;/h3&gt;
-&lt;p&gt;The NTU AI-for-X Postdoctoral Fellowship supports promising early-career researchers who aim to develop AI methods for challenging scientific problems. The 2026 application deadline is &lt;strong&gt;30 October 2026, 23:59 Singapore time&lt;/strong&gt;. Applicants should review the official fellowship requirements and application timeline on the &lt;a href=&#34;https://www.ntu.edu.sg/research/research-careers/ntu-ai-for-x-postdoctoral-fellowship&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NTU AI-for-X Postdoctoral Fellowship page&lt;/a&gt;.&lt;/p&gt;
-&lt;h3 id=&#34;research-direction&#34;&gt;Research Direction&lt;/h3&gt;
-&lt;p&gt;The fellow will work with Dr. Chuchu Wang to develop and apply AI-driven approaches for:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Automated analysis of cryo-electron tomography and cryo-electron microscopy data&lt;/li&gt;
-&lt;li&gt;Structural studies of native neuronal and synaptic systems&lt;/li&gt;
-&lt;li&gt;In situ analysis of protein-lipid interactions in aging and neurodegenerative disease&lt;/li&gt;
-&lt;li&gt;Data integration across cryo-EM/ET, cell biology, and mass spectrometry-based multi-omics&lt;/li&gt;
-&lt;li&gt;Cryo-FIB milling workflows using Aqilos for native cellular sample preparation&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;candidate-profile&#34;&gt;Candidate Profile&lt;/h3&gt;
-&lt;p&gt;We welcome applicants with a PhD in a STEM discipline, especially those with experience or strong interest in one or more of the following areas:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Artificial intelligence, machine learning, computer vision, or image analysis&lt;/li&gt;
-&lt;li&gt;Cryo-EM, cryo-ET, structural biology, biophysics, or cell biology&lt;/li&gt;
-&lt;li&gt;Neuroscience, neurodegeneration, membrane biology, or synaptic biology&lt;/li&gt;
-&lt;li&gt;Scientific programming and reproducible computational workflows&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Candidates should be motivated to build independent research directions, work collaboratively across disciplines, and contribute to a supportive lab environment.&lt;/p&gt;
-&lt;h3 id=&#34;how-to-apply&#34;&gt;How to Apply&lt;/h3&gt;
-&lt;p&gt;Interested candidates are encouraged to contact Dr. Chuchu Wang before submitting the official fellowship application. Please send the following materials to &lt;strong&gt;&lt;a href=&#34;mailto:chuchu.wang@ntu.edu.sg&#34;&gt;chuchu.wang@ntu.edu.sg&lt;/a&gt;&lt;/strong&gt;:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;CV&lt;/li&gt;
-&lt;li&gt;A brief description of your research interests and fit with the Wang Lab&lt;/li&gt;
-&lt;li&gt;Contact information for 2-3 referees&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Please use the email subject line:&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;NTU AI-for-X Postdoctoral Fellowship - Your Name&lt;/code&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Recent Structural Insights into the Molecular Architecture of Synapses</title>
-      <link>https://chuchuwanglab.com/publication/recent-structural-insights-into-the-molecular-architecture-of-synapses/</link>
-      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://chuchuwanglab.com/publication/recent-structural-insights-into-the-molecular-architecture-of-synapses/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Opportunities in Wang Lab</title>
-      <link>https://chuchuwanglab.com/news/2023-11-23-recruitment/</link>
-      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://chuchuwanglab.com/news/2023-11-23-recruitment/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Job Opportunities in Wang Lab at Nanyang Technological University (NTU), Singapore&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Institution Overview&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Nanyang Technological University (NTU), Singapore, is a world-renowned research-intensive university, ranked &lt;strong&gt;15th globally in the 2025 QS World University Rankings&lt;/strong&gt;. NTU is recognized for its academic excellence, groundbreaking research, and global outlook. The university offers a vibrant, interdisciplinary research environment with state-of-the-art facilities and comprehensive support services.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;About the Lab&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Dr. &lt;strong&gt;Chuchu Wang&lt;/strong&gt; will join NTU’s &lt;strong&gt;Lee Kong Chian School of Medicine (LKCMedicine)&lt;/strong&gt; as an Assistant Professor in &lt;strong&gt;November 2025&lt;/strong&gt; and has been awarded the prestigious &lt;strong&gt;Nanyang Assistant Professorship (NAP)&lt;/strong&gt; grant. The lab will be well-funded and housed in a dynamic and collaborative research environment.&lt;/p&gt;
-&lt;p&gt;Dr. Wang received her Ph.D. in Cell Biology in 2019 under the supervision of Dr. Cong Liu at the Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences. From 2020 to 2025, she conducted postdoctoral research at Stanford University under the guidance of HHMI Investigator &lt;strong&gt;Prof. Axel Brunger&lt;/strong&gt;, focusing on structural and molecular neuroscience. Dr. Wang has published as first or co-first author in journals including &lt;em&gt;Nature&lt;/em&gt;, &lt;em&gt;Nature Aging&lt;/em&gt;, &lt;em&gt;Nature Cell Biology&lt;/em&gt;, &lt;em&gt;Nature Communications&lt;/em&gt;, &lt;em&gt;Nature Protocols&lt;/em&gt;, &lt;em&gt;National Science Review&lt;/em&gt;, &lt;em&gt;PNAS&lt;/em&gt;, &lt;em&gt;eLife&lt;/em&gt;, and &lt;em&gt;Bioinformatics&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Google Scholar&lt;/strong&gt;: &lt;a href=&#34;https://scholar.google.co.uk/citations?hl=en&amp;amp;user=1SQy-gQAAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://scholar.google.co.uk/citations?hl=en&amp;amp;user=1SQy-gQAAAAJ&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Research Focus&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Our interdisciplinary lab combines &lt;strong&gt;in situ structural biology (cryo-EM/ET, in-cell NMR)&lt;/strong&gt;, &lt;strong&gt;mass spectrometry-based lipidomics and proteomics&lt;/strong&gt;, &lt;strong&gt;cell biology&lt;/strong&gt;, &lt;strong&gt;bioinformatics&lt;/strong&gt;, and &lt;strong&gt;molecular biology&lt;/strong&gt; to investigate the physiological and pathological mechanisms of &lt;strong&gt;human aging and neurodegenerative diseases&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;The lab aims to integrate multi-omics, molecular structural analysis, and biochemical/cellular experiments to uncover &lt;strong&gt;lipid–protein interactions in age-related disorders&lt;/strong&gt;, with the ultimate goal of identifying early diagnostic markers and therapeutic strategies to promote healthy aging.&lt;/p&gt;
-&lt;p&gt;We welcome applicants from diverse backgrounds (e.g., neuroscience, biophysics, biochemistry, bioinformatics), who are passionate about impactful, translational research.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Collaborations&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Our lab maintains active collaborations with leading institutions in the &lt;strong&gt;US, Singapore, and China&lt;/strong&gt;, offering lab members the opportunity to engage with top-tier researchers globally.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;open-positions&#34;&gt;&lt;strong&gt;Open Positions&lt;/strong&gt;&lt;/h3&gt;
-&lt;h4 id=&#34;1-phd-students--undergraduate-researchers&#34;&gt;1. &lt;strong&gt;PhD Students &amp;amp; Undergraduate Researchers&lt;/strong&gt;&lt;/h4&gt;
-&lt;p&gt;We are recruiting &lt;strong&gt;PhD students for January 2026 intake&lt;/strong&gt; (application period: &lt;strong&gt;May 1 – June 30, 2025&lt;/strong&gt;). August intake applications open &lt;strong&gt;September 1 – December 31&lt;/strong&gt; annually.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Benefits:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Full scholarship and competitive monthly stipend&lt;/li&gt;
-&lt;li&gt;Support for international conference travel (funded by both the school and the lab)&lt;/li&gt;
-&lt;li&gt;Access to cutting-edge facilities and mentorship in a collaborative research environment&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Eligibility:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;English proficiency: TOEFL ≥ 100 or IELTS ≥ 6.5 (within 2 years); required unless graduated from English-medium institutions&lt;/li&gt;
-&lt;li&gt;GRE required for non-Singapore degree holders (V+Q ≥ 319; AW ≥ 3.5, within 5 years)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Application info:&lt;/strong&gt;
-&lt;a href=&#34;https://www.ntu.edu.sg/education/graduate-programme/lkcmedicine-phd-by-research-programme#admission&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NTU LKCMedicine PhD Admissions&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Outstanding undergraduates are also encouraged to join for research training and thesis projects.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h4 id=&#34;2-postdoctoral-research-fellow&#34;&gt;2. &lt;strong&gt;Postdoctoral Research Fellow&lt;/strong&gt;&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;Qualifications:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Ph.D. in biology, neuroscience, biophysics, structural biology, bioinformatics, or related fields&lt;/li&gt;
-&lt;li&gt;Experience in &lt;strong&gt;neurocell biology&lt;/strong&gt;, &lt;strong&gt;cryo-EM/NMR&lt;/strong&gt;, or &lt;strong&gt;omics data analysis&lt;/strong&gt; preferred&lt;/li&gt;
-&lt;li&gt;Proven ability to conduct independent research&lt;/li&gt;
-&lt;li&gt;Strong publication record (first-author papers or preprints)&lt;/li&gt;
-&lt;li&gt;Excellent communication and teamwork skills&lt;/li&gt;
-&lt;li&gt;Ability to mentor students and contribute to grant writing&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Compensation:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Competitive salary based on experience and NTU guidelines&lt;/li&gt;
-&lt;li&gt;Support for fellowship applications and career development&lt;/li&gt;
-&lt;li&gt;Funding for conferences and collaborative visits&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h4 id=&#34;3-research-assistant&#34;&gt;3. &lt;strong&gt;Research Assistant&lt;/strong&gt;&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;Qualifications:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Bachelor&amp;rsquo;s degree or above&lt;/li&gt;
-&lt;li&gt;Prior experience in protein purification, cell culture, or animal handling is a plus&lt;/li&gt;
-&lt;li&gt;Familiarity with EM/NMR data or omics analysis is desirable&lt;/li&gt;
-&lt;li&gt;Ability to work independently and collaboratively&lt;/li&gt;
-&lt;li&gt;Fluent in written and spoken English&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Compensation:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Salary will be competitive and commensurate with experience&lt;/li&gt;
-&lt;li&gt;Opportunities to co-author publications and attend international meetings&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h4 id=&#34;4-visiting-scholars--joint-phd-students&#34;&gt;4. &lt;strong&gt;Visiting Scholars &amp;amp; Joint PhD Students&lt;/strong&gt;&lt;/h4&gt;
-&lt;p&gt;We welcome visiting researchers and joint PhD students interested in collaborative or short-term research exchanges.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Application Instructions&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;To apply, please send the following documents in &lt;strong&gt;English&lt;/strong&gt; to &lt;strong&gt;&lt;a href=&#34;mailto:chuchu.wang@ntu.edu.sg&#34;&gt;chuchu.wang@ntu.edu.sg&lt;/a&gt;&lt;/strong&gt;:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Cover letter (briefly describing your past experience and research interests)&lt;/li&gt;
-&lt;li&gt;CV&lt;/li&gt;
-&lt;li&gt;Contact details of 2–3 referees&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Email subject format&lt;/strong&gt;:
-&lt;code&gt;[Application Position] - [Your Name]&lt;/code&gt;, e.g.,
-&lt;code&gt;Postdoc Application – David Liu&lt;/code&gt;,
-&lt;code&gt;PhD Application – Jeremy Lee&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Applicants will be contacted for interviews shortly after submission.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>N-acetylation of α-synuclein enhances synaptic vesicle clustering mediated by α-synuclein and lysophosphatidylcholine</title>
-      <link>https://chuchuwanglab.com/publication/n-acetylation-of-%CE%B1-synuclein-enhances-synaptic-vesicle-clustering-mediated-by-%CE%B1-synuclein-and-lysophosphatidylcholine/</link>
-      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://chuchuwanglab.com/publication/n-acetylation-of-%CE%B1-synuclein-enhances-synaptic-vesicle-clustering-mediated-by-%CE%B1-synuclein-and-lysophosphatidylcholine/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>In-Situ Structure and Topography of AMPA Receptor Scaffolding Complexes Visualized by CryoET</title>
-      <link>https://chuchuwanglab.com/publication/in-situ-structure-and-topography-of-ampa-receptor-scaffolding-complexes-visualized-by-cryoet/</link>
-      <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://chuchuwanglab.com/publication/in-situ-structure-and-topography-of-ampa-receptor-scaffolding-complexes-visualized-by-cryoet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nonlinear dynamics of multi-omics profiles during human aging</title>
-      <link>https://chuchuwanglab.com/publication/nonlinear-dynamics-of-multi-omics-profiles-during-human-aging/</link>
-      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://chuchuwanglab.com/publication/nonlinear-dynamics-of-multi-omics-profiles-during-human-aging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Observing isolated synaptic vesicle association and fusion ex vivo</title>
-      <link>https://chuchuwanglab.com/publication/observing-isolated-synaptic-vesicle-association-and-fusion-ex-vivo/</link>
-      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://chuchuwanglab.com/publication/observing-isolated-synaptic-vesicle-association-and-fusion-ex-vivo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>VAMP2 chaperones α-synuclein in synaptic vesicle co-condensates</title>
-      <link>https://chuchuwanglab.com/publication/vamp2-chaperones-%CE%B1-synuclein-in-synaptic-vesicle-co-condensates/</link>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://chuchuwanglab.com/publication/vamp2-chaperones-%CE%B1-synuclein-in-synaptic-vesicle-co-condensates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Paper accepted in Nature</title>
-      <link>https://chuchuwanglab.com/news/2024-6-5-nature/</link>
-      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://chuchuwanglab.com/news/2024-6-5-nature/</guid>
-      <description>&lt;p&gt;Our paper Structure and topography of the synaptic V-ATPase–synaptophysin complex has been accepted for publication in Cell Host &amp;amp; Microbe.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.nature.com/articles/s41586-024-07610-x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper Link&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;%22featured.jpg%22&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Structure and topography of the synaptic V-ATPase–synaptophysin complex</title>
-      <link>https://chuchuwanglab.com/publication/structure-and-topography-of-the-synaptic-v-atpasesynaptophysin-complex/</link>
-      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://chuchuwanglab.com/publication/structure-and-topography-of-the-synaptic-v-atpasesynaptophysin-complex/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lysophosphatidylcholine binds α-synuclein and prevents its pathological aggregation</title>
-      <link>https://chuchuwanglab.com/publication/lysophosphatidylcholine-binds-%CE%B1-synuclein-and-prevents-its-pathological-aggregation/</link>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://chuchuwanglab.com/publication/lysophosphatidylcholine-binds-%CE%B1-synuclein-and-prevents-its-pathological-aggregation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Beyond the MUN domain Munc13 controls priming and depriming of synaptic vesicles</title>
-      <link>https://chuchuwanglab.com/publication/beyond-the-mun-domain-munc13-controls-priming-and-depriming-of-synaptic-vesicles/</link>
-      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://chuchuwanglab.com/publication/beyond-the-mun-domain-munc13-controls-priming-and-depriming-of-synaptic-vesicles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A new method for isolation and purification of fusion-competent inhibitory synaptic vesicles</title>
-      <link>https://chuchuwanglab.com/publication/a-new-method-for-isolation-and-purification-of-fusion-competent-inhibitory-synaptic-vesicles/</link>
-      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://chuchuwanglab.com/publication/a-new-method-for-isolation-and-purification-of-fusion-competent-inhibitory-synaptic-vesicles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-omics microsampling for the profiling of lifestyle-associated changes in health</title>
-      <link>https://chuchuwanglab.com/publication/multi-omics-microsampling-for-the-profiling-of-lifestyle-associated-changes-in-health/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://chuchuwanglab.com/publication/multi-omics-microsampling-for-the-profiling-of-lifestyle-associated-changes-in-health/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>🔬 Research</title>
-      <link>https://chuchuwanglab.com/research/</link>
-      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://chuchuwanglab.com/research/</guid>
-      <description>&lt;p&gt;Our overarching research interests are bioinformatics algorithms development for multi-omics and wearable data, and their application to precision medicine and biological questions.&lt;/p&gt;
-&lt;h1 id=&#34;-method-development-for-multi-omics-and-wearable-data&#34;&gt;💻 Method Development For Multi-Omics and Wearable Data&lt;/h1&gt;
-&lt;h2 id=&#34;-mass-spectrometry-data&#34;&gt;🧬 Mass Spectrometry Data&lt;/h2&gt;
-&lt;p&gt;Mass spectrometry (MS) is an analytical technique used to measure the mass-to-charge ratio (m/z) of ions. It is a powerful tool for identifying the chemical structure of molecules in biological samples, including small molecules (metabolomics), proteins (proteomics), peptides (proteomics), and other biomolecules (lipidomics). We are working on the bioinformatics method and algorithm development (Deep Learning and Maching Learning) for Mass Spectrometry data processing and analysis, including whhole workflow of MS data, and metabolic network analysis. We are also working on the integration of MS data with other omics data, such as transcriptomics, proteomics and microbiome data (see below for more).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /research/tidymass_hu8e0ee36e6082fa90f613ca1e27c82609_267302_61a913da140bcdd85b5f22489ca194c8.webp 400w,
-               /research/tidymass_hu8e0ee36e6082fa90f613ca1e27c82609_267302_d5e5a309786755657596f0e0b76a97c5.webp 760w,
-               /research/tidymass_hu8e0ee36e6082fa90f613ca1e27c82609_267302_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://chuchuwanglab.com/research/tidymass_hu8e0ee36e6082fa90f613ca1e27c82609_267302_61a913da140bcdd85b5f22489ca194c8.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;305&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;h2 id=&#34;-microbiome-data&#34;&gt;🦠 Microbiome Data&lt;/h2&gt;
-&lt;p&gt;Research is defined as the creation of new knowledge and/or the use of existing knowledge in a new and creative way so as to generate new concepts, methodologies and understandings. This could include synthesis and analysis of previous research to the extent that it leads to new and creative outcomes.&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /research/microbiome_hu5c66fdf1a9d9c8bd9d9c57995ac5d1e9_375650_df3ca90c9853a8ca59616ddaf5dc54a7.webp 400w,
-               /research/microbiome_hu5c66fdf1a9d9c8bd9d9c57995ac5d1e9_375650_a49debf4539c5c1330970ee3c5b90879.webp 760w,
-               /research/microbiome_hu5c66fdf1a9d9c8bd9d9c57995ac5d1e9_375650_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://chuchuwanglab.com/research/microbiome_hu5c66fdf1a9d9c8bd9d9c57995ac5d1e9_375650_df3ca90c9853a8ca59616ddaf5dc54a7.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;380&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;h2 id=&#34;-wearable-data&#34;&gt;⌚ Wearable Data&lt;/h2&gt;
-&lt;p&gt;Research is defined as the creation of new knowledge and/or the use of existing knowledge in a new and creative way so as to generate new concepts, methodologies and understandings. This could include synthesis and analysis of previous research to the extent that it leads to new and creative outcomes.&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /research/wearable_hu469f4e61ddd77a939173bdd29fbadf73_1423236_b98e30db0f216582c51b33b93f6de5ed.webp 400w,
-               /research/wearable_hu469f4e61ddd77a939173bdd29fbadf73_1423236_2aec29619929add138ec9913c745cfef.webp 760w,
-               /research/wearable_hu469f4e61ddd77a939173bdd29fbadf73_1423236_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://chuchuwanglab.com/research/wearable_hu469f4e61ddd77a939173bdd29fbadf73_1423236_b98e30db0f216582c51b33b93f6de5ed.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;509&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;hr&gt;
-&lt;h1 id=&#34;multi-omics-and-wearable-data-integration&#34;&gt;Multi-Omics and Wearable Data Integration&lt;/h1&gt;
-&lt;h2 id=&#34;precisione-medicine-and-biological-questions&#34;&gt;Precisione Medicine and Biological Questions&lt;/h2&gt;
-&lt;h2 id=&#34;-aging&#34;&gt;🧑 Aging&lt;/h2&gt;
-&lt;p&gt;Research is defined as the creation of new knowledge and/or the use of existing knowledge in a new and creative way so as to generate new concepts, methodologies and understandings. This could include synthesis and analysis of previous research to the extent that it leads to new and creative outcomes.&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /research/aging_hufb011f6191f69f7272c34644b78a3084_255788_acebf8fbe89a320cec3f55d2819a8f45.webp 400w,
-               /research/aging_hufb011f6191f69f7272c34644b78a3084_255788_7c5c22e35172e9f1ed10650234777564.webp 760w,
-               /research/aging_hufb011f6191f69f7272c34644b78a3084_255788_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://chuchuwanglab.com/research/aging_hufb011f6191f69f7272c34644b78a3084_255788_acebf8fbe89a320cec3f55d2819a8f45.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;480&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;h2 id=&#34;-pregnancy&#34;&gt;🤰 Pregnancy&lt;/h2&gt;
-&lt;p&gt;Research is defined as the creation of new knowledge and/or the use of existing knowledge in a new and creative way so as to generate new concepts, methodologies and understandings. This could include synthesis and analysis of previous research to the extent that it leads to new and creative outcomes.&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /research/pregnancy_hu147228133437fd25987ff12bd176783c_150086_87d9139bbd3b6e63a44c28afd0f938fe.webp 400w,
-               /research/pregnancy_hu147228133437fd25987ff12bd176783c_150086_20a41ca3142b0052323b7f519686d691.webp 760w,
-               /research/pregnancy_hu147228133437fd25987ff12bd176783c_150086_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://chuchuwanglab.com/research/pregnancy_hu147228133437fd25987ff12bd176783c_150086_87d9139bbd3b6e63a44c28afd0f938fe.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;507&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;h2 id=&#34;personal-health-monitoring-and-disease-early-diagnosis&#34;&gt;Personal Health Monitoring and Disease Early Diagnosis&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Neutral lysophosphatidylcholine mediates α-synuclein-induced synaptic vesicle clustering</title>
-      <link>https://chuchuwanglab.com/publication/neutral-lysophosphatidylcholine-mediates-%CE%B1-synuclein-induced-synaptic-vesicle-clustering/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://chuchuwanglab.com/publication/neutral-lysophosphatidylcholine-mediates-%CE%B1-synuclein-induced-synaptic-vesicle-clustering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Structure-based design of a SARS-CoV-2 Omicron-specific inhibitor</title>
-      <link>https://chuchuwanglab.com/publication/structure-based-design-of-a-sars-cov-2-omicron-specific-inhibitor/</link>
-      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://chuchuwanglab.com/publication/structure-based-design-of-a-sars-cov-2-omicron-specific-inhibitor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>massDatabase utilities for the operation of the public compound and pathway database</title>
-      <link>https://chuchuwanglab.com/publication/massdatabase-utilities-for-the-operation-of-the-public-compound-and-pathway-database/</link>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://chuchuwanglab.com/publication/massdatabase-utilities-for-the-operation-of-the-public-compound-and-pathway-database/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nanomolar inhibition of SARS-CoV-2 infection by an unmodified peptide targeting the prehairpin intermediate of the spike protein</title>
-      <link>https://chuchuwanglab.com/publication/nanomolar-inhibition-of-sars-cov-2-infection-by-an-unmodified-peptide-targeting-the-prehairpin-intermediate-of-the-spike-protein/</link>
-      <pubDate>Mon, 19 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://chuchuwanglab.com/publication/nanomolar-inhibition-of-sars-cov-2-infection-by-an-unmodified-peptide-targeting-the-prehairpin-intermediate-of-the-spike-protein/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep learning-based pseudo-mass spectrometry imaging analysis for precision medicine</title>
-      <link>https://chuchuwanglab.com/publication/deep-learning-based-pseudo-mass-spectrometry-imaging-analysis-for-precision-medicine/</link>
-      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://chuchuwanglab.com/publication/deep-learning-based-pseudo-mass-spectrometry-imaging-analysis-for-precision-medicine/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TidyMass an object-oriented reproducible analysis framework for LC–MS data</title>
-      <link>https://chuchuwanglab.com/publication/tidymass-an-object-oriented-reproducible-analysis-framework-for-lcms-data/</link>
-      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://chuchuwanglab.com/publication/tidymass-an-object-oriented-reproducible-analysis-framework-for-lcms-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Structural conservation among variants of the SARS-CoV-2 spike postfusion bundle</title>
-      <link>https://chuchuwanglab.com/publication/structural-conservation-among-variants-of-the-sars-cov-2-spike-postfusion-bundle/</link>
-      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://chuchuwanglab.com/publication/structural-conservation-among-variants-of-the-sars-cov-2-spike-postfusion-bundle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mechanistic basis for receptor-mediated pathological α-synuclein fibril cell-to-cell transmission in Parkinson&#39;s disease</title>
-      <link>https://chuchuwanglab.com/publication/mechanistic-basis-for-receptor-mediated-pathological-%CE%B1-synuclein-fibril-cell-to-cell-transmission-in-parkinsons-disease/</link>
-      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://chuchuwanglab.com/publication/mechanistic-basis-for-receptor-mediated-pathological-%CE%B1-synuclein-fibril-cell-to-cell-transmission-in-parkinsons-disease/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nicotinamide mononucleotide adenylyltransferase uses its NAD&#43; substrate-binding site to chaperone phosphorylated Tau</title>
-      <link>https://chuchuwanglab.com/publication/nicotinamide-mononucleotide-adenylyltransferase-uses-its-nad&#43;-substrate-binding-site-to-chaperone-phosphorylated-tau/</link>
-      <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://chuchuwanglab.com/publication/nicotinamide-mononucleotide-adenylyltransferase-uses-its-nad&#43;-substrate-binding-site-to-chaperone-phosphorylated-tau/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Different regions of synaptic vesicle membrane regulate VAMP2 conformation for the SNARE assembly</title>
-      <link>https://chuchuwanglab.com/publication/different-regions-of-synaptic-vesicle-membrane-regulate-vamp2-conformation-for-the-snare-assembly/</link>
-      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://chuchuwanglab.com/publication/different-regions-of-synaptic-vesicle-membrane-regulate-vamp2-conformation-for-the-snare-assembly/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hsp27 chaperones FUS phase separation under the modulation of stress-induced phosphorylation</title>
-      <link>https://chuchuwanglab.com/publication/hsp27-chaperones-fus-phase-separation-under-the-modulation-of-stress-induced-phosphorylation/</link>
-      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://chuchuwanglab.com/publication/hsp27-chaperones-fus-phase-separation-under-the-modulation-of-stress-induced-phosphorylation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Structure-Based Peptide Inhibitor Design of Amyloid-β Aggregation</title>
-      <link>https://chuchuwanglab.com/publication/structure-based-peptide-inhibitor-design-of-amyloid-%CE%B2-aggregation/</link>
-      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://chuchuwanglab.com/publication/structure-based-peptide-inhibitor-design-of-amyloid-%CE%B2-aggregation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>In-Cell NMR Study of Tau and MARK2 Phosphorylated Tau</title>
-      <link>https://chuchuwanglab.com/publication/in-cell-nmr-study-of-tau-and-mark2-phosphorylated-tau/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://chuchuwanglab.com/publication/in-cell-nmr-study-of-tau-and-mark2-phosphorylated-tau/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mechanistic insights into the switch of αB-crystallin chaperone activity and self-multimerization</title>
-      <link>https://chuchuwanglab.com/publication/mechanistic-insights-into-the-switch-of-%CE%B1b-crystallin-chaperone-activity-and-self-multimerization/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://chuchuwanglab.com/publication/mechanistic-insights-into-the-switch-of-%CE%B1b-crystallin-chaperone-activity-and-self-multimerization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Versatile Structures of α-Synuclein</title>
-      <link>https://chuchuwanglab.com/publication/versatile-structures-of-%CE%B1-synuclein/</link>
-      <pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://chuchuwanglab.com/publication/versatile-structures-of-%CE%B1-synuclein/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Photoluminescence Properties of La1/3NbO3: Sm3&#43; Coupled with Sr2&#43;, Ba2&#43; and Bi3&#43; Under Near-UV Excitation</title>
-      <link>https://chuchuwanglab.com/publication/photoluminescence-properties-of-la1-3nbo3-sm3&#43;-coupled-with-sr2&#43;-ba2&#43;-and-bi3&#43;-under-near-uv-excitation/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://chuchuwanglab.com/publication/photoluminescence-properties-of-la1-3nbo3-sm3&#43;-coupled-with-sr2&#43;-ba2&#43;-and-bi3&#43;-under-near-uv-excitation/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Chuchu WANG | Wang Lab</title><link>https://chuchuwanglab.com/author/chuchu-wang/</link><atom:link href="https://chuchuwanglab.com/author/chuchu-wang/index.xml" rel="self" type="application/rss+xml"/><description>Chuchu WANG</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://chuchuwanglab.com/author/chuchu-wang/avatar_hue640d778efbf4eb7ed5302bb13d9d356_4842034_270x270_fill_lanczos_center_3.png</url><title>Chuchu WANG</title><link>https://chuchuwanglab.com/author/chuchu-wang/</link></image><item><title>NTU AI-for-X Postdoctoral Fellowship Opportunity in Wang Lab</title><link>https://chuchuwanglab.com/news/2026-09-08-ntu-ai-for-x-postdoctoral-fellowship/</link><pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate><guid>https://chuchuwanglab.com/news/2026-09-08-ntu-ai-for-x-postdoctoral-fellowship/</guid><description>&lt;p>We are looking for early-career researchers interested in applying for the &lt;a href="https://www.ntu.edu.sg/research/research-careers/ntu-ai-for-x-postdoctoral-fellowship" target="_blank" rel="noopener">NTU AI-for-X Postdoctoral Fellowship&lt;/a> to develop AI-driven methods for cryo-EM/ET, automated data analysis, and the structural study of native neuronal systems.&lt;/p>
+&lt;p>The Wang Lab at Nanyang Technological University (NTU), Singapore welcomes outstanding postdoctoral fellowship candidates who are excited to work at the interface of &lt;strong>artificial intelligence, structural biology, neuroscience, and neurodegeneration research&lt;/strong>.&lt;/p>
+&lt;h3 id="fellowship">Fellowship&lt;/h3>
+&lt;p>The NTU AI-for-X Postdoctoral Fellowship supports promising early-career researchers who aim to develop AI methods for challenging scientific problems. The 2026 application deadline is &lt;strong>30 October 2026, 23:59 Singapore time&lt;/strong>. Applicants should review the official fellowship requirements and application timeline on the &lt;a href="https://www.ntu.edu.sg/research/research-careers/ntu-ai-for-x-postdoctoral-fellowship" target="_blank" rel="noopener">NTU AI-for-X Postdoctoral Fellowship page&lt;/a>.&lt;/p>
+&lt;h3 id="research-direction">Research Direction&lt;/h3>
+&lt;p>The fellow will work with Dr. Chuchu Wang to develop and apply AI-driven approaches for:&lt;/p>
+&lt;ul>
+&lt;li>Automated analysis of cryo-electron tomography and cryo-electron microscopy data&lt;/li>
+&lt;li>Structural studies of native neuronal and synaptic systems&lt;/li>
+&lt;li>In situ analysis of protein-lipid interactions in aging and neurodegenerative disease&lt;/li>
+&lt;li>Data integration across cryo-EM/ET, cell biology, and mass spectrometry-based multi-omics&lt;/li>
+&lt;li>Cryo-FIB milling workflows using Aqilos for native cellular sample preparation&lt;/li>
+&lt;/ul>
+&lt;h3 id="candidate-profile">Candidate Profile&lt;/h3>
+&lt;p>We welcome applicants with a PhD in a STEM discipline, especially those with experience or strong interest in one or more of the following areas:&lt;/p>
+&lt;ul>
+&lt;li>Artificial intelligence, machine learning, computer vision, or image analysis&lt;/li>
+&lt;li>Cryo-EM, cryo-ET, structural biology, biophysics, or cell biology&lt;/li>
+&lt;li>Neuroscience, neurodegeneration, membrane biology, or synaptic biology&lt;/li>
+&lt;li>Scientific programming and reproducible computational workflows&lt;/li>
+&lt;/ul>
+&lt;p>Candidates should be motivated to build independent research directions, work collaboratively across disciplines, and contribute to a supportive lab environment.&lt;/p>
+&lt;h3 id="how-to-apply">How to Apply&lt;/h3>
+&lt;p>Interested candidates are encouraged to contact Dr. Chuchu Wang before submitting the official fellowship application. Please send the following materials to &lt;strong>&lt;a href="mailto:chuchu.wang@ntu.edu.sg">chuchu.wang@ntu.edu.sg&lt;/a>&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>CV&lt;/li>
+&lt;li>A brief description of your research interests and fit with the Wang Lab&lt;/li>
+&lt;li>Contact information for 2-3 referees&lt;/li>
+&lt;/ul>
+&lt;p>Please use the email subject line:&lt;/p>
+&lt;p>&lt;code>NTU AI-for-X Postdoctoral Fellowship - Your Name&lt;/code>&lt;/p></description></item><item><title>Recent Structural Insights into the Molecular Architecture of Synapses</title><link>https://chuchuwanglab.com/publication/recent-structural-insights-into-the-molecular-architecture-of-synapses/</link><pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate><guid>https://chuchuwanglab.com/publication/recent-structural-insights-into-the-molecular-architecture-of-synapses/</guid><description/></item><item><title>Opportunities in Wang Lab</title><link>https://chuchuwanglab.com/news/2023-11-23-recruitment/</link><pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate><guid>https://chuchuwanglab.com/news/2023-11-23-recruitment/</guid><description>&lt;p>&lt;strong>Job Opportunities in Wang Lab at Nanyang Technological University (NTU), Singapore&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Institution Overview&lt;/strong>&lt;/p>
+&lt;p>Nanyang Technological University (NTU), Singapore, is a world-renowned research-intensive university, ranked &lt;strong>15th globally in the 2025 QS World University Rankings&lt;/strong>. NTU is recognized for its academic excellence, groundbreaking research, and global outlook. The university offers a vibrant, interdisciplinary research environment with state-of-the-art facilities and comprehensive support services.&lt;/p>
+&lt;p>&lt;strong>About the Lab&lt;/strong>&lt;/p>
+&lt;p>Dr. &lt;strong>Chuchu Wang&lt;/strong> will join NTU’s &lt;strong>Lee Kong Chian School of Medicine (LKCMedicine)&lt;/strong> as an Assistant Professor in &lt;strong>November 2025&lt;/strong> and has been awarded the prestigious &lt;strong>Nanyang Assistant Professorship (NAP)&lt;/strong> grant. The lab will be well-funded and housed in a dynamic and collaborative research environment.&lt;/p>
+&lt;p>Dr. Wang received her Ph.D. in Cell Biology in 2019 under the supervision of Dr. Cong Liu at the Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences. From 2020 to 2025, she conducted postdoctoral research at Stanford University under the guidance of HHMI Investigator &lt;strong>Prof. Axel Brunger&lt;/strong>, focusing on structural and molecular neuroscience. Dr. Wang has published as first or co-first author in journals including &lt;em>Nature&lt;/em>, &lt;em>Nature Aging&lt;/em>, &lt;em>Nature Cell Biology&lt;/em>, &lt;em>Nature Communications&lt;/em>, &lt;em>Nature Protocols&lt;/em>, &lt;em>National Science Review&lt;/em>, &lt;em>PNAS&lt;/em>, &lt;em>eLife&lt;/em>, and &lt;em>Bioinformatics&lt;/em>.&lt;/p>
+&lt;p>&lt;strong>Google Scholar&lt;/strong>: &lt;a href="https://scholar.google.co.uk/citations?hl=en&amp;amp;user=1SQy-gQAAAAJ" target="_blank" rel="noopener">https://scholar.google.co.uk/citations?hl=en&amp;amp;user=1SQy-gQAAAAJ&lt;/a>&lt;/p>
+&lt;p>&lt;strong>Research Focus&lt;/strong>&lt;/p>
+&lt;p>Our interdisciplinary lab combines &lt;strong>in situ structural biology (cryo-EM/ET, in-cell NMR)&lt;/strong>, &lt;strong>mass spectrometry-based lipidomics and proteomics&lt;/strong>, &lt;strong>cell biology&lt;/strong>, &lt;strong>bioinformatics&lt;/strong>, and &lt;strong>molecular biology&lt;/strong> to investigate the physiological and pathological mechanisms of &lt;strong>human aging and neurodegenerative diseases&lt;/strong>.&lt;/p>
+&lt;p>The lab aims to integrate multi-omics, molecular structural analysis, and biochemical/cellular experiments to uncover &lt;strong>lipid–protein interactions in age-related disorders&lt;/strong>, with the ultimate goal of identifying early diagnostic markers and therapeutic strategies to promote healthy aging.&lt;/p>
+&lt;p>We welcome applicants from diverse backgrounds (e.g., neuroscience, biophysics, biochemistry, bioinformatics), who are passionate about impactful, translational research.&lt;/p>
+&lt;p>&lt;strong>Collaborations&lt;/strong>&lt;/p>
+&lt;p>Our lab maintains active collaborations with leading institutions in the &lt;strong>US, Singapore, and China&lt;/strong>, offering lab members the opportunity to engage with top-tier researchers globally.&lt;/p>
+&lt;hr>
+&lt;h3 id="open-positions">&lt;strong>Open Positions&lt;/strong>&lt;/h3>
+&lt;h4 id="1-phd-students--undergraduate-researchers">1. &lt;strong>PhD Students &amp;amp; Undergraduate Researchers&lt;/strong>&lt;/h4>
+&lt;p>We are recruiting &lt;strong>PhD students for January 2026 intake&lt;/strong> (application period: &lt;strong>May 1 – June 30, 2025&lt;/strong>). August intake applications open &lt;strong>September 1 – December 31&lt;/strong> annually.&lt;/p>
+&lt;p>&lt;strong>Benefits:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Full scholarship and competitive monthly stipend&lt;/li>
+&lt;li>Support for international conference travel (funded by both the school and the lab)&lt;/li>
+&lt;li>Access to cutting-edge facilities and mentorship in a collaborative research environment&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Eligibility:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>English proficiency: TOEFL ≥ 100 or IELTS ≥ 6.5 (within 2 years); required unless graduated from English-medium institutions&lt;/li>
+&lt;li>GRE required for non-Singapore degree holders (V+Q ≥ 319; AW ≥ 3.5, within 5 years)&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Application info:&lt;/strong>
+&lt;a href="https://www.ntu.edu.sg/education/graduate-programme/lkcmedicine-phd-by-research-programme#admission" target="_blank" rel="noopener">NTU LKCMedicine PhD Admissions&lt;/a>&lt;/p>
+&lt;p>Outstanding undergraduates are also encouraged to join for research training and thesis projects.&lt;/p>
+&lt;hr>
+&lt;h4 id="2-postdoctoral-research-fellow">2. &lt;strong>Postdoctoral Research Fellow&lt;/strong>&lt;/h4>
+&lt;p>&lt;strong>Qualifications:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Ph.D. in biology, neuroscience, biophysics, structural biology, bioinformatics, or related fields&lt;/li>
+&lt;li>Experience in &lt;strong>neurocell biology&lt;/strong>, &lt;strong>cryo-EM/NMR&lt;/strong>, or &lt;strong>omics data analysis&lt;/strong> preferred&lt;/li>
+&lt;li>Proven ability to conduct independent research&lt;/li>
+&lt;li>Strong publication record (first-author papers or preprints)&lt;/li>
+&lt;li>Excellent communication and teamwork skills&lt;/li>
+&lt;li>Ability to mentor students and contribute to grant writing&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Compensation:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Competitive salary based on experience and NTU guidelines&lt;/li>
+&lt;li>Support for fellowship applications and career development&lt;/li>
+&lt;li>Funding for conferences and collaborative visits&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h4 id="3-research-assistant">3. &lt;strong>Research Assistant&lt;/strong>&lt;/h4>
+&lt;p>&lt;strong>Qualifications:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Bachelor&amp;rsquo;s degree or above&lt;/li>
+&lt;li>Prior experience in protein purification, cell culture, or animal handling is a plus&lt;/li>
+&lt;li>Familiarity with EM/NMR data or omics analysis is desirable&lt;/li>
+&lt;li>Ability to work independently and collaboratively&lt;/li>
+&lt;li>Fluent in written and spoken English&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Compensation:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Salary will be competitive and commensurate with experience&lt;/li>
+&lt;li>Opportunities to co-author publications and attend international meetings&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h4 id="4-visiting-scholars--joint-phd-students">4. &lt;strong>Visiting Scholars &amp;amp; Joint PhD Students&lt;/strong>&lt;/h4>
+&lt;p>We welcome visiting researchers and joint PhD students interested in collaborative or short-term research exchanges.&lt;/p>
+&lt;hr>
+&lt;p>&lt;strong>Application Instructions&lt;/strong>&lt;/p>
+&lt;p>To apply, please send the following documents in &lt;strong>English&lt;/strong> to &lt;strong>&lt;a href="mailto:chuchu.wang@ntu.edu.sg">chuchu.wang@ntu.edu.sg&lt;/a>&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>Cover letter (briefly describing your past experience and research interests)&lt;/li>
+&lt;li>CV&lt;/li>
+&lt;li>Contact details of 2–3 referees&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Email subject format&lt;/strong>:
+&lt;code>[Application Position] - [Your Name]&lt;/code>, e.g.,
+&lt;code>Postdoc Application – David Liu&lt;/code>,
+&lt;code>PhD Application – Jeremy Lee&lt;/code>&lt;/p>
+&lt;p>Applicants will be contacted for interviews shortly after submission.&lt;/p></description></item><item><title>N-acetylation of α-synuclein enhances synaptic vesicle clustering mediated by α-synuclein and lysophosphatidylcholine</title><link>https://chuchuwanglab.com/publication/n-acetylation-of-%CE%B1-synuclein-enhances-synaptic-vesicle-clustering-mediated-by-%CE%B1-synuclein-and-lysophosphatidylcholine/</link><pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate><guid>https://chuchuwanglab.com/publication/n-acetylation-of-%CE%B1-synuclein-enhances-synaptic-vesicle-clustering-mediated-by-%CE%B1-synuclein-and-lysophosphatidylcholine/</guid><description/></item><item><title>In-Situ Structure and Topography of AMPA Receptor Scaffolding Complexes Visualized by CryoET</title><link>https://chuchuwanglab.com/publication/in-situ-structure-and-topography-of-ampa-receptor-scaffolding-complexes-visualized-by-cryoet/</link><pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate><guid>https://chuchuwanglab.com/publication/in-situ-structure-and-topography-of-ampa-receptor-scaffolding-complexes-visualized-by-cryoet/</guid><description/></item><item><title>Nonlinear dynamics of multi-omics profiles during human aging</title><link>https://chuchuwanglab.com/publication/nonlinear-dynamics-of-multi-omics-profiles-during-human-aging/</link><pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate><guid>https://chuchuwanglab.com/publication/nonlinear-dynamics-of-multi-omics-profiles-during-human-aging/</guid><description/></item><item><title>Observing isolated synaptic vesicle association and fusion ex vivo</title><link>https://chuchuwanglab.com/publication/observing-isolated-synaptic-vesicle-association-and-fusion-ex-vivo/</link><pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate><guid>https://chuchuwanglab.com/publication/observing-isolated-synaptic-vesicle-association-and-fusion-ex-vivo/</guid><description/></item><item><title>VAMP2 chaperones α-synuclein in synaptic vesicle co-condensates</title><link>https://chuchuwanglab.com/publication/vamp2-chaperones-%CE%B1-synuclein-in-synaptic-vesicle-co-condensates/</link><pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate><guid>https://chuchuwanglab.com/publication/vamp2-chaperones-%CE%B1-synuclein-in-synaptic-vesicle-co-condensates/</guid><description/></item><item><title>Paper accepted in Nature</title><link>https://chuchuwanglab.com/news/2024-6-5-nature/</link><pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate><guid>https://chuchuwanglab.com/news/2024-6-5-nature/</guid><description>&lt;p>Our paper Structure and topography of the synaptic V-ATPase–synaptophysin complex has been accepted for publication in Cell Host &amp;amp; Microbe.&lt;/p>
+&lt;p>&lt;a href="https://www.nature.com/articles/s41586-024-07610-x" target="_blank" rel="noopener">Paper Link&lt;/a>&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%22featured.jpg%22" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Structure and topography of the synaptic V-ATPase–synaptophysin complex</title><link>https://chuchuwanglab.com/publication/structure-and-topography-of-the-synaptic-v-atpasesynaptophysin-complex/</link><pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate><guid>https://chuchuwanglab.com/publication/structure-and-topography-of-the-synaptic-v-atpasesynaptophysin-complex/</guid><description/></item><item><title>Lysophosphatidylcholine binds α-synuclein and prevents its pathological aggregation</title><link>https://chuchuwanglab.com/publication/lysophosphatidylcholine-binds-%CE%B1-synuclein-and-prevents-its-pathological-aggregation/</link><pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate><guid>https://chuchuwanglab.com/publication/lysophosphatidylcholine-binds-%CE%B1-synuclein-and-prevents-its-pathological-aggregation/</guid><description/></item><item><title>Beyond the MUN domain Munc13 controls priming and depriming of synaptic vesicles</title><link>https://chuchuwanglab.com/publication/beyond-the-mun-domain-munc13-controls-priming-and-depriming-of-synaptic-vesicles/</link><pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate><guid>https://chuchuwanglab.com/publication/beyond-the-mun-domain-munc13-controls-priming-and-depriming-of-synaptic-vesicles/</guid><description/></item><item><title>A new method for isolation and purification of fusion-competent inhibitory synaptic vesicles</title><link>https://chuchuwanglab.com/publication/a-new-method-for-isolation-and-purification-of-fusion-competent-inhibitory-synaptic-vesicles/</link><pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate><guid>https://chuchuwanglab.com/publication/a-new-method-for-isolation-and-purification-of-fusion-competent-inhibitory-synaptic-vesicles/</guid><description/></item><item><title>Multi-omics microsampling for the profiling of lifestyle-associated changes in health</title><link>https://chuchuwanglab.com/publication/multi-omics-microsampling-for-the-profiling-of-lifestyle-associated-changes-in-health/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://chuchuwanglab.com/publication/multi-omics-microsampling-for-the-profiling-of-lifestyle-associated-changes-in-health/</guid><description/></item><item><title>🔬 Research</title><link>https://chuchuwanglab.com/research/</link><pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate><guid>https://chuchuwanglab.com/research/</guid><description>&lt;p>Our overarching research interests are bioinformatics algorithms development for multi-omics and wearable data, and their application to precision medicine and biological questions.&lt;/p>
+&lt;h1 id="-method-development-for-multi-omics-and-wearable-data">💻 Method Development For Multi-Omics and Wearable Data&lt;/h1>
+&lt;h2 id="-mass-spectrometry-data">🧬 Mass Spectrometry Data&lt;/h2>
+&lt;p>Mass spectrometry (MS) is an analytical technique used to measure the mass-to-charge ratio (m/z) of ions. It is a powerful tool for identifying the chemical structure of molecules in biological samples, including small molecules (metabolomics), proteins (proteomics), peptides (proteomics), and other biomolecules (lipidomics). We are working on the bioinformatics method and algorithm development (Deep Learning and Maching Learning) for Mass Spectrometry data processing and analysis, including whhole workflow of MS data, and metabolic network analysis. We are also working on the integration of MS data with other omics data, such as transcriptomics, proteomics and microbiome data (see below for more).&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/research/tidymass_hu8e0ee36e6082fa90f613ca1e27c82609_267302_61a913da140bcdd85b5f22489ca194c8.webp 400w,
+/research/tidymass_hu8e0ee36e6082fa90f613ca1e27c82609_267302_d5e5a309786755657596f0e0b76a97c5.webp 760w,
+/research/tidymass_hu8e0ee36e6082fa90f613ca1e27c82609_267302_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://chuchuwanglab.com/research/tidymass_hu8e0ee36e6082fa90f613ca1e27c82609_267302_61a913da140bcdd85b5f22489ca194c8.webp"
+width="760"
+height="305"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;h2 id="-microbiome-data">🦠 Microbiome Data&lt;/h2>
+&lt;p>Research is defined as the creation of new knowledge and/or the use of existing knowledge in a new and creative way so as to generate new concepts, methodologies and understandings. This could include synthesis and analysis of previous research to the extent that it leads to new and creative outcomes.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/research/microbiome_hu5c66fdf1a9d9c8bd9d9c57995ac5d1e9_375650_df3ca90c9853a8ca59616ddaf5dc54a7.webp 400w,
+/research/microbiome_hu5c66fdf1a9d9c8bd9d9c57995ac5d1e9_375650_a49debf4539c5c1330970ee3c5b90879.webp 760w,
+/research/microbiome_hu5c66fdf1a9d9c8bd9d9c57995ac5d1e9_375650_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://chuchuwanglab.com/research/microbiome_hu5c66fdf1a9d9c8bd9d9c57995ac5d1e9_375650_df3ca90c9853a8ca59616ddaf5dc54a7.webp"
+width="760"
+height="380"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;h2 id="-wearable-data">⌚ Wearable Data&lt;/h2>
+&lt;p>Research is defined as the creation of new knowledge and/or the use of existing knowledge in a new and creative way so as to generate new concepts, methodologies and understandings. This could include synthesis and analysis of previous research to the extent that it leads to new and creative outcomes.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/research/wearable_hu469f4e61ddd77a939173bdd29fbadf73_1423236_b98e30db0f216582c51b33b93f6de5ed.webp 400w,
+/research/wearable_hu469f4e61ddd77a939173bdd29fbadf73_1423236_2aec29619929add138ec9913c745cfef.webp 760w,
+/research/wearable_hu469f4e61ddd77a939173bdd29fbadf73_1423236_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://chuchuwanglab.com/research/wearable_hu469f4e61ddd77a939173bdd29fbadf73_1423236_b98e30db0f216582c51b33b93f6de5ed.webp"
+width="760"
+height="509"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;hr>
+&lt;h1 id="multi-omics-and-wearable-data-integration">Multi-Omics and Wearable Data Integration&lt;/h1>
+&lt;h2 id="precisione-medicine-and-biological-questions">Precisione Medicine and Biological Questions&lt;/h2>
+&lt;h2 id="-aging">🧑 Aging&lt;/h2>
+&lt;p>Research is defined as the creation of new knowledge and/or the use of existing knowledge in a new and creative way so as to generate new concepts, methodologies and understandings. This could include synthesis and analysis of previous research to the extent that it leads to new and creative outcomes.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/research/aging_hufb011f6191f69f7272c34644b78a3084_255788_acebf8fbe89a320cec3f55d2819a8f45.webp 400w,
+/research/aging_hufb011f6191f69f7272c34644b78a3084_255788_7c5c22e35172e9f1ed10650234777564.webp 760w,
+/research/aging_hufb011f6191f69f7272c34644b78a3084_255788_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://chuchuwanglab.com/research/aging_hufb011f6191f69f7272c34644b78a3084_255788_acebf8fbe89a320cec3f55d2819a8f45.webp"
+width="760"
+height="480"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;h2 id="-pregnancy">🤰 Pregnancy&lt;/h2>
+&lt;p>Research is defined as the creation of new knowledge and/or the use of existing knowledge in a new and creative way so as to generate new concepts, methodologies and understandings. This could include synthesis and analysis of previous research to the extent that it leads to new and creative outcomes.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/research/pregnancy_hu147228133437fd25987ff12bd176783c_150086_87d9139bbd3b6e63a44c28afd0f938fe.webp 400w,
+/research/pregnancy_hu147228133437fd25987ff12bd176783c_150086_20a41ca3142b0052323b7f519686d691.webp 760w,
+/research/pregnancy_hu147228133437fd25987ff12bd176783c_150086_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://chuchuwanglab.com/research/pregnancy_hu147228133437fd25987ff12bd176783c_150086_87d9139bbd3b6e63a44c28afd0f938fe.webp"
+width="760"
+height="507"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;h2 id="personal-health-monitoring-and-disease-early-diagnosis">Personal Health Monitoring and Disease Early Diagnosis&lt;/h2></description></item><item><title>Neutral lysophosphatidylcholine mediates α-synuclein-induced synaptic vesicle clustering</title><link>https://chuchuwanglab.com/publication/neutral-lysophosphatidylcholine-mediates-%CE%B1-synuclein-induced-synaptic-vesicle-clustering/</link><pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate><guid>https://chuchuwanglab.com/publication/neutral-lysophosphatidylcholine-mediates-%CE%B1-synuclein-induced-synaptic-vesicle-clustering/</guid><description/></item><item><title>Structure-based design of a SARS-CoV-2 Omicron-specific inhibitor</title><link>https://chuchuwanglab.com/publication/structure-based-design-of-a-sars-cov-2-omicron-specific-inhibitor/</link><pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate><guid>https://chuchuwanglab.com/publication/structure-based-design-of-a-sars-cov-2-omicron-specific-inhibitor/</guid><description/></item><item><title>massDatabase utilities for the operation of the public compound and pathway database</title><link>https://chuchuwanglab.com/publication/massdatabase-utilities-for-the-operation-of-the-public-compound-and-pathway-database/</link><pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate><guid>https://chuchuwanglab.com/publication/massdatabase-utilities-for-the-operation-of-the-public-compound-and-pathway-database/</guid><description/></item><item><title>Nanomolar inhibition of SARS-CoV-2 infection by an unmodified peptide targeting the prehairpin intermediate of the spike protein</title><link>https://chuchuwanglab.com/publication/nanomolar-inhibition-of-sars-cov-2-infection-by-an-unmodified-peptide-targeting-the-prehairpin-intermediate-of-the-spike-protein/</link><pubDate>Mon, 19 Sep 2022 00:00:00 +0000</pubDate><guid>https://chuchuwanglab.com/publication/nanomolar-inhibition-of-sars-cov-2-infection-by-an-unmodified-peptide-targeting-the-prehairpin-intermediate-of-the-spike-protein/</guid><description/></item><item><title>Deep learning-based pseudo-mass spectrometry imaging analysis for precision medicine</title><link>https://chuchuwanglab.com/publication/deep-learning-based-pseudo-mass-spectrometry-imaging-analysis-for-precision-medicine/</link><pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate><guid>https://chuchuwanglab.com/publication/deep-learning-based-pseudo-mass-spectrometry-imaging-analysis-for-precision-medicine/</guid><description/></item><item><title>TidyMass an object-oriented reproducible analysis framework for LC–MS data</title><link>https://chuchuwanglab.com/publication/tidymass-an-object-oriented-reproducible-analysis-framework-for-lcms-data/</link><pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate><guid>https://chuchuwanglab.com/publication/tidymass-an-object-oriented-reproducible-analysis-framework-for-lcms-data/</guid><description/></item><item><title>Structural conservation among variants of the SARS-CoV-2 spike postfusion bundle</title><link>https://chuchuwanglab.com/publication/structural-conservation-among-variants-of-the-sars-cov-2-spike-postfusion-bundle/</link><pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate><guid>https://chuchuwanglab.com/publication/structural-conservation-among-variants-of-the-sars-cov-2-spike-postfusion-bundle/</guid><description/></item><item><title>Mechanistic basis for receptor-mediated pathological α-synuclein fibril cell-to-cell transmission in Parkinson's disease</title><link>https://chuchuwanglab.com/publication/mechanistic-basis-for-receptor-mediated-pathological-%CE%B1-synuclein-fibril-cell-to-cell-transmission-in-parkinsons-disease/</link><pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate><guid>https://chuchuwanglab.com/publication/mechanistic-basis-for-receptor-mediated-pathological-%CE%B1-synuclein-fibril-cell-to-cell-transmission-in-parkinsons-disease/</guid><description/></item><item><title>Nicotinamide mononucleotide adenylyltransferase uses its NAD+ substrate-binding site to chaperone phosphorylated Tau</title><link>https://chuchuwanglab.com/publication/nicotinamide-mononucleotide-adenylyltransferase-uses-its-nad+-substrate-binding-site-to-chaperone-phosphorylated-tau/</link><pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate><guid>https://chuchuwanglab.com/publication/nicotinamide-mononucleotide-adenylyltransferase-uses-its-nad+-substrate-binding-site-to-chaperone-phosphorylated-tau/</guid><description/></item><item><title>Different regions of synaptic vesicle membrane regulate VAMP2 conformation for the SNARE assembly</title><link>https://chuchuwanglab.com/publication/different-regions-of-synaptic-vesicle-membrane-regulate-vamp2-conformation-for-the-snare-assembly/</link><pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate><guid>https://chuchuwanglab.com/publication/different-regions-of-synaptic-vesicle-membrane-regulate-vamp2-conformation-for-the-snare-assembly/</guid><description/></item><item><title>Hsp27 chaperones FUS phase separation under the modulation of stress-induced phosphorylation</title><link>https://chuchuwanglab.com/publication/hsp27-chaperones-fus-phase-separation-under-the-modulation-of-stress-induced-phosphorylation/</link><pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate><guid>https://chuchuwanglab.com/publication/hsp27-chaperones-fus-phase-separation-under-the-modulation-of-stress-induced-phosphorylation/</guid><description/></item><item><title>Structure-Based Peptide Inhibitor Design of Amyloid-β Aggregation</title><link>https://chuchuwanglab.com/publication/structure-based-peptide-inhibitor-design-of-amyloid-%CE%B2-aggregation/</link><pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate><guid>https://chuchuwanglab.com/publication/structure-based-peptide-inhibitor-design-of-amyloid-%CE%B2-aggregation/</guid><description/></item><item><title>In-Cell NMR Study of Tau and MARK2 Phosphorylated Tau</title><link>https://chuchuwanglab.com/publication/in-cell-nmr-study-of-tau-and-mark2-phosphorylated-tau/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://chuchuwanglab.com/publication/in-cell-nmr-study-of-tau-and-mark2-phosphorylated-tau/</guid><description/></item><item><title>Mechanistic insights into the switch of αB-crystallin chaperone activity and self-multimerization</title><link>https://chuchuwanglab.com/publication/mechanistic-insights-into-the-switch-of-%CE%B1b-crystallin-chaperone-activity-and-self-multimerization/</link><pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate><guid>https://chuchuwanglab.com/publication/mechanistic-insights-into-the-switch-of-%CE%B1b-crystallin-chaperone-activity-and-self-multimerization/</guid><description/></item><item><title>Versatile Structures of α-Synuclein</title><link>https://chuchuwanglab.com/publication/versatile-structures-of-%CE%B1-synuclein/</link><pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate><guid>https://chuchuwanglab.com/publication/versatile-structures-of-%CE%B1-synuclein/</guid><description/></item><item><title>Photoluminescence Properties of La1/3NbO3: Sm3+ Coupled with Sr2+, Ba2+ and Bi3+ Under Near-UV Excitation</title><link>https://chuchuwanglab.com/publication/photoluminescence-properties-of-la1-3nbo3-sm3+-coupled-with-sr2+-ba2+-and-bi3+-under-near-uv-excitation/</link><pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate><guid>https://chuchuwanglab.com/publication/photoluminescence-properties-of-la1-3nbo3-sm3+-coupled-with-sr2+-ba2+-and-bi3+-under-near-uv-excitation/</guid><description/></item></channel></rss>
