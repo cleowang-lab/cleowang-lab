@@ -25,6 +25,22 @@ sections:
     loop: true
     slide_height: ""
 
+- block: markdown
+  id: latest-news
+  content:
+    title: LATEST NEWS
+    text: |-
+      <div class="latest-news-strip">
+        <div class="latest-news-date">Sep 8, 2026</div>
+        <div class="latest-news-copy">
+          <a class="latest-news-title" href="/news/2026-09-08-ntu-ai-for-x-postdoctoral-fellowship/">NTU AI-for-X Postdoctoral Fellowship Opportunity in Wang Lab</a>
+          <p>We are looking for early-career researchers interested in applying for the NTU AI-for-X Postdoctoral Fellowship to develop AI-driven methods for cryo-EM/ET, automated data analysis, and the structural study of native neuronal systems.</p>
+        </div>
+        <a class="latest-news-link" href="/news/2026-09-08-ntu-ai-for-x-postdoctoral-fellowship/">Read more</a>
+      </div>
+  design:
+    columns: "1"
+
 # - block: hero
 #   content:
 #     title: Opportunities
