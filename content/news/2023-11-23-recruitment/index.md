@@ -6,7 +6,7 @@ image:
   placement: 2
 math: true
 commentable: true
-title: Opportunities in Wang Lab
+title: Opportunities in CWang Lab
 # links:
 # - icon: file-pdf
 #   icon_pack: fas
@@ -14,7 +14,7 @@ title: Opportunities in Wang Lab
 #   url: file/Bio-X_Poster-Xiaotao-Shen.pdf
 ---
 
-**Job Opportunities in Wang Lab at Nanyang Technological University (NTU), Singapore**
+**Job Opportunities in CWang Lab at Nanyang Technological University (NTU), Singapore**
 
 **Institution Overview**
 

@@ -4,7 +4,7 @@ theme: "starter-hugo-research-group"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Wang Lab # Website name
+title: CWang Lab # Website name
 baseURL: 'https://chuchuwanglab.com/' # Website URL
 
 ############################

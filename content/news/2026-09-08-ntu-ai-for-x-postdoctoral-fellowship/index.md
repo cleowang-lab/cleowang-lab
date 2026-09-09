@@ -6,12 +6,12 @@ image:
   placement: 2
 math: true
 commentable: true
-title: NTU AI-for-X Postdoctoral Fellowship Opportunity in Wang Lab
+title: NTU AI-for-X Postdoctoral Fellowship Opportunity in CWang Lab
 ---
 
 We are looking for early-career researchers interested in applying for the [NTU AI-for-X Postdoctoral Fellowship](https://www.ntu.edu.sg/research/research-careers/ntu-ai-for-x-postdoctoral-fellowship) to develop AI-driven methods for cryo-EM/ET, automated data analysis, and the structural study of native neuronal systems.
 
-The Wang Lab at Nanyang Technological University (NTU), Singapore welcomes outstanding postdoctoral fellowship candidates who are excited to work at the interface of **artificial intelligence, structural biology, neuroscience, and neurodegeneration research**.
+The CWang Lab at Nanyang Technological University (NTU), Singapore welcomes outstanding postdoctoral fellowship candidates who are excited to work at the interface of **artificial intelligence, structural biology, neuroscience, and neurodegeneration research**.
 
 ### Fellowship
 
@@ -43,7 +43,7 @@ Candidates should be motivated to build independent research directions, work co
 Interested candidates are encouraged to contact Dr. Chuchu Wang before submitting the official fellowship application. Please send the following materials to **[chuchu.wang@ntu.edu.sg](mailto:chuchu.wang@ntu.edu.sg)**:
 
 * CV
-* A brief description of your research interests and fit with the Wang Lab
+* A brief description of your research interests and fit with the CWang Lab
 * Contact information for 2-3 referees
 
 Please use the email subject line:

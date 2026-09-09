@@ -48,7 +48,7 @@ header:
 footer:
   block: minimal2
   copyright:
-    notice: '© {year} Wang Lab @ [Nanyang Technological University](https://www.ntu.edu.sg/)'
+    notice: '© {year} CWang Lab @ [Nanyang Technological University](https://www.ntu.edu.sg/)'
     license:
       enable: false
       allow_derivatives: true
