@@ -4,6 +4,7 @@ authors: [admin]
 image:
   caption: ''
   placement: 2
+  preview_only: true
 math: true
 commentable: true
 title: Opportunities in CWang Lab
