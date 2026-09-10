@@ -247,25 +247,17 @@ sections:
         <h2 class="team-member-category">Undergraduate Intern</h2>
         <div class="team-member-card">
           <div class="team-member-photo-wrap" style="display:flex;justify-content:center;">
-            <img class="team-member-photo" style="display:block;width:180px;height:180px;border-radius:50%;object-fit:cover;box-shadow:0 14px 28px rgba(0,0,0,0.14);" src="/author/chloe-shen/avatar.png" alt="Siti Maryam Ani Binti Ismail" width="180" height="180">
+            <img class="team-member-photo" style="display:block;width:180px;height:180px;border-radius:50%;object-fit:cover;box-shadow:0 14px 28px rgba(0,0,0,0.14);" src="/author/siti-maryam-ani-binti-ismail/avatar.jpeg" alt="Siti Maryam ANI Binti Ismail" width="180" height="180">
           </div>
           <div class="team-member-details" style="min-width:0;">
-            <h3 class="team-member-name">Siti Maryam Ani Binti Ismail</h3>
+            <h3 class="team-member-name">Siti Maryam ANI Binti Ismail</h3>
             <p class="team-member-affiliation">
               URECA student (20260807-2027Jul)<br>
-              Nanyang Technological University Singapore
+              School of Biological Sciences, NTU
             </p>
-            <div class="team-member-links">
-              <a class="team-member-button" href="#" style="display:inline-flex;align-items:center;min-height:1.85rem;padding:0.18rem 0.55rem;background:#003d7c;border:1px solid #003d7c;color:#fff;text-decoration:none;">Curriculum Vitae</a>
-              <a class="team-member-button" href="/author/chloe-shen/" style="display:inline-flex;align-items:center;min-height:1.85rem;padding:0.18rem 0.55rem;background:#003d7c;border:1px solid #003d7c;color:#fff;text-decoration:none;">Biography</a>
-            </div>
-            <div class="team-member-social" aria-label="Siti Maryam Ani Binti Ismail social links">
+            <div class="team-member-social" aria-label="Siti Maryam ANI Binti Ismail social links">
               <a href="mailto:sitimary002@e.ntu.edu.sg" aria-label="Email" style="color:#003d7c;text-decoration:none;"><i class="fas fa-envelope"></i></a>
-              <a href="#" aria-label="GitHub" style="color:#003d7c;text-decoration:none;"><i class="fab fa-github"></i></a>
-              <a href="#" aria-label="X" style="color:#003d7c;text-decoration:none;"><i class="fab fa-x-twitter"></i></a>
-              <a href="#" aria-label="Google Scholar" style="color:#003d7c;text-decoration:none;"><i class="ai ai-google-scholar"></i></a>
-              <a href="#" aria-label="LinkedIn" style="color:#003d7c;text-decoration:none;"><i class="fab fa-linkedin"></i></a>
-              <a href="#" aria-label="ORCID" style="color:#003d7c;text-decoration:none;"><i class="ai ai-orcid"></i></a>
+              <a href="https://www.linkedin.com/in/siti-maryam-ani-8989223a4?utm_source=share_via&amp;utm_content=profile&amp;utm_medium=member_android" target="_blank" rel="noopener" aria-label="LinkedIn" style="color:#003d7c;text-decoration:none;"><i class="fab fa-linkedin"></i></a>
             </div>
           </div>
         </div>
