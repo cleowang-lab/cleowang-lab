@@ -69,7 +69,7 @@ sections:
         <h2 class="team-member-category">Research Fellow</h2>
         <div class="team-member-card">
           <div class="team-member-photo-wrap" style="display:flex;justify-content:center;">
-            <img class="team-member-photo" style="display:block;width:180px;height:180px;border-radius:50%;object-fit:cover;box-shadow:0 14px 28px rgba(0,0,0,0.14);" src="/author/wencheng-xia/avatar.png" alt="Wencheng XIA" width="180" height="180">
+            <img class="team-member-photo" style="display:block;width:180px;height:180px;border-radius:50%;object-fit:cover;box-shadow:0 14px 28px rgba(0,0,0,0.14);" src="/image/team-headshots/Wencheng%20XIA.jpeg" alt="Wencheng XIA" width="180" height="180">
           </div>
           <div class="team-member-details" style="min-width:0;">
             <h3 class="team-member-name">Wencheng XIA</h3>
@@ -94,7 +94,7 @@ sections:
 
         <div class="team-member-card">
           <div class="team-member-photo-wrap" style="display:flex;justify-content:center;">
-            <img class="team-member-photo" style="display:block;width:180px;height:180px;border-radius:50%;object-fit:cover;box-shadow:0 14px 28px rgba(0,0,0,0.14);" src="/author/ling-hu/avatar.png" alt="Hui CHEN" width="180" height="180">
+            <img class="team-member-photo" style="display:block;width:180px;height:180px;border-radius:50%;object-fit:cover;box-shadow:0 14px 28px rgba(0,0,0,0.14);" src="/image/team-headshots/Hui%20Chen.jpeg" alt="Hui CHEN" width="180" height="180">
           </div>
           <div class="team-member-details" style="min-width:0;">
             <h3 class="team-member-name">Hui CHEN</h3>
@@ -120,7 +120,7 @@ sections:
         <h2 class="team-member-category">PhD Student</h2>
         <div class="team-member-card">
           <div class="team-member-photo-wrap" style="display:flex;justify-content:center;">
-            <img class="team-member-photo" style="display:block;width:180px;height:180px;border-radius:50%;object-fit:cover;box-shadow:0 14px 28px rgba(0,0,0,0.14);" src="/author/ling-hu/avatar.png" alt="Ling HU" width="180" height="180">
+            <img class="team-member-photo" style="display:block;width:180px;height:180px;border-radius:50%;object-fit:cover;box-shadow:0 14px 28px rgba(0,0,0,0.14);" src="/image/team-headshots/Ling%20HU.jpeg" alt="Ling HU" width="180" height="180">
           </div>
           <div class="team-member-details" style="min-width:0;">
             <h3 class="team-member-name">Ling HU</h3>
@@ -145,7 +145,7 @@ sections:
 
         <div class="team-member-card">
           <div class="team-member-photo-wrap" style="display:flex;justify-content:center;">
-            <img class="team-member-photo" style="display:block;width:180px;height:180px;border-radius:50%;object-fit:cover;box-shadow:0 14px 28px rgba(0,0,0,0.14);" src="/author/ling-hu/avatar.png" alt="Sivani RADHAKRISHNAN" width="180" height="180">
+            <img class="team-member-photo" style="display:block;width:180px;height:180px;border-radius:50%;object-fit:cover;box-shadow:0 14px 28px rgba(0,0,0,0.14);" src="/image/team-headshots/Sivani%20RADHAKRISHNAN.jpeg" alt="Sivani RADHAKRISHNAN" width="180" height="180">
           </div>
           <div class="team-member-details" style="min-width:0;">
             <h3 class="team-member-name">Sivani RADHAKRISHNAN</h3>
@@ -170,7 +170,7 @@ sections:
 
         <div class="team-member-card">
           <div class="team-member-photo-wrap" style="display:flex;justify-content:center;">
-            <img class="team-member-photo" style="display:block;width:180px;height:180px;border-radius:50%;object-fit:cover;box-shadow:0 14px 28px rgba(0,0,0,0.14);" src="/author/ling-hu/avatar.png" alt="Shi Yan LEE" width="180" height="180">
+            <img class="team-member-photo" style="display:block;width:180px;height:180px;border-radius:50%;object-fit:cover;box-shadow:0 14px 28px rgba(0,0,0,0.14);" src="/image/team-headshots/Shi%20Yan%20LEE.jpeg" alt="Shi Yan LEE" width="180" height="180">
           </div>
           <div class="team-member-details" style="min-width:0;">
             <h3 class="team-member-name">Shi Yan LEE</h3>
@@ -196,7 +196,7 @@ sections:
         <h2 class="team-member-category">Visiting Scholar and Student</h2>
         <div class="team-member-card">
           <div class="team-member-photo-wrap" style="display:flex;justify-content:center;">
-            <img class="team-member-photo" style="display:block;width:180px;height:180px;border-radius:50%;object-fit:cover;box-shadow:0 14px 28px rgba(0,0,0,0.14);" src="/author/ling-hu/avatar.png" alt="Minting HU" width="180" height="180">
+            <img class="team-member-photo" style="display:block;width:180px;height:180px;border-radius:50%;object-fit:cover;box-shadow:0 14px 28px rgba(0,0,0,0.14);" src="/image/team-headshots/Minting%20HU.jpg" alt="Minting HU" width="180" height="180">
           </div>
           <div class="team-member-details" style="min-width:0;">
             <h3 class="team-member-name">Minting HU</h3>
@@ -221,7 +221,7 @@ sections:
 
         <div class="team-member-card">
           <div class="team-member-photo-wrap" style="display:flex;justify-content:center;">
-            <img class="team-member-photo" style="display:block;width:180px;height:180px;border-radius:50%;object-fit:cover;box-shadow:0 14px 28px rgba(0,0,0,0.14);" src="/author/chris-davis/avatar.png" alt="Christopher KOLB" width="180" height="180">
+            <img class="team-member-photo" style="display:block;width:180px;height:180px;border-radius:50%;object-fit:cover;box-shadow:0 14px 28px rgba(0,0,0,0.14);" src="/image/team-headshots/Christopher%20KOLB.jpg" alt="Christopher KOLB" width="180" height="180">
           </div>
           <div class="team-member-details" style="min-width:0;">
             <h3 class="team-member-name">Christopher KOLB</h3>
@@ -231,7 +231,7 @@ sections:
             </p>
             <div class="team-member-links">
               <a class="team-member-button" href="#" style="display:inline-flex;align-items:center;min-height:1.85rem;padding:0.18rem 0.55rem;background:#003d7c;border:1px solid #003d7c;color:#fff;text-decoration:none;">Curriculum Vitae</a>
-              <a class="team-member-button" href="/author/chris-davis/" style="display:inline-flex;align-items:center;min-height:1.85rem;padding:0.18rem 0.55rem;background:#003d7c;border:1px solid #003d7c;color:#fff;text-decoration:none;">Biography</a>
+              <a class="team-member-button" href="/author/christopher-kolb/" style="display:inline-flex;align-items:center;min-height:1.85rem;padding:0.18rem 0.55rem;background:#003d7c;border:1px solid #003d7c;color:#fff;text-decoration:none;">Biography</a>
             </div>
             <div class="team-member-social" aria-label="Christopher KOLB social links">
               <a href="mailto:N2606299H@e.ntu.edu.sg" aria-label="Email" style="color:#003d7c;text-decoration:none;"><i class="fas fa-envelope"></i></a>
