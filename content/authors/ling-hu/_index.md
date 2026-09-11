@@ -9,7 +9,7 @@ last_name: HU
 highlight_name: false
 interests: []
 organizations:
-- name: Nanyang Technological University Singapore
+- name: LKC Medicine, NTU
   url: ""
 role: PhD student
 social: []

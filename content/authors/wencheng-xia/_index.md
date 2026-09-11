@@ -9,7 +9,7 @@ last_name: XIA
 highlight_name: false
 interests: []
 organizations:
-- name: Nanyang Technological University Singapore
+- name: LKC Medicine, NTU
   url: ""
 role: Postdoc
 social: []

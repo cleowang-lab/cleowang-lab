@@ -75,7 +75,7 @@ sections:
             <h3 class="team-member-name">Wencheng XIA</h3>
             <p class="team-member-affiliation">
               Postdoc (20260406-Present)<br>
-              Nanyang Technological University Singapore
+              LKC Medicine, NTU
             </p>
             <div class="team-member-links">
               <a class="team-member-button" href="#" style="display:inline-flex;align-items:center;min-height:1.85rem;padding:0.18rem 0.55rem;background:#003d7c;border:1px solid #003d7c;color:#fff;text-decoration:none;">Curriculum Vitae</a>
@@ -100,7 +100,7 @@ sections:
             <h3 class="team-member-name">Hui CHEN</h3>
             <p class="team-member-affiliation">
               Lab manager and technician (20260323-Present)<br>
-              Nanyang Technological University Singapore
+              LKC Medicine, NTU
             </p>
             <div class="team-member-links">
               <a class="team-member-button" href="#" style="display:inline-flex;align-items:center;min-height:1.85rem;padding:0.18rem 0.55rem;background:#003d7c;border:1px solid #003d7c;color:#fff;text-decoration:none;">Curriculum Vitae</a>
@@ -126,7 +126,7 @@ sections:
             <h3 class="team-member-name">Ling HU</h3>
             <p class="team-member-affiliation">
               PhD student (20260810-Present)<br>
-              Nanyang Technological University Singapore
+              LKC Medicine, NTU
             </p>
             <div class="team-member-links">
               <a class="team-member-button" href="#" style="display:inline-flex;align-items:center;min-height:1.85rem;padding:0.18rem 0.55rem;background:#003d7c;border:1px solid #003d7c;color:#fff;text-decoration:none;">Curriculum Vitae</a>
@@ -151,7 +151,7 @@ sections:
             <h3 class="team-member-name">Sivani RADHAKRISHNAN</h3>
             <p class="team-member-affiliation">
               PhD student (20260810-Present)<br>
-              Nanyang Technological University Singapore
+              LKC Medicine, NTU
             </p>
             <div class="team-member-links">
               <a class="team-member-button" href="#" style="display:inline-flex;align-items:center;min-height:1.85rem;padding:0.18rem 0.55rem;background:#003d7c;border:1px solid #003d7c;color:#fff;text-decoration:none;">Curriculum Vitae</a>
@@ -176,7 +176,7 @@ sections:
             <h3 class="team-member-name">Shi Yan LEE</h3>
             <p class="team-member-affiliation">
               PhD student (20260810-Present)<br>
-              Nanyang Technological University Singapore
+              LKC Medicine, NTU
             </p>
             <div class="team-member-links">
               <a class="team-member-button" href="#" style="display:inline-flex;align-items:center;min-height:1.85rem;padding:0.18rem 0.55rem;background:#003d7c;border:1px solid #003d7c;color:#fff;text-decoration:none;">Curriculum Vitae</a>
