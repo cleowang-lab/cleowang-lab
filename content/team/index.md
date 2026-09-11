@@ -79,7 +79,6 @@ sections:
             </p>
             <div class="team-member-links">
               <a class="team-member-button" href="/file/Website_CV-Wencheng.pdf" style="display:inline-flex;align-items:center;min-height:1.85rem;padding:0.18rem 0.55rem;background:#003d7c;border:1px solid #003d7c;color:#fff;text-decoration:none;">Curriculum Vitae</a>
-              <a class="team-member-button" href="/author/wencheng-xia/" style="display:inline-flex;align-items:center;min-height:1.85rem;padding:0.18rem 0.55rem;background:#003d7c;border:1px solid #003d7c;color:#fff;text-decoration:none;">Biography</a>
             </div>
             <div class="team-member-social" aria-label="Wencheng XIA social links">
               <a href="mailto:wencheng.xia@ntu.edu.sg" aria-label="Email" style="color:#003d7c;text-decoration:none;"><i class="fas fa-envelope"></i></a>
@@ -115,9 +114,6 @@ sections:
               PhD student (20260810-Present)<br>
               LKC Medicine, NTU
             </p>
-            <div class="team-member-links">
-              <a class="team-member-button" href="/author/ling-hu/" style="display:inline-flex;align-items:center;min-height:1.85rem;padding:0.18rem 0.55rem;background:#003d7c;border:1px solid #003d7c;color:#fff;text-decoration:none;">Biography</a>
-            </div>
             <div class="team-member-social" aria-label="Ling HU social links">
               <a href="mailto:LING020@e.ntu.edu.sg" aria-label="Email" style="color:#003d7c;text-decoration:none;"><i class="fas fa-envelope"></i></a>
             </div>
