@@ -766,12 +766,16 @@ body.dark[data-wc-page-id="3a079e7dad19be978a318345a7749d34"] .btn-outline-prima
 #lipidflow .lipidflow-banner {
   color: #003d7c !important;
   font-family: "Oswald", "Arial Narrow", Arial, sans-serif;
-  font-size: 2rem;
+  font-size: clamp(1.1rem, 5vw, 2rem);
   font-weight: 700;
   letter-spacing: 0;
   line-height: 1.2;
+  width: 100%;
+  max-width: 92vw;
+  margin: 0 auto;
   text-align: center;
-  white-space: nowrap;
+  overflow-wrap: normal;
+  white-space: normal;
 }
 
 #lipidflow .lipidflow-banner a {
