@@ -78,16 +78,12 @@ sections:
               LKC Medicine, NTU
             </p>
             <div class="team-member-links">
-              <a class="team-member-button" href="#" style="display:inline-flex;align-items:center;min-height:1.85rem;padding:0.18rem 0.55rem;background:#003d7c;border:1px solid #003d7c;color:#fff;text-decoration:none;">Curriculum Vitae</a>
+              <a class="team-member-button" href="/file/Website_CV-Wencheng.pdf" style="display:inline-flex;align-items:center;min-height:1.85rem;padding:0.18rem 0.55rem;background:#003d7c;border:1px solid #003d7c;color:#fff;text-decoration:none;">Curriculum Vitae</a>
               <a class="team-member-button" href="/author/wencheng-xia/" style="display:inline-flex;align-items:center;min-height:1.85rem;padding:0.18rem 0.55rem;background:#003d7c;border:1px solid #003d7c;color:#fff;text-decoration:none;">Biography</a>
             </div>
             <div class="team-member-social" aria-label="Wencheng XIA social links">
               <a href="mailto:wencheng.xia@ntu.edu.sg" aria-label="Email" style="color:#003d7c;text-decoration:none;"><i class="fas fa-envelope"></i></a>
-              <a href="#" aria-label="GitHub" style="color:#003d7c;text-decoration:none;"><i class="fab fa-github"></i></a>
-              <a href="#" aria-label="X" style="color:#003d7c;text-decoration:none;"><i class="fab fa-x-twitter"></i></a>
-              <a href="#" aria-label="Google Scholar" style="color:#003d7c;text-decoration:none;"><i class="ai ai-google-scholar"></i></a>
-              <a href="#" aria-label="LinkedIn" style="color:#003d7c;text-decoration:none;"><i class="fab fa-linkedin"></i></a>
-              <a href="#" aria-label="ORCID" style="color:#003d7c;text-decoration:none;"><i class="ai ai-orcid"></i></a>
+              <a href="https://scholar.google.com/citations?user=TA-0UxsAAAAJ&amp;hl=en" target="_blank" rel="noopener" aria-label="Google Scholar" style="color:#003d7c;text-decoration:none;"><i class="ai ai-google-scholar"></i></a>
             </div>
           </div>
         </div>
@@ -102,17 +98,8 @@ sections:
               Lab manager and technician (20260323-Present)<br>
               LKC Medicine, NTU
             </p>
-            <div class="team-member-links">
-              <a class="team-member-button" href="#" style="display:inline-flex;align-items:center;min-height:1.85rem;padding:0.18rem 0.55rem;background:#003d7c;border:1px solid #003d7c;color:#fff;text-decoration:none;">Curriculum Vitae</a>
-              <a class="team-member-button" href="#" style="display:inline-flex;align-items:center;min-height:1.85rem;padding:0.18rem 0.55rem;background:#003d7c;border:1px solid #003d7c;color:#fff;text-decoration:none;">Biography</a>
-            </div>
             <div class="team-member-social" aria-label="Hui CHEN social links">
               <a href="mailto:hui.c@ntu.edu.sg" aria-label="Email" style="color:#003d7c;text-decoration:none;"><i class="fas fa-envelope"></i></a>
-              <a href="#" aria-label="GitHub" style="color:#003d7c;text-decoration:none;"><i class="fab fa-github"></i></a>
-              <a href="#" aria-label="X" style="color:#003d7c;text-decoration:none;"><i class="fab fa-x-twitter"></i></a>
-              <a href="#" aria-label="Google Scholar" style="color:#003d7c;text-decoration:none;"><i class="ai ai-google-scholar"></i></a>
-              <a href="#" aria-label="LinkedIn" style="color:#003d7c;text-decoration:none;"><i class="fab fa-linkedin"></i></a>
-              <a href="#" aria-label="ORCID" style="color:#003d7c;text-decoration:none;"><i class="ai ai-orcid"></i></a>
             </div>
           </div>
         </div>
@@ -129,16 +116,10 @@ sections:
               LKC Medicine, NTU
             </p>
             <div class="team-member-links">
-              <a class="team-member-button" href="#" style="display:inline-flex;align-items:center;min-height:1.85rem;padding:0.18rem 0.55rem;background:#003d7c;border:1px solid #003d7c;color:#fff;text-decoration:none;">Curriculum Vitae</a>
               <a class="team-member-button" href="/author/ling-hu/" style="display:inline-flex;align-items:center;min-height:1.85rem;padding:0.18rem 0.55rem;background:#003d7c;border:1px solid #003d7c;color:#fff;text-decoration:none;">Biography</a>
             </div>
             <div class="team-member-social" aria-label="Ling HU social links">
               <a href="mailto:LING020@e.ntu.edu.sg" aria-label="Email" style="color:#003d7c;text-decoration:none;"><i class="fas fa-envelope"></i></a>
-              <a href="#" aria-label="GitHub" style="color:#003d7c;text-decoration:none;"><i class="fab fa-github"></i></a>
-              <a href="#" aria-label="X" style="color:#003d7c;text-decoration:none;"><i class="fab fa-x-twitter"></i></a>
-              <a href="#" aria-label="Google Scholar" style="color:#003d7c;text-decoration:none;"><i class="ai ai-google-scholar"></i></a>
-              <a href="#" aria-label="LinkedIn" style="color:#003d7c;text-decoration:none;"><i class="fab fa-linkedin"></i></a>
-              <a href="#" aria-label="ORCID" style="color:#003d7c;text-decoration:none;"><i class="ai ai-orcid"></i></a>
             </div>
           </div>
         </div>
@@ -153,17 +134,8 @@ sections:
               PhD student (20260810-Present)<br>
               LKC Medicine, NTU
             </p>
-            <div class="team-member-links">
-              <a class="team-member-button" href="#" style="display:inline-flex;align-items:center;min-height:1.85rem;padding:0.18rem 0.55rem;background:#003d7c;border:1px solid #003d7c;color:#fff;text-decoration:none;">Curriculum Vitae</a>
-              <a class="team-member-button" href="#" style="display:inline-flex;align-items:center;min-height:1.85rem;padding:0.18rem 0.55rem;background:#003d7c;border:1px solid #003d7c;color:#fff;text-decoration:none;">Biography</a>
-            </div>
             <div class="team-member-social" aria-label="Sivani RADHAKRISHNAN social links">
               <a href="mailto:SIVANI001@e.ntu.edu.sg" aria-label="Email" style="color:#003d7c;text-decoration:none;"><i class="fas fa-envelope"></i></a>
-              <a href="#" aria-label="GitHub" style="color:#003d7c;text-decoration:none;"><i class="fab fa-github"></i></a>
-              <a href="#" aria-label="X" style="color:#003d7c;text-decoration:none;"><i class="fab fa-x-twitter"></i></a>
-              <a href="#" aria-label="Google Scholar" style="color:#003d7c;text-decoration:none;"><i class="ai ai-google-scholar"></i></a>
-              <a href="#" aria-label="LinkedIn" style="color:#003d7c;text-decoration:none;"><i class="fab fa-linkedin"></i></a>
-              <a href="#" aria-label="ORCID" style="color:#003d7c;text-decoration:none;"><i class="ai ai-orcid"></i></a>
             </div>
           </div>
         </div>
@@ -178,17 +150,9 @@ sections:
               PhD student (20260810-Present)<br>
               LKC Medicine, NTU
             </p>
-            <div class="team-member-links">
-              <a class="team-member-button" href="#" style="display:inline-flex;align-items:center;min-height:1.85rem;padding:0.18rem 0.55rem;background:#003d7c;border:1px solid #003d7c;color:#fff;text-decoration:none;">Curriculum Vitae</a>
-              <a class="team-member-button" href="#" style="display:inline-flex;align-items:center;min-height:1.85rem;padding:0.18rem 0.55rem;background:#003d7c;border:1px solid #003d7c;color:#fff;text-decoration:none;">Biography</a>
-            </div>
             <div class="team-member-social" aria-label="Shi Yan LEE social links">
               <a href="mailto:SLEE173@e.ntu.edu.sg" aria-label="Email" style="color:#003d7c;text-decoration:none;"><i class="fas fa-envelope"></i></a>
-              <a href="#" aria-label="GitHub" style="color:#003d7c;text-decoration:none;"><i class="fab fa-github"></i></a>
-              <a href="#" aria-label="X" style="color:#003d7c;text-decoration:none;"><i class="fab fa-x-twitter"></i></a>
-              <a href="#" aria-label="Google Scholar" style="color:#003d7c;text-decoration:none;"><i class="ai ai-google-scholar"></i></a>
-              <a href="#" aria-label="LinkedIn" style="color:#003d7c;text-decoration:none;"><i class="fab fa-linkedin"></i></a>
-              <a href="#" aria-label="ORCID" style="color:#003d7c;text-decoration:none;"><i class="ai ai-orcid"></i></a>
+              <a href="https://www.linkedin.com/in/lee-shi-yan-3a81b9214/" target="_blank" rel="noopener" aria-label="LinkedIn" style="color:#003d7c;text-decoration:none;"><i class="fab fa-linkedin"></i></a>
             </div>
           </div>
         </div>
@@ -204,17 +168,8 @@ sections:
               Visiting PhD student (20260201-Present)<br>
               Guangxi Medical University, China
             </p>
-            <div class="team-member-links">
-              <a class="team-member-button" href="#" style="display:inline-flex;align-items:center;min-height:1.85rem;padding:0.18rem 0.55rem;background:#003d7c;border:1px solid #003d7c;color:#fff;text-decoration:none;">Curriculum Vitae</a>
-              <a class="team-member-button" href="#" style="display:inline-flex;align-items:center;min-height:1.85rem;padding:0.18rem 0.55rem;background:#003d7c;border:1px solid #003d7c;color:#fff;text-decoration:none;">Biography</a>
-            </div>
             <div class="team-member-social" aria-label="Minting HU social links">
               <a href="mailto:N2505880F@e.ntu.edu.sg" aria-label="Email" style="color:#003d7c;text-decoration:none;"><i class="fas fa-envelope"></i></a>
-              <a href="#" aria-label="GitHub" style="color:#003d7c;text-decoration:none;"><i class="fab fa-github"></i></a>
-              <a href="#" aria-label="X" style="color:#003d7c;text-decoration:none;"><i class="fab fa-x-twitter"></i></a>
-              <a href="#" aria-label="Google Scholar" style="color:#003d7c;text-decoration:none;"><i class="ai ai-google-scholar"></i></a>
-              <a href="#" aria-label="LinkedIn" style="color:#003d7c;text-decoration:none;"><i class="fab fa-linkedin"></i></a>
-              <a href="#" aria-label="ORCID" style="color:#003d7c;text-decoration:none;"><i class="ai ai-orcid"></i></a>
             </div>
           </div>
         </div>
@@ -230,16 +185,11 @@ sections:
               Heidelberg University, Germany
             </p>
             <div class="team-member-links">
-              <a class="team-member-button" href="#" style="display:inline-flex;align-items:center;min-height:1.85rem;padding:0.18rem 0.55rem;background:#003d7c;border:1px solid #003d7c;color:#fff;text-decoration:none;">Curriculum Vitae</a>
               <a class="team-member-button" href="/author/christopher-kolb/" style="display:inline-flex;align-items:center;min-height:1.85rem;padding:0.18rem 0.55rem;background:#003d7c;border:1px solid #003d7c;color:#fff;text-decoration:none;">Biography</a>
             </div>
             <div class="team-member-social" aria-label="Christopher KOLB social links">
               <a href="mailto:N2606299H@e.ntu.edu.sg" aria-label="Email" style="color:#003d7c;text-decoration:none;"><i class="fas fa-envelope"></i></a>
-              <a href="#" aria-label="GitHub" style="color:#003d7c;text-decoration:none;"><i class="fab fa-github"></i></a>
-              <a href="#" aria-label="X" style="color:#003d7c;text-decoration:none;"><i class="fab fa-x-twitter"></i></a>
-              <a href="#" aria-label="Google Scholar" style="color:#003d7c;text-decoration:none;"><i class="ai ai-google-scholar"></i></a>
-              <a href="#" aria-label="LinkedIn" style="color:#003d7c;text-decoration:none;"><i class="fab fa-linkedin"></i></a>
-              <a href="#" aria-label="ORCID" style="color:#003d7c;text-decoration:none;"><i class="ai ai-orcid"></i></a>
+              <a href="https://www.linkedin.com/in/christopher-kolb-14516a256/" target="_blank" rel="noopener" aria-label="LinkedIn" style="color:#003d7c;text-decoration:none;"><i class="fab fa-linkedin"></i></a>
             </div>
           </div>
         </div>

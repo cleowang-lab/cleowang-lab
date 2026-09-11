@@ -12,7 +12,10 @@ organizations:
 - name: LKC Medicine, NTU
   url: ""
 role: Postdoc
-social: []
+social:
+- icon: google-scholar
+  icon_pack: ai
+  link: "https://scholar.google.com/citations?user=TA-0UxsAAAAJ&hl=en"
 status:
   icon: ""
 superuser: false
@@ -20,4 +23,3 @@ title: Wencheng XIA
 user_groups:
 - Postdoc
 ---
-

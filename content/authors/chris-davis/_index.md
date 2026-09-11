@@ -12,7 +12,10 @@ organizations:
 - name: Heidelberg University, Germany
   url: ""
 role: Visiting master student
-social: []
+social:
+- icon: linkedin
+  icon_pack: fab
+  link: "https://www.linkedin.com/in/christopher-kolb-14516a256/"
 status:
   icon: ""
 superuser: false
