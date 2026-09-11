@@ -132,6 +132,7 @@ sections:
             </p>
             <div class="team-member-social" aria-label="Sivani RADHAKRISHNAN social links">
               <a href="mailto:SIVANI001@e.ntu.edu.sg" aria-label="Email" style="color:#003d7c;text-decoration:none;"><i class="fas fa-envelope"></i></a>
+              <a href="https://www.linkedin.com/in/sivani-radhakrishnan-000611246?utm_source=share_via&amp;utm_content=profile&amp;utm_medium=member_android" target="_blank" rel="noopener" aria-label="LinkedIn" style="color:#003d7c;text-decoration:none;"><i class="fab fa-linkedin"></i></a>
             </div>
           </div>
         </div>
