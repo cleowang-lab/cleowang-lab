@@ -172,6 +172,11 @@ h6,
   border-color: #002f5f;
 }
 
+#contact .form-control:focus {
+  border-color: #003d7c !important;
+  box-shadow: 0 0 0 0.2rem rgba(0, 61, 124, 0.25) !important;
+}
+
 body.dark #contact .btn-primary {
   background-color: #8ec5ff;
   border-color: #8ec5ff;
@@ -183,6 +188,11 @@ body.dark #contact .btn-primary:focus {
   background-color: #b9dcff;
   border-color: #b9dcff;
   color: #23252f;
+}
+
+body.dark #contact .form-control:focus {
+  border-color: #8ec5ff !important;
+  box-shadow: 0 0 0 0.2rem rgba(142, 197, 255, 0.35) !important;
 }
 
 .site-footer a,
