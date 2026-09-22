@@ -702,6 +702,16 @@ body[data-wc-page-id="3a079e7dad19be978a318345a7749d34"] #container-publications
   font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
 
+body.news-detail-page .article-metadata,
+body.news-detail-page .article-style,
+body.news-detail-page .article-style h2,
+body.news-detail-page .article-style h3,
+body.news-detail-page .article-style h4,
+body.news-detail-page .article-style h5,
+body.news-detail-page .article-style h6 {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
 // Keep page-level display headings in Oswald while unifying content typography.
 body[data-wc-page-id="f1d044c0738ab9f19347f15c290a71a1"] .page-body,
 body[data-wc-page-id="a7a21b3f3b83812326338d2cd0c589ad"] .page-body,
