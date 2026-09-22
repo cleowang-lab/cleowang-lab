@@ -25,7 +25,7 @@ view: list
         <span class="research-year-bar" style="--bar-height:50%;" title="2022: 5"></span>
         <span class="research-year-bar" style="--bar-height:20%;" title="2023: 2"></span>
         <span class="research-year-bar" style="--bar-height:100%;" title="2024: 10"></span>
-        <span class="research-year-bar" style="--bar-height:10%;" title="2026: 1"></span>
+        <span class="research-year-bar" style="--bar-height:20%;" title="2026: 2"></span>
       </div>
       <div class="research-year-range">
         <span>2013</span>
@@ -34,11 +34,11 @@ view: list
     </div>
     <div class="research-output-metrics" aria-label="Research output by type">
       <div class="research-output-metric">
-        <span class="research-output-number">27</span>
+        <span class="research-output-number">28</span>
         <span class="research-output-type">Total</span>
       </div>
       <div class="research-output-metric">
-        <span class="research-output-number">25</span>
+        <span class="research-output-number">26</span>
         <span class="research-output-type">Article</span>
       </div>
       <div class="research-output-metric">
