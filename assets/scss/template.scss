@@ -986,6 +986,115 @@ body.dark .latest-news-link:focus {
   color: #23252f !important;
 }
 
+.research-output-summary {
+  margin: 0 auto 2.4rem;
+  padding: 1.35rem 0 1.5rem;
+  border-bottom: 1px solid rgba(0, 61, 124, 0.18);
+}
+
+.research-output-heading {
+  display: inline-flex;
+  gap: 0.8rem;
+  align-items: center;
+  margin-bottom: 1.3rem;
+  color: #333;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 1.75rem;
+  font-weight: 700;
+  line-height: 1.25;
+}
+
+.research-output-heading i {
+  color: #7a7f87;
+  font-size: 1.45rem;
+}
+
+.research-output-grid {
+  display: grid;
+  grid-template-columns: minmax(12rem, 18rem) minmax(0, 1fr);
+  gap: 2rem;
+  align-items: end;
+}
+
+.research-output-label,
+.research-year-range,
+.research-output-type {
+  color: #6c757d;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+.research-output-label {
+  margin-bottom: 0.55rem;
+  font-size: 0.95rem;
+  font-weight: 700;
+}
+
+.research-year-chart {
+  display: flex;
+  gap: 0.18rem;
+  align-items: end;
+  height: 3.1rem;
+}
+
+.research-year-bar {
+  display: block;
+  width: 0.82rem;
+  min-height: 0.35rem;
+  height: var(--bar-height);
+  background: #003d7c;
+}
+
+.research-year-range {
+  display: flex;
+  justify-content: space-between;
+  max-width: 10rem;
+  margin-top: 0.35rem;
+  font-size: 0.88rem;
+}
+
+.research-output-metrics {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(4.8rem, 1fr));
+  gap: 1rem;
+  text-align: center;
+}
+
+.research-output-number {
+  display: block;
+  color: #003d7c;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.1;
+}
+
+.research-output-type {
+  display: block;
+  margin-top: 0.25rem;
+  font-size: 0.95rem;
+  line-height: 1.25;
+}
+
+body.dark .research-output-summary {
+  border-color: rgba(142, 197, 255, 0.28);
+}
+
+body.dark .research-output-heading,
+body.dark .research-output-heading i,
+body.dark .research-output-number {
+  color: #8ec5ff;
+}
+
+body.dark .research-output-label,
+body.dark .research-year-range,
+body.dark .research-output-type {
+  color: #f8f8f2;
+}
+
+body.dark .research-year-bar {
+  background: #8ec5ff;
+}
+
 @media (max-width: 640px) {
   #latest-news.home-section {
     padding: 2.3rem 0;
@@ -1003,5 +1112,28 @@ body.dark .latest-news-link:focus {
 
   .latest-news-link {
     justify-self: start;
+  }
+
+  .research-output-summary {
+    margin-bottom: 2rem;
+    padding-top: 0.8rem;
+  }
+
+  .research-output-heading {
+    font-size: 1.45rem;
+  }
+
+  .research-output-grid {
+    grid-template-columns: 1fr;
+    gap: 1.35rem;
+  }
+
+  .research-output-metrics {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    text-align: left;
+  }
+
+  .research-output-number {
+    font-size: 1.7rem;
   }
 }
