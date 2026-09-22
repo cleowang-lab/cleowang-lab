@@ -698,6 +698,37 @@ body[data-wc-page-id="3a079e7dad19be978a318345a7749d34"] #container-publications
   font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
 
+// Keep page-level display headings in Oswald while unifying content typography.
+body[data-wc-page-id="f1d044c0738ab9f19347f15c290a71a1"] .page-body,
+body[data-wc-page-id="a7a21b3f3b83812326338d2cd0c589ad"] .page-body,
+body[data-wc-page-id="3bf44c81f2a197de01edde90bcd77783"] .page-body,
+body[data-wc-page-id="ef9aefa335e6f17c33364f4f90b69bdf"] .page-body,
+#research .article-style,
+#latest-news .latest-news-strip {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+body[data-wc-page-id="f1d044c0738ab9f19347f15c290a71a1"] .page-body h2,
+body[data-wc-page-id="f1d044c0738ab9f19347f15c290a71a1"] .page-body h3,
+body[data-wc-page-id="f1d044c0738ab9f19347f15c290a71a1"] .page-body h4,
+body[data-wc-page-id="f1d044c0738ab9f19347f15c290a71a1"] .page-body h5,
+body[data-wc-page-id="f1d044c0738ab9f19347f15c290a71a1"] .page-body h6,
+body[data-wc-page-id="a7a21b3f3b83812326338d2cd0c589ad"] .page-body .section-subheading,
+body[data-wc-page-id="a7a21b3f3b83812326338d2cd0c589ad"] .page-body .article-style,
+body[data-wc-page-id="3bf44c81f2a197de01edde90bcd77783"] .team-pi-name,
+body[data-wc-page-id="3bf44c81f2a197de01edde90bcd77783"] .team-pi-affiliation,
+body[data-wc-page-id="3bf44c81f2a197de01edde90bcd77783"] .team-member-category,
+body[data-wc-page-id="3bf44c81f2a197de01edde90bcd77783"] .team-member-name,
+body[data-wc-page-id="3bf44c81f2a197de01edde90bcd77783"] .team-member-affiliation,
+body[data-wc-page-id="ef9aefa335e6f17c33364f4f90b69bdf"] .group-event-entry h2,
+body[data-wc-page-id="ef9aefa335e6f17c33364f4f90b69bdf"] .group-event-entry p,
+#research .section-subheading,
+#research .article-title,
+#latest-news .latest-news-title,
+#latest-news .latest-news-copy {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
 body[data-wc-page-id="3a079e7dad19be978a318345a7749d34"] #container-publications .article-metadata,
 body[data-wc-page-id="3a079e7dad19be978a318345a7749d34"] #container-publications .author-highlighted {
   color: #000 !important;
