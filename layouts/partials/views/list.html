@@ -24,9 +24,9 @@
 
 {{ $has_attachments := partial "functions/has_attachments" $item }}
 
-<div class="view-list view-list-item">
+<div class="view-list view-list-item{{ if eq $item.Type "publication" }} publication-list-item{{ end }}">
   <i class="{{$icon_pack}} {{$icon}} pub-icon" aria-hidden="true"></i>
-  <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
+  <a{{ if eq $item.Type "publication" }} class="publication-title-link"{{ end }} href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
 
   {{ if eq $item.Type "event" }}
   <div class="article-metadata">
@@ -41,7 +41,7 @@
   {{ end }}
 
   {{ if and $show_authors $item.Params.authors }}
-  <div class="article-metadata">
+  <div class="article-metadata{{ if eq $item.Type "publication" }} publication-authors{{ end }}">
     {{ partial "page_metadata_authors" $item }}
   </div>
   {{ end }}
@@ -64,6 +64,20 @@
       {{- with $year -}}<span>{{ . }}</span>{{- end -}}
   </div>
     {{ end }}
+
+    {{ $publication_type := 0 }}
+    {{ with $item.Params.publication_types }}
+      {{ $publication_type = int (index . 0) }}
+    {{ end }}
+    {{ $output_path := "Uncategorized" }}
+    {{ if eq $publication_type 2 }}
+      {{ $output_path = "Contribution to journal › Article › peer-review" }}
+    {{ else if eq $publication_type 3 }}
+      {{ $output_path = "Preprint" }}
+    {{ else if eq $publication_type 6 }}
+      {{ $output_path = "Chapter" }}
+    {{ end }}
+  <div class="publication-output"><strong>Research output:</strong> {{ $output_path }}</div>
   {{ end }}
 
   {{ if $has_attachments }}

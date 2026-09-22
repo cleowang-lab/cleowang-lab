@@ -754,6 +754,51 @@ body[data-wc-page-id="3a079e7dad19be978a318345a7749d34"] #container-publications
   margin-top: 0.2rem;
 }
 
+body[data-wc-page-id="3a079e7dad19be978a318345a7749d34"] #container-publications .isotope-item {
+  padding-top: 1.55rem;
+  padding-bottom: 1.55rem;
+  border-bottom: 1px solid rgba(0, 61, 124, 0.16);
+}
+
+body[data-wc-page-id="3a079e7dad19be978a318345a7749d34"] #container-publications .isotope-item:first-child {
+  border-top: 1px solid rgba(0, 61, 124, 0.16);
+}
+
+body[data-wc-page-id="3a079e7dad19be978a318345a7749d34"] #container-publications .publication-list-item {
+  margin-bottom: 0;
+  padding-left: 1.75rem;
+}
+
+body[data-wc-page-id="3a079e7dad19be978a318345a7749d34"] #container-publications .pub-icon {
+  top: 0.35rem;
+  color: #7a7f87;
+}
+
+body[data-wc-page-id="3a079e7dad19be978a318345a7749d34"] #container-publications .publication-title-link {
+  display: inline;
+  font-size: 1.22rem;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+body[data-wc-page-id="3a079e7dad19be978a318345a7749d34"] #container-publications .publication-authors {
+  margin-top: 0.35rem;
+  font-size: 0.94rem;
+  line-height: 1.55;
+}
+
+body[data-wc-page-id="3a079e7dad19be978a318345a7749d34"] #container-publications .publication-output {
+  margin-top: 0.25rem;
+  color: #6c757d;
+  font-size: 0.86rem;
+  font-style: italic;
+  line-height: 1.45;
+}
+
+body[data-wc-page-id="3a079e7dad19be978a318345a7749d34"] #container-publications .btn-links {
+  margin-top: 0.7rem;
+}
+
 body[data-wc-page-id="3a079e7dad19be978a318345a7749d34"] #container-publications .author-corresponding {
   color: #003d7c;
   font-size: 0.72em;
@@ -788,6 +833,15 @@ body.dark[data-wc-page-id="3a079e7dad19be978a318345a7749d34"] #container-publica
 body.dark[data-wc-page-id="3a079e7dad19be978a318345a7749d34"] #container-publications .author-highlighted,
 body.dark[data-wc-page-id="3a079e7dad19be978a318345a7749d34"] #container-publications .publication-meta {
   color: #f8f8f2 !important;
+}
+
+body.dark[data-wc-page-id="3a079e7dad19be978a318345a7749d34"] #container-publications .isotope-item {
+  border-color: rgba(142, 197, 255, 0.22);
+}
+
+body.dark[data-wc-page-id="3a079e7dad19be978a318345a7749d34"] #container-publications .pub-icon,
+body.dark[data-wc-page-id="3a079e7dad19be978a318345a7749d34"] #container-publications .publication-output {
+  color: #adb5bd;
 }
 
 body.dark[data-wc-page-id="3a079e7dad19be978a318345a7749d34"] #container-publications .author-corresponding {
