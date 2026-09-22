@@ -2,16 +2,18 @@
 banner:
   caption: '<span class="hero-image-credit">Purkinje Nerve cell, TEM (<a href="https://www.sciencephoto.com/media/1399949/view" target="_blank" rel="noopener">SciPhotoLib</a>)</span>'
   image: "Purkinje_nerve_cell_TEM.jpg"
-title: RESEARCH OUTPUT
+title: ""
 subtitle: All the publications can be found on [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=1SQy-gQAAAAJ) {{< icon name="google-scholar" pack="ai" >}}
 view: list
 ---
 
+<style>
+body[data-wc-page-id="3a079e7dad19be978a318345a7749d34"] .universal-wrapper.pt-3 > h1 {
+  display: none;
+}
+</style>
+
 <div class="research-output-summary">
-  <div class="research-output-heading">
-    <i class="fas fa-book-open" aria-hidden="true"></i>
-    <span>Research output</span>
-  </div>
   <div class="research-output-grid">
     <div class="research-output-years" aria-label="Research output per year">
       <div class="research-output-label">Research output per year</div>
