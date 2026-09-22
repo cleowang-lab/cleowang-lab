@@ -26,7 +26,11 @@
 
 <div class="view-list view-list-item{{ if eq $item.Type "publication" }} publication-list-item{{ end }}">
   <i class="{{$icon_pack}} {{$icon}} pub-icon" aria-hidden="true"></i>
-  <a{{ if eq $item.Type "publication" }} class="publication-title-link"{{ end }} href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
+  {{ if eq $item.Type "publication" }}
+  <span class="publication-title-link">{{ $item.Title }}</span>
+  {{ else }}
+  <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
+  {{ end }}
 
   {{ if eq $item.Type "event" }}
   <div class="article-metadata">
