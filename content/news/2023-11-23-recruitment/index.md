@@ -1,6 +1,5 @@
 ---
 date: "2025-05-14"
-authors: [admin]
 image:
   caption: ''
   placement: 2
@@ -14,6 +13,22 @@ title: Opportunities in CWang Lab
 #   name: PDF
 #   url: file/Bio-X_Poster-Xiaotao-Shen.pdf
 ---
+
+<style>
+body.news-detail-page .article-container,
+body.news-detail-page .article-metadata,
+body.news-detail-page .article-style,
+body.news-detail-page .article-style h2,
+body.news-detail-page .article-style h3,
+body.news-detail-page .article-style h4,
+body.news-detail-page .article-style h5,
+body.news-detail-page .article-style h6 {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+body.news-detail-page .article-container.pt-3 > h1 {
+  font-family: "Oswald", "Arial Narrow", sans-serif;
+}
+</style>
 
 **Job Opportunities in CWang Lab at Nanyang Technological University (NTU), Singapore**
 

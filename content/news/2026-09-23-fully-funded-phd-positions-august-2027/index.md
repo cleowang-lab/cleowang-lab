@@ -1,6 +1,5 @@
 ---
 date: "2026-09-23"
-authors: [admin]
 image:
   caption: ''
   placement: 2
@@ -8,6 +7,22 @@ math: true
 commentable: true
 title: Two Fully Funded PhD Positions for August 2027 Intake
 ---
+
+<style>
+body.news-detail-page .article-container,
+body.news-detail-page .article-metadata,
+body.news-detail-page .article-style,
+body.news-detail-page .article-style h2,
+body.news-detail-page .article-style h3,
+body.news-detail-page .article-style h4,
+body.news-detail-page .article-style h5,
+body.news-detail-page .article-style h6 {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+body.news-detail-page .article-container.pt-3 > h1 {
+  font-family: "Oswald", "Arial Narrow", sans-serif;
+}
+</style>
 
 The CWang Lab is recruiting **two PhD students** for the **August 2027 intake**. We welcome motivated candidates who have experience in studying aging and neurodegenerative diseases using interdisciplinary approaches in structural biology, biochemistry, cell biology, and multi-omics.
 

@@ -1,6 +1,5 @@
 ---
 date: "2024-06-05"
-authors: [admin]
 image:
   caption: ''
   placement: 2
@@ -13,6 +12,22 @@ title: Paper accepted in Nature
 #   name: PDF
 #   url: file/Bio-X_Poster-Xiaotao-Shen.pdf
 ---
+
+<style>
+body.news-detail-page .article-container,
+body.news-detail-page .article-metadata,
+body.news-detail-page .article-style,
+body.news-detail-page .article-style h2,
+body.news-detail-page .article-style h3,
+body.news-detail-page .article-style h4,
+body.news-detail-page .article-style h5,
+body.news-detail-page .article-style h6 {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+body.news-detail-page .article-container.pt-3 > h1 {
+  font-family: "Oswald", "Arial Narrow", sans-serif;
+}
+</style>
 
 Our paper Structure and topography of the synaptic V-ATPase–synaptophysin complex has been accepted for publication in Cell Host & Microbe. 
 

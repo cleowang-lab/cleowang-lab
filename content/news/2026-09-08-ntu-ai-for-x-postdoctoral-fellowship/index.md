@@ -1,6 +1,5 @@
 ---
 date: "2026-09-08"
-authors: [admin]
 image:
   caption: ''
   placement: 2
@@ -8,6 +7,22 @@ math: true
 commentable: true
 title: NTU AI-for-X Postdoctoral Fellowship Opportunity in CWang Lab
 ---
+
+<style>
+body.news-detail-page .article-container,
+body.news-detail-page .article-metadata,
+body.news-detail-page .article-style,
+body.news-detail-page .article-style h2,
+body.news-detail-page .article-style h3,
+body.news-detail-page .article-style h4,
+body.news-detail-page .article-style h5,
+body.news-detail-page .article-style h6 {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+body.news-detail-page .article-container.pt-3 > h1 {
+  font-family: "Oswald", "Arial Narrow", sans-serif;
+}
+</style>
 
 We are looking for early-career researchers interested in applying for the [NTU AI-for-X Postdoctoral Fellowship](https://www.ntu.edu.sg/research/research-careers/ntu-ai-for-x-postdoctoral-fellowship) to develop AI-driven methods for cryo-EM/ET, automated data analysis, and the structural study of native neuronal systems.
 
