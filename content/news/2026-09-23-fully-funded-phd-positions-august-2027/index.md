@@ -9,7 +9,7 @@ commentable: true
 title: Two Fully Funded PhD Positions for August 2027 Intake
 ---
 
-The CWang Lab at Nanyang Technological University (NTU), Singapore is recruiting **two fully funded PhD students** for the **August 2027 intake**. We welcome motivated candidates who are interested in studying aging and neurodegenerative diseases using interdisciplinary approaches in structural biology, biochemistry, cell biology, and multi-omics.
+The CWang Lab is recruiting **two PhD students** for the **August 2027 intake**. We welcome motivated candidates who have experience in studying aging and neurodegenerative diseases using interdisciplinary approaches in structural biology, biochemistry, cell biology, and multi-omics.
 
 ### Application Timeline
 
@@ -47,4 +47,3 @@ Interested candidates are encouraged to contact Dr. Chuchu Wang before submittin
 Please use the email subject line:
 
 `PhD Application - August 2027 - Your Name`
-

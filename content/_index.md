@@ -34,7 +34,7 @@ sections:
         <div class="latest-news-date">Sep 23, 2026</div>
         <div class="latest-news-copy">
           <a class="latest-news-title" href="/news/2026-09-23-fully-funded-phd-positions-august-2027/">Two Fully Funded PhD Positions for August 2027 Intake</a>
-          <p>The CWang Lab is recruiting two fully funded PhD students for August 2027. Applications are open from 1 October to 15 November 2026, with preference given to Master's graduates with electron microscopy or biochemistry experience.</p>
+          <p>The CWang Lab is recruiting two PhD students for the August 2027 intake. We welcome motivated candidates who have experience in studying aging and neurodegenerative diseases using interdisciplinary approaches in structural biology, biochemistry, cell biology, and multi-omics.</p>
         </div>
         <a class="latest-news-link" href="/news/2026-09-23-fully-funded-phd-positions-august-2027/">Read more</a>
       </div>
