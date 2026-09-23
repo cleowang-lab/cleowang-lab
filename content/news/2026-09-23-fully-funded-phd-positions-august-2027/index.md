@@ -50,7 +50,7 @@ Candidates should be curious, self-motivated, collaborative, and interested in l
 Each position includes:
 
 * Full scholarship support
-* A monthly stipend of **SGD 3,000 + living support**
+* A monthly stipend of **S$3000+**
 * Funding for one conference during the PhD, including airfare and accommodation
 * Access to advanced research facilities and interdisciplinary mentorship at NTU
 
