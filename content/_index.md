@@ -31,12 +31,12 @@ sections:
     title: LATEST NEWS
     text: |-
       <div class="latest-news-strip">
-        <div class="latest-news-date">Sep 8, 2026</div>
+        <div class="latest-news-date">Sep 23, 2026</div>
         <div class="latest-news-copy">
-          <a class="latest-news-title" href="/news/2026-09-08-ntu-ai-for-x-postdoctoral-fellowship/">NTU AI-for-X Postdoctoral Fellowship Opportunity in CWang Lab</a>
-          <p>We are looking for early-career researchers interested in applying for the NTU AI-for-X Postdoctoral Fellowship to develop AI-driven methods for cryo-EM/ET, automated data analysis, and the structural study of native neuronal systems.</p>
+          <a class="latest-news-title" href="/news/2026-09-23-fully-funded-phd-positions-august-2027/">Two Fully Funded PhD Positions for August 2027 Intake</a>
+          <p>The CWang Lab is recruiting two fully funded PhD students for August 2027. Applications are open from 1 October to 15 November 2026, with preference given to Master's graduates with electron microscopy or biochemistry experience.</p>
         </div>
-        <a class="latest-news-link" href="/news/2026-09-08-ntu-ai-for-x-postdoctoral-fellowship/">Read more</a>
+        <a class="latest-news-link" href="/news/2026-09-23-fully-funded-phd-positions-august-2027/">Read more</a>
       </div>
   design:
     columns: "1"
