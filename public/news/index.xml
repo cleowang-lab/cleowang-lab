@@ -2,12 +2,16 @@
 body.news-detail-page .article-container,
 body.news-detail-page .article-metadata,
 body.news-detail-page .article-style,
+body.news-detail-page .article-style p,
+body.news-detail-page .article-style ul,
+body.news-detail-page .article-style ol,
+body.news-detail-page .article-style li,
 body.news-detail-page .article-style h2,
 body.news-detail-page .article-style h3,
 body.news-detail-page .article-style h4,
 body.news-detail-page .article-style h5,
 body.news-detail-page .article-style h6 {
-font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif !important;
 }
 body.news-detail-page .article-container.pt-3 > h1 {
 font-family: "Oswald", "Arial Narrow", sans-serif;
@@ -46,12 +50,16 @@ font-family: "Oswald", "Arial Narrow", sans-serif;
 body.news-detail-page .article-container,
 body.news-detail-page .article-metadata,
 body.news-detail-page .article-style,
+body.news-detail-page .article-style p,
+body.news-detail-page .article-style ul,
+body.news-detail-page .article-style ol,
+body.news-detail-page .article-style li,
 body.news-detail-page .article-style h2,
 body.news-detail-page .article-style h3,
 body.news-detail-page .article-style h4,
 body.news-detail-page .article-style h5,
 body.news-detail-page .article-style h6 {
-font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif !important;
 }
 body.news-detail-page .article-container.pt-3 > h1 {
 font-family: "Oswald", "Arial Narrow", sans-serif;
@@ -91,12 +99,16 @@ font-family: "Oswald", "Arial Narrow", sans-serif;
 body.news-detail-page .article-container,
 body.news-detail-page .article-metadata,
 body.news-detail-page .article-style,
+body.news-detail-page .article-style p,
+body.news-detail-page .article-style ul,
+body.news-detail-page .article-style ol,
+body.news-detail-page .article-style li,
 body.news-detail-page .article-style h2,
 body.news-detail-page .article-style h3,
 body.news-detail-page .article-style h4,
 body.news-detail-page .article-style h5,
 body.news-detail-page .article-style h6 {
-font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif !important;
 }
 body.news-detail-page .article-container.pt-3 > h1 {
 font-family: "Oswald", "Arial Narrow", sans-serif;
@@ -184,12 +196,16 @@ font-family: "Oswald", "Arial Narrow", sans-serif;
 body.news-detail-page .article-container,
 body.news-detail-page .article-metadata,
 body.news-detail-page .article-style,
+body.news-detail-page .article-style p,
+body.news-detail-page .article-style ul,
+body.news-detail-page .article-style ol,
+body.news-detail-page .article-style li,
 body.news-detail-page .article-style h2,
 body.news-detail-page .article-style h3,
 body.news-detail-page .article-style h4,
 body.news-detail-page .article-style h5,
 body.news-detail-page .article-style h6 {
-font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif !important;
 }
 body.news-detail-page .article-container.pt-3 > h1 {
 font-family: "Oswald", "Arial Narrow", sans-serif;
