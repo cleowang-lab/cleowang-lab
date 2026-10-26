@@ -3,13 +3,15 @@ name = "ntu2"
 
 [light]
   # Primary
-  primary = "#007C48"
+  primary = "#003d7c"
+  link = "#003d7c"
+  link_hover = "#002f5f"
 
   # Menu
   menu_primary = "#fff"
   menu_text = "#001e61"
-  menu_text_active = "#007C48"
-  menu_title = "#007C48"
+  menu_text_active = "#003d7c"
+  menu_title = "#003d7c"
 
   # Home sections
   home_section_odd = "rgb(255, 255, 255)"

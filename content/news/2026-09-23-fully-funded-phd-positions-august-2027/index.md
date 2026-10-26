@@ -4,7 +4,6 @@ image:
   caption: ''
   placement: 2
 math: true
-commentable: true
 title: Two Fully Funded PhD Positions for August 2027 Intake
 ---
 

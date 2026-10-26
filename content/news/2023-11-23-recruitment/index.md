@@ -5,7 +5,6 @@ image:
   placement: 2
   preview_only: true
 math: true
-commentable: true
 title: Opportunities in CWang Lab
 # links:
 # - icon: file-pdf

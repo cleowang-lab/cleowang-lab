@@ -4,7 +4,6 @@ image:
   caption: ''
   placement: 2
 math: true
-commentable: true
 title: Paper accepted in Nature
 # links:
 # - icon: file-pdf

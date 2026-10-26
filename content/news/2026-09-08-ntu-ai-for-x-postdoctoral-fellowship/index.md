@@ -4,7 +4,6 @@ image:
   caption: ''
   placement: 2
 math: true
-commentable: true
 title: NTU AI-for-X Postdoctoral Fellowship Opportunity in CWang Lab
 ---
 
