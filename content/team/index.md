@@ -191,6 +191,22 @@ sections:
           </div>
         </div>
 
+        <div class="team-member-card">
+          <div class="team-member-photo-wrap" style="display:flex;justify-content:center;">
+            <img class="team-member-photo" src="/image/team-headshots/Yao%20WANG.jpg" alt="Yao WANG" width="180" height="180">
+          </div>
+          <div class="team-member-details" style="min-width:0;">
+            <h3 class="team-member-name">Yao WANG</h3>
+            <p class="team-member-affiliation">
+              Visiting Postdoctoral Fellow (20261019-Present)<br>
+              Associate Chief Physician, Renmin Hospital of Wuhan University
+            </p>
+            <div class="team-member-social" aria-label="Yao WANG social links">
+              <a href="mailto:CS-YAO.WANG@ntu.edu.sg" aria-label="Email" title="Email Yao WANG"><i class="fas fa-envelope" aria-hidden="true"></i></a>
+            </div>
+          </div>
+        </div>
+
         <h2 class="team-member-category">Undergraduate Intern</h2>
         <div class="team-member-card">
           <div class="team-member-photo-wrap" style="display:flex;justify-content:center;">
