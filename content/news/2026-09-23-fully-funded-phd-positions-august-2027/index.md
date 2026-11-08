@@ -31,7 +31,7 @@ The CWang Lab is recruiting **two PhD students** for the **August 2027 intake**.
 
 ### Application Timeline
 
-Applications for the August 2027 intake are open from **1 October 2026 to 15 November 2026**. Applicants must meet the official NTU admission requirements and submit their formal application within this period. Please review the [NTU PhD programme and application information](https://www.ntu.edu.sg/education/graduate-programme/doctor-of-philosophy#programme) before applying.
+Applications for the August 2027 intake are open from **1 October 2026 to 15 November 2026**. Applicants must meet the official NTU admission requirements and submit their formal application within this period. Please review the [NTU PhD programme and application information](https://www.ntu.edu.sg/medicine/education/graduate-programmes/phd-by-research-programme/admissions-applications) before applying.
 
 ### Preferred Background
 
